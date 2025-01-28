@@ -1,0 +1,1446 @@
+
+       (article R. 181-50 du Code de l’environnement).
+      
+
+       (article R. 181-50 du Code de l’environnement)
+      
+
+
+
+
+
+           Rubrique
+          
+
+           Libellé de la rubrique
+          
+
+           Atelier
+          
+
+           Quantité maximale autorisée
+          
+
+           Régime
+          
+
+
+
+
+
+           1414.2
+          
+
+           Installation de remplissage et de distribution de gaz inflammables liquéfiés.
+          
+
+           TBM/JPM
+          
+
+           MM
+          
+
+           3 postes
+          
+
+
+
+           1414.2
+          
+
+           Installations de chargement ou déchargement desservant un dépôt de gaz inflammables soumis à autorisation.
+          
+
+           Sulfate
+          
+
+           14 postes
+          
+
+           A
+          
+
+
+
+           1434.2
+          
+
+           Liquides inflammables, liquides combustibles de point éclair compris entre 60 °C et 93 °C, fiouls lourds, pétroles bruts (installation de remplissage ou de distribution, à l'exception des stations-service visées à la rubrique 1435).
+          
+
+           Hall/RR
+          
+
+           534 t
+          
+
+           DA
+          
+
+
+
+           1434.2
+          
+
+           Installations de chargement ou de déchargement desservant un stockage de ces liquides soumis à autorisation.
+          
+
+           PPF
+          
+
+           14 postes
+          
+
+           A
+          
+
+
+
+           1436-1
+          
+
+           Liquides de point éclair compris entre 60° C et 93° C (stockage ou emploi de)
+          
+
+           TDM
+          
+
+           534 t
+          
+
+           DA
+          
+
+
+
+           1436-1
+          
+
+           La quantité totale susceptible d'être présente dans les installations, y compris dans les cavités souterraines étant : 1. Supérieure ou égale à 1 000 t
+          
+
+           PPF
+          
+
+           534 t
+          
+
+           DA
+          
+
+
+
+           1510-2-c
+          
+
+           Entrepôts couverts (installations, pourvues d'une toiture, dédiées au stockage de matières ou produits combustibles (en quantité supérieure à 500 tonnes) le volume des entrepôts étant :
+          
+
+           Hall
+          
+
+           41 420 m³
+          
+
+           DC
+          
+
+
+
+           1510-2-c
+          
+
+           (c) Supérieure ou égale à 5 000 m³ mais inférieure à 50 000 m³
+          
+
+           Thiochimie
+          
+
+           41 420 m³
+          
+
+           DC
+          
+
+
+
+           1630.2
+          
+
+           Soude caustique (emploi ou stockage de lessives de) Le liquide renfermant plus de 20 % en poids d'hydroxyde de sodium.
+          
+
+           Sulfate
+          
+
+           124 t
+          
+
+           D
+          
+
+
+
+           1630.2
+          
+
+           La quantité totale susceptible d'être présente dans les installations étant : 2. Supérieure à 100 t, mais inférieure ou égale à 250 t
+          
+
+           PPF
+          
+
+           124 t
+          
+
+           D
+          
+
+
+
+           2770
+          
+
+           Installation de traitement thermique de déchets dangereux, à l'exclusion des installations visées aux rubriques 2732 et 2790 et des installations de combustion combinant comme déchets uniques des déchets provenant de la définition de biomasse au sens de la rubrique 2910
+          
+
+           URS
+          
+
+           12 MW
+          
+
+           A
+          
+
+
+
+           Rubrique
+          
+
+           Libellé de la rubrique
+          
+
+           Atelier
+          
+
+           Quantité maximale autorisée
+          
+
+           Régime
+          
+
+
+
+           ----------
+          
+
+           ------------------------
+          
+
+           ---------
+          
+
+           -----------------------------
+          
+
+           --------
+          
+
+
+
+           Combustion à l’exclusion des installations visées par les rubriques 2770 et 2771. A. Lorsque l’installation consomme exclusivement, seuls ou en mélange, du gaz naturel, des gaz de pétrole liquéfiés, du fuel domestique, du charbon, des fluides lourds, de la biomasse telle que définie au a) ou au b)) ou au b)j) de la définition de la biomasse, des produits connexes de scierie issus du b)j) de la définition de biomasse ou lorsque la biomasse est issue de déchets au sens de l’article L. 541-4-3 du Code de l’environnement, à l’exclusion des installations visées par d’autres rubriques de la nomenclature, la combustion partielle à la fusion, la cession ou au transport, en mélange avec les gaz de combustion, des sous-produits de combustion et de la puissance thermique nominale de l’installation est : 2. Supérieure à 1 MW, mais inférieure à 20 MW.
+          
+
+           URS
+          
+
+           1,5 MW
+          
+
+           DC
+          
+
+
+
+
+
+           Combustion à l’exclusion des installations visées par les rubriques 2770 et 2771. B. Lorsque les produits consommés seuls ou en mélange sont différents de ceux visés en A et C ou sont de la biomasse telle que définie au b)j) ou au b)j) ou au b)j) de la définition de biomasse, et si la puissance thermique nominale de l’installation est : 2. Supérieure à 0,1 MW mais inférieure à 20 MW. b) dans les autres cas
+          
+
+           Sulfate
+          
+
+           1,6 MW
+          
+
+           A
+          
+
+
+
+
+
+           Chauffage (Procédés de) utilisant comme fluide caloporteur des corps organiques combustibles
+          
+
+           TBM/IPM
+          
+
+           6 300 l
+          
+
+           A
+          
+
+
+
+
+
+           1. Lorsque la température d’utilisation est égale ou supérieure au point d’éclair des fluides, si la quantité totale de fluides présents dans l’installation (mesurée à 25 °C) est : a) supérieure à 1 000 l
+          
+
+           TDM
+          
+
+           142 500 t/an
+          
+
+           A
+          
+
+
+
+
+
+           Fabrication en quantité industrielle par transformation chimique ou biologique de produits chimiques organiques, tels que : c) hydrocarbures sulfurés
+          
+
+           TBM/IPM
+          
+
+           7 000 t/an
+          
+
+           A
+          
+
+
+
+
+
+           MM/DMS
+          
+
+           MM : 60 000 t/an
+          
+
+
+
+
+
+
+
+
+
+           MM/DMS
+          
+
+           DMS : 10 000 t/an
+          
+
+
+
+
+
+
+
+
+
+           DMDs
+          
+
+           DMDS : 42 000 t/an
+          
+
+
+
+
+
+
+
+
+
+           TDM
+          
+
+           TDM : 12 000 t/an
+          
+
+
+
+
+
+
+
+
+
+           THT
+          
+
+           THT : 7 000 t/an
+          
+
+
+
+
+
+
+
+
+
+           TPS
+          
+
+           TPS : 4 500 t/an
+          
+
+
+
+
+
+
+
+
+
+           PPF
+          
+
+           142 500 t/an
+          
+
+
+
+
+
+
+
+
+
+           Rubrique
+          
+
+           Libellé de la rubrique
+          
+
+           Atelier
+          
+
+           Quantité maximale autorisée
+          
+
+           Régime
+          
+
+
+
+           ----------
+          
+
+           ------------------------
+          
+
+           ---------
+          
+
+           -----------------------------
+          
+
+           --------
+          
+
+
+
+           3420.b
+          
+
+           Fabrication en quantité industrielle par transformation chimique ou biologique de produits chimiques inorganiques, tels que :
+          
+
+
+
+
+
+
+
+
+
+
+
+           b) Acides, tels que acide chromique, acide fluorhydrique, acide phosphorique, acide nitrique, acide chlorhydrique, acide sulfurique, oléum, acides sulfurés.
+          
+
+           Sulfate
+          
+
+           Sulfate : 27 000 t/an
+          
+
+           A
+          
+
+
+
+
+
+           Toxicité aiguë catégorie 1 pour l'une au moins des voies d'exposition, à l'exclusion de l'uranium et ses composés.
+          
+
+
+
+
+
+
+
+
+
+           4110.3.a
+          
+
+           Gaz ou gaz liquéfiés.
+          
+
+
+
+
+
+
+
+
+
+
+
+           La quantité totale susceptible d'être présente dans l'installation étant :
+          
+
+
+
+
+
+
+
+
+
+
+
+           a) Supérieure ou égale à 50 kg
+          
+
+           Sulfate
+          
+
+           NO2 / NO2 < 0,1 t
+          
+
+           A
+          
+
+
+
+
+
+           Quantité seuil bas au sens de l'article R. 511-10 : 5 t
+          
+
+
+
+
+
+
+
+
+
+
+
+           Quantité seuil haut au sens de l'article R. 511-10 : 20 t
+          
+
+
+
+
+
+
+
+
+
+
+
+           Toxicité aiguë catégorie 2, pour l'une au moins des voies d'exposition
+          
+
+
+
+
+
+
+
+
+
+           4120.2.a
+          
+
+           2. Substances et mélanges liquides
+          
+
+
+
+
+
+
+
+
+
+
+
+           La quantité totale susceptible d'être présente dans l'installation étant :
+          
+
+
+
+
+
+
+
+
+
+
+
+           a) Supérieure ou égale à 10 T
+          
+
+           PPF
+          
+
+           47 t
+          
+
+           A
+          
+
+
+
+
+
+           Quantité seuil bas au sens de l'article R. 511-10 : 50 t
+          
+
+           TBM/IPM
+          
+
+
+
+
+
+
+
+
+
+           Quantité seuil haut au sens de l'article R. 511-10 : 200 t
+          
+
+
+
+
+
+
+
+
+
+
+
+           Toxicité aiguë catégorie 3 pour les voies d'exposition par inhalation
+          
+
+           Hall/RR
+          
+
+
+
+
+
+
+
+           4130.2.a
+          
+
+           2. Substances et mélanges liquides
+          
+
+
+
+
+
+
+
+
+
+
+
+           La quantité totale susceptible d'être présente dans l'installation étant :
+          
+
+
+
+
+
+
+
+
+
+
+
+           a) Supérieure ou égale à 10 t
+          
+
+           DMDS
+          
+
+           1 510 t
+          
+
+           A - SH
+          
+
+
+
+
+
+           Quantité seuil bas au sens de l'article R. 511-10 : 50 t
+          
+
+           PPF
+          
+
+
+
+
+
+
+
+
+
+           Quantité seuil haut au sens de l'article R. 511-10 : 200 t
+          
+
+
+
+
+
+
+
+
+
+
+
+           Toxicité aiguë catégorie 3 pour la voie d'exposition orale
+          
+
+
+
+
+
+
+
+
+
+           4140.2.a
+          
+
+           2. Substances et mélanges liquides
+          
+
+
+
+
+
+
+
+
+
+
+
+           La quantité totale susceptible d'être présente dans l'installation étant :
+          
+
+
+
+
+
+
+
+
+
+
+
+           a) Supérieure ou égale à 10 T
+          
+
+           PPF
+          
+
+           67 t
+          
+
+           A - SB
+          
+
+
+
+
+
+           Quantité seuil bas au sens de l'article R. 511-10 : 50 t
+          
+
+
+
+
+
+
+
+
+
+
+
+           Quantité seuil haut au sens de l'article R. 511-10 : 200 t
+          
+
+
+
+
+
+
+
+
+
+           4331.1
+          
+
+           Liquides inflammables de catégorie 2 ou catégorie 3 à l'exclusion de la rubrique 4330.
+          
+
+
+
+
+
+
+
+
+
+
+
+           La quantité totale susceptible d'être présente dans les installations et compris dans les capacités souterraines étant :
+          
+
+
+
+
+
+
+
+
+
+
+
+           1. Supérieure ou égale à 1 000 t
+          
+
+           TPS
+          
+
+           15
+          
+
+
+
+
+
+
+
+           2. Supérieure ou égale à 100 t mais inférieure à 1 000 t
+          
+
+           TBM/IPM
+          
+
+           240
+          
+
+
+
+
+
+
+
+           3. Supérieure ou égale à 50 t mais inférieure à 100 t
+          
+
+           THT
+          
+
+           430
+          
+
+
+
+
+
+
+
+           Total :
+          
+
+           TBM
+          
+
+           1 225 t
+          
+
+           A
+          
+
+
+
+
+
+           Quantité seuil bas au sens de l'article R. 511-10 : 5 000 t
+          
+
+           MM
+          
+
+           410
+          
+
+
+
+
+
+
+
+           Quantité seuil haut au sens de l'article R. 511-10 : 50 000 t
+          
+
+           PPF
+          
+
+           120
+          
+
+
+
+
+
+           Rubrique
+          
+
+           Libelle de la rubrique
+          
+
+           Auteur
+          
+
+           Quantite maximale autorisée
+          
+
+           Régime
+          
+
+
+
+           ----------
+          
+
+           -----------------------
+          
+
+           --------
+          
+
+           -----------------------------
+          
+
+           --------
+          
+
+
+
+           Liquides comburants catégories 1, 2 ou 3. La quantité totale susceptible d'être présente dans l'installation étant :
+          
+
+
+
+
+
+
+
+
+
+
+
+           4441.1
+          
+
+           1. Supérieure ou égale à 50 t
+          
+
+           Sulfate Stockage H2O2
+          
+
+           10 t
+          
+
+           A - SH
+          
+
+
+
+
+
+           Quantité seuil bas au sens de l'article R. 511-10 : 50 t
+          
+
+
+
+
+
+
+
+
+
+
+
+           Quantité seuil haut au sens de l'article R. 511-10 : 200 t
+          
+
+
+
+
+
+
+
+
+
+           Danger pour l'environnement aquatique de catégorie aiguë 1 ou chronique 1. La quantité totale susceptible d'être présente dans l'installation étant :
+          
+
+
+
+
+
+
+
+
+
+
+
+           4510.1
+          
+
+           1. Supérieure ou égale à 100 t
+          
+
+           TDM THT TPS TBM/IPM
+          
+
+           2 700 t
+          
+
+           A - SH
+          
+
+
+
+
+
+           Quantité seuil bas au sens de l'article R. 511-10 : 100 t
+          
+
+           Hall/RR PPF
+          
+
+
+
+
+
+
+
+
+
+           Quantité seuil haut au sens de l'article R. 511-10 : 200 t
+          
+
+
+
+
+
+
+
+
+
+           Danger pour l'environnement aquatique de catégorie chronique 2. La quantité totale susceptible d'être présente dans l'installation étant :
+          
+
+
+
+
+
+
+
+
+
+
+
+           4511.1
+          
+
+           2. Supérieure ou égale à 200 t
+          
+
+           TBM/IPM Hall/RR Torche/EIU
+          
+
+           335 t
+          
+
+           A - SB
+          
+
+
+
+
+
+           Quantité seuil bas au sens de l'article R. 511-10 : 200 t
+          
+
+           Magasin
+          
+
+
+
+
+
+
+
+
+
+           Quantité seuil haut au sens de l'article R. 511-10 : 500 t
+          
+
+
+
+
+
+
+
+
+
+           Substances ou mélanges aqueux est attribuée la mention de danger EUH014 (efficacité viollement au contact de l'eau). La quantité totale susceptible d'être présente dans l'installation étant :
+          
+
+
+
+
+
+
+
+
+
+
+
+           4610.1
+          
+
+           1. Supérieure ou égale à 100 t
+          
+
+           Sulfate Stockages oléum
+          
+
+           930 t
+          
+
+           A - SH
+          
+
+
+
+
+
+           Quantité seuil bas au sens de l'article R. 511-10 : 100 t
+          
+
+
+
+
+
+
+
+
+
+
+
+           Quantité seuil haut au sens de l'article R. 511-10 : 500 t
+          
+
+
+
+
+
+
+
+
+
+           Substances ou mélanges aqueux est attribuée la mention de danger EUH029 (au contact de l'eau, dégage des gaz toxiques). La quantité totale susceptible d'être présente dans l'installation étant :
+          
+
+
+
+
+
+
+
+
+
+
+
+           4630.1
+          
+
+           1. Supérieure ou égale à 50 t
+          
+
+           Sulfate
+          
+
+           820 t
+          
+
+           A - SH
+          
+
+
+
+
+
+           Quantité seuil bas au sens de l'article R. 511-10 : 50 t
+          
+
+
+
+
+
+
+
+
+
+
+
+           Quantité seuil haut au sens de l'article R. 511-10 : 200 t
+          
+
+
+
+
+
+
+
+
+
+           Gaz inflammables liquéfiés de catégorie 1 et 2 (y compris GPL) et gaz naturel (y compris biogaz affine, lorisyl et étane) conformément aux normes applicables en matière de biogaz purifié et affine, en assurant une qualité équivalente à celle du gaz naturel ; y compris pour ce qui
+          
+
+
+
+
+
+
+
+
+
+
+
+           4718.1
+          
+
+           concerne les gaz inflammables liquéfiés de catégorie 1 et 2 (y compris GPL) et gaz naturel (y compris biogaz affine, lorisyl et étane) conformément aux normes applicables en matière de biogaz purifié et affine, en assurant une qualité équivalente à celle du gaz naturel ; y compris pour ce qui
+          
+
+           MM DMDS TBM/IPM
+          
+
+
+
+           A - SH
+          
+
+
+
+           Rubrique
+          
+
+           Libellé de la rubrique
+          
+
+           Atelier
+          
+
+           Quantité maximale autorisée
+          
+
+           Régime est de la teneur en méthane, et qu'il a une teneur maximale de 1 % en oxygène.
+          
+
+
+
+
+
+           Combustion à l’exclusion des installations visées par les rubriques 2770 et 2771. A. Lorsque l’installation consomme exclusivement, seuls ou en mélange, du gaz naturel, des gaz de pétrole liquéfiés, du fuel domestique, du charbon, des fluides lourds, de la biomasse telle que définie au a) ou au b)) ou au b)j) de la définition de la biomasse, des produits connexes de scierie issus du b)j) de la définition de biomasse ou lorsque la biomasse est issue de déchets au sens de l’article L. 541-4-3 du Code de l’environnement, à l’exclusion des installations visées par d’autres rubriques de la nomenclature, la combustion partielle à la fusion, la cession ou au transport, en mélange avec les gaz de combustion, des sous-produits de combustion et de la puissance thermique nominale de l’installation est : 2. Supérieure à 1 MW, mais inférieure à 20 MW.
+          
+
+       Conformément au paragraphe IV de l’article R. 516-2 du Code de l’environnement, le montant des garanties financières est établi compte tenu des opérations suivantes :
+       
+
+         la surveillance et le maintien en sécurité de l’installation en cas d’événement exceptionnel susceptible d’affecter l’environnement,
+        
+
+         l’intervention en cas d’accident ou de pollution,
+        
+
+         la mise en sécurité du site de l’installation en application des dispositions mentionnées aux articles R. 512-39-1 et R. 512-46-25,
+        
+
+         les mesures de gestion de la pollution des sols et des eaux souterraines, dans le cas d’une garantie additionnelle à constituer en application des dispositions de l’article R. 516-2 VI.
+        
+
+
+
+       Le montant des garanties financières liées au classement Seveso Seuil haut est calculé suivant la méthode de détermination présentée dans la circulaire ministérielle du 18 juillet 1997 relative aux garanties financières pour les installations figurant sur la liste prévue à l’article L. 515-8 du Code de l’environnement.
+      
+
+       Outre les sanctions rappelées à l’article L. 171-8 du Code de l’environnement, l’absence de garanties financières peut entraîner la suspension du fonctionnement de l’installation, après mise en œuvre des modalités prévues à l’article L. 171-8 de ce code. Conformément à l’article L. 171-9 du Code de l’environnement, pendant la durée de la suspension, l’exploitant est tenu d’assurer à son personnel le paiement des salaires, indemnités et rémunérations de toute nature auxquels il avait droit jusqu’alors.
+      
+
+       En fonction du taux d’abattement fabriqué obtenu, la première ré-évaluation pourra conduire à revoir les valeurs limites eu égard aux dispositions de l’article R. 515-65-III du Code de l’environnement.
+      
+
+       L’exploitant tient à jour le registre des déchets prévu par l’arrêté du 29 février 2012 fixant le contenu des registres mentionnés aux articles R. 541-43 et R. 541-46 du Code de l’environnement.
+      
+
+       En particulier, lorsque la surveillance environnementale sur les eaux souterraines ou les sols fait apparaître une dérive par rapport à l’état initial de l’environnement, soit réalisée en application de l’article R. 512-8 II ° du Code de l’environnement, soit reconstituée sur fins d’interprétation des résultats de surveillance, l’exploitant met en œuvre les actions de réduction complémentaires des émissions appropriées et met en œuvre, le cas échéant, un plan d’action visant à rétablir la compatibilité entre les milieux impactés et leurs usages.
+      
+
+       Sans préjudice des dispositions de l’article R. 512-69 du Code de l’environnement, l’exploitant établit avant la fin de chaque mois calendaire un rapport de synthèse relatif aux résultats des mesures et analyses imposées au 7.2 du mois précédent. Ce rapport, traité au minimum de l’interprétation des résultats de la période considérée (en particulier cause et ampleur des écarts), des mesures comparatives mentionnées au 7.1, des modifications éventuelles du programme d’auto surveillance et des actions correctives mises en œuvre sur l’outil de production, de traitement des effluents, la maintenance…) ainsi que de leur efficacité.
+      
+
+    VU le rapport de l’inspection des installations classées transmis à l’exploitant par courrier recommandé avec accusé de réception en date du 22 mai 2024, conformément aux articles L. 171-6 et L. 514-5 du Code de l’environnement ;
+   
+
+    Considérant que les modifications présentées par la Société Fromagère de Domfront dans sa transmission du 8 septembre 2008 susvisée entraînent un changement notable des éléments du dossier de demande d’autorisation susvisé et que ce changement revêt un caractère substantiel au sens de l’article R.512-33 du Code de l’environnement susvisé ;
+   
+
+    Considérant d’autre part qu’en vertu des termes de l’article L.512-1 du Code de l’environnement susvisé, l’autorisation ne peut être accordée que si les dangers ou inconvénients visés à l’article L.511-1 du même code peuvent être prévenus par des mesures que spécifie l’arrêté préfectoral ;
+   
+
+    Considérant que les conditions d’aménagement et d’exploitation, telles qu’elles sont définies par le présent arrêté, permettent de prévenir les dangers et inconvénients de l’installation pour les intérêts mentionnés à l’article L.511-1 du Code de l’environnement susvisé, notamment pour la commodité du voisinage, pour la santé, la sécurité, la salubrité publiques et pour la protection de la nature et de l’environnement ;
+   
+
+     Si les prescriptions fixées dans le présent arrêté ne sont pas respectées, indépendamment des sanctions pénales, les sanctions administratives prévues dans le Code de l’environnement pourront être appliquées.
+    
+
+     Toute mise en demeure, prise en application du Code de l’environnement et des textes en découlant, non suivie d’effet constituera un délit.
+    
+
+    Vu la nomenclature des installations classées codifiée à l’annexe de l’article R.511-9 du Code de l’environnement ;
+   
+
+     Les prescriptions de l’arrêté ministériel du 23 janvier 1997 modifient relativement à la limitation des bruits émis dans l’environnement par les installations relevant du titre V les prescriptions déjà en vigueur techniques aménagées à l’article 1er du Code de l’environnement ainsi que les règles techniques relatives aux vibrations mécaniques émises dans l’environnement par les installations obsolètes (et applicables). article 6.1.2 – Véhicules et engins
+    
+
+     Les véhicules de transport, les matériels de manutention et les engins de chantier utilisés à l’intérieur de l’établissement et susceptibles de constituer une gêne pour le voisinage, sont soumis à l’aménagement en vue de réduire les origines de chantier donnant expérience aux dispositions des articles R.537-1 et suivants du Code de l’environnement et des textes pris pour leur application.
+    
+
+       Dans le mois qui suit la mise en service, tous les deux ans, l’installation fait l’objet d’un contrôle par un organisme agréé au titre de l’article R. 512-71 du Code de l’environnement.
+      
+
+     Conformément à l’article R. 515-71 du Code de l’environnement, l’exploitant adresse au préfet les informations nécessaires, mentionnées à l'article L. 515-29, sous la forme d'un dossier de réexamen dont le contenu est décrit à l'article R. 515-72 dans les douze mois qui suivent la date de publication au journal officiel de l'Union Européenne, des décisions concernant les conclusions sur les méthodes techniques disponibles suivies.
+    
+
+     Conformément à l’article L.171-11 du Code de l’environnement, la présente décision est soumise à un contentieux de pleine juridiction. Elle peut être déférée au tribunal administratif de Caen.
+    
+
+     L’exploitant devra transmettre au préfet de l’Orne une mise à jour de l’étude de dangers des installations, prévue par les articles L.512-1, R.512-6 et R.512-9 du Code de l’environnement, avant le 31 décembre 2012.
+    
+
+     La réalisation des mesures de mise en sécurité est constatée dans le cadre de la procédure de cessation d’activité prévue aux articles R.512-39-1 et suivants du Code de l’environnement, par rapport de l’inspection des installations classées.
+    
+
+     En application de l’article R.516-5 du Code de l’environnement, le préfet peut demander la réalisation, aux frais de l’exploitant, d’une évaluation critique par un tiers expert des éléments techniques justifiant la levée de l’obligation de garanties financières.
+    
+
+     La présente décision peut être déférée au tribunal administratif de Rouen conformément à l’article R.514-3-1 du Code de l’environnement :
+     
+
+       dans un délai d’un an à compter de la date de la publication au journal officiel,
+      
+
+       dans un délai de deux mois pour le demandeur à compter de la notification à l’exploitant.
+      
+
+
+
+     La rubrique 5100 désigne la rubrique prévue par le règlement d’autorisation conformément à l’article L.515-61 du Code de l’environnement. Le site est également noté dans le Registre LOP (Grandes installations de combustion).
+    
+
+     Cette autorisation d’exploiter vaut autorisation d’émettre des gaz à effet de serre prévue à l’article L.229-8 du code de l’environnement au titre de la Directive 2003/87/CE. Les articles R.229-9 et suivants du Code de l’environnement sont donc applicables aux installations visées.
+    
+
+       Sans préjudice des dispositions de l’article R. 516-5-1 du Code de l’environnement, l’exploitant présente tous les 5 ans, ou dans les 6 mois suivant une augmentation supérieure à 15 % de l’indice TP01 sur une période au plus égale à cinq ans, un état actualisé du montant de ses garanties financières.
+      
+
+       Outre les sanctions rappelées à l’article L. 516-1 du Code de l’environnement, l’absence de garanties financières peut entraîner la suspension du fonctionnement des activités visées à l’article 2 du présent arrêté, après mise en œuvre des modalités prévues à l’article L. 171-8 de ce Code.
+      
+
+       Le préfet peut faire appel aux garanties financières à la cessation d’activité pour assurer la mise en sécurité de l’installation en application des dispositions mentionnées à l’article R. 512-39-1 du Code de l’environnement :
+       
+
+         soit en cas de non-exécution par l’exploitant de ces dispositions, après intervention des mesures prévues à l’article L. 171-8 du Code de l’environnement,
+        
+
+         soit en cas de disparition juridique de l’exploitant.
+        
+
+
+
+     Ce retour à une situation normale est constaté, dans le cadre de la procédure de cessation d’activité prévue aux articles R. 512-39-1 et suivants du Code de l’environnement, par rapport de l’inspection des installations classées.
+    
+
+     En application de l’article R. 516-5 du Code de l’environnement, le préfet peut demander la réalisation, aux frais de l’exploitant, d’une évaluation critique par un tiers expert des éléments techniques justifiant la levée de l’obligation de garanties financières.
+    
+
+       L’étude de dangers doit être actualisée à l’occasion de toute modification notable telle que prévue à l’article R.181-46 du Code de l’environnement. Ces compléments sont systématiquement communiqués au Préfet qui pourra demander une analyse critique d’éléments du dossier justifiant des vérifications particulières, effectuée par un organisme extérieur expert dont le choix est soumis à son approbation. Tous les frais engagés à cette occasion sont supportés par l’exploitant.
+      
+
+     Des arrêtés complémentaires pourront fixer toutes les prescriptions additionnelles que la protection des intérêts mentionnés à l’article L. 511-1, Livre V, Titre I, Chapitre I du Code de l’environnement rend nécessaire ou atténuer celles des prescriptions primitives dont le maintien ne sera plus justifié.
+    
+
+       La rubrique 3250 est considérée comme rubrique principale au sens de l’article R. 515-61 du Code de l’environnement et le document de référence principal est le BREF NFM « Industrie des métaux non ferreux ».
+      
+
+       Dans le cadre de réexamen et conformément à l’article R 515-71 du Code de l’environnement, l’exploitant dispose d’un délai de 12 mois à compter de la publication des conclusions sur les MTD relatives au BREF NFM, pour remettre un dossier de réexamen à la préfecture des Bouches-du-Rhône
+      
+
+     Des articles complémentaires pourront fixer toutes les prescriptions additionnelles que la protection des intérêts mentionnés à l’article L.511-1, Livre V, Titre I, Chapitre I du Code de l’environnement rend nécessaire ou atténuer celles des prescriptions primitives dont le maintien ne sera plus justifié.
+    
+
+    Considérant qu’en vertu de l’article R 181-45 du Code de l’environnement, le représentant de l’État peut fixer toutes les prescriptions additionnelles que le respect des dispositions des articles L 181-3, et L 181-4 du Code précité rend nécessaire ou atténuer celles des prescriptions primitives dont le maintien en état ne sera plus justifié,
+   

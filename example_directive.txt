@@ -1,0 +1,2620 @@
+
+    VU la directive 2010/75/UE du 24 novembre 2010 relative aux émissions industrielles, dite à directive IED) et les conclusions sur les meilleures techniques disponibles relatives, notamment, à l'incinération de déchets (BREF et WtE) ;
+   
+
+    VU la directive 2003/87/CE du 13 octobre 2003 établissant un système d'échange de quotas d'émission de gaz à effet de serre dans la Communauté et modifiant la directive 96/61/CE du Conseil ;
+   
+
+       L’établissement possède des installations visées par la directive 2010/75/UE du 24 novembre 2010 relative aux émissions industrielles, dite « directive IED ». Ces installations relèvent de la rubrique n° 3520-a de la nomenclature des installations classées et sont soumises aux dispositions des articles R. 515-60 à R. 515-84 du code de l’environnement.
+      
+
+       Les appareils et systèmes de protection destinés à être utilisés dans les emplacements où des atmosphères explosives peuvent se présenter doivent être sélectionnés conformément aux catégories prévues par la directive 2014/34/UE, sauf dispositions contraires prévues dans l’étude de dangers, sur la base d’une évaluation des risques correspondante.
+      
+
+       L’exploitant surveille ses émissions de gaz à effet de serre sur la base d’un plan de surveillance conforme au règlement (UE) 601/2012 du 21 juin 2012 relatif à la surveillance et à la déclaration des émissions de gaz à effet de serre au titre de la directive 2003/87/CE du Parlement européen et du Conseil. Le plan de surveillance est transmis au préfet pour approbation avant la mise en service de l’installation.
+      
+
+       Conformément à l’article R.229-20 du code de l’environnement, l’exploitant adresse au plus tard le 28 février de chaque année, la déclaration des émissions de gaz à effet de serre de l’année précédente, vérifiée par un organisme accrédité à cet effet. La déclaration des émissions est vérifiée conformément au règlement 2018/2067 concernant la vérification des données et l’accréditation des vérificateurs conformément à la directive 2003/87/CE. Le rapport du vérificateur est joint à la déclaration.
+      
+
+    VU la directive 2010/75/UE du 24 novembre 2010 relative aux émissions industrielles, dite « directive IED » et les conclusions sur les meilleures techniques disponibles relatives, notamment, à l’incinération de déchets (BREF « WI ») ;
+   
+
+    VU la directive 2003/87/CE du 13 octobre 2003 établissant un système d’échange de quotas d’émission de gaz à effet de serre dans la Communauté et modifiant la directive 96/61/CE du Conseil ;
+   
+
+       L'établissement possède des installations visées par la directive 2010/75/UE du 24 novembre 2010 relative aux émissions industrielles, dite « directive IED ». Ces installations relevant de la rubrique n° 3520-a de la nomenclature des installations classées et sont soumises aux dispositions des articles R. 515-60 à R. 515-84 du code de l'environnement.
+      
+
+       Les appareils et systèmes de protection destinés à être utilisés dans les emplacements où des atmosphères explosives peuvent se présenter doivent être sélectionnés conformément aux catégories prévues par la directive 2014/34/UE, sauf dispositions contraires prévues dans l'étude de dangers, sur la base d'une évaluation des risques correspondante.
+      
+
+       L'exploitant surveille ses émissions de gaz à effet de serre sur la base d'un plan de surveillance conforme au règlement n° 601/2012 du 21 juin 2012 relatif à la surveillance et à la déclaration des émissions de gaz à effet de serre au titre de la directive 2003/87/CE du Parlement européen et du Conseil. Le plan de surveillance est transmis au préfet pour approbation avant la mise en service de l'installation.
+      
+
+       Conformément à l'article R.229-20 du code de l'environnement, l'exploitant adresse au plus tard le 28 février de chaque année, la déclaration des émissions de gaz à effet de serre de l'année précédente, vérifiée par un organisme accrédité à cet effet. La déclaration des émissions est vérifiée conformément au règlement 2018/2067 concernant la vérification des données et l'accréditation des vérificateurs conformément à la directive 2003/87/CE. Le rapport du vérificateur est joint à la déclaration.
+      
+
+    VU la directive 2010/75/UE du 24 novembre 2010 relative aux émissions industrielles, dite « directive IED » et les conclusions sur les meilleures techniques disponibles relatives, notamment, à l'incinération de déchets (BREF à WI a) ;
+   
+
+    VU la directive 2003/87/CE du 13 octobre 2003 établissant un système d'échange de quotas d'émission de gaz à effet de serre dans la Communauté et modifiant la directive 96/61/CE du Conseil ;
+   
+
+    VU** la circulaire du 10 mai 2000 relative à la prévention des accidents majeurs impliquant des substances ou des préparations dangereuses présentes dans certaines catégories d'installations classées pour la protection de l'environnement soumises à autorisation (application de la directive Seveso II) ;
+   
+
+     Sous un mois, l'exploitant transmet, de façon conjointe avec TOTAL E&P France, les conclusions des travaux de modélisation et d'évaluation des effets des réductions d'émissions sur les concentrations de SO2, dans l'air ambiant définies par la directive 1999/30/CE du 22 avril 1999.
+    
+
+    Vu la circulaire du 10 mai 2000 relative à la prévention des accidents majeurs impliquant des substances ou des préparations dangereuses présentes dans certaines catégories d'installations classées pour la protection de l'environnement soumises à autorisation (application de la directive Seveso II) ;
+   
+
+    VU la directive 2008/105/EC du 16 décembre 2008 établissant des normes de qualité environnementale dans le domaine de l'eau,
+   
+
+    VU la directive 2006/11/CE du 15 février 2006 concernant la pollution causée par certaines substances dangereuses déversées dans le milieu aquatique de la Communauté,
+   
+
+    VU la directive 2000/60/CE du 23 octobre 2000 établissant un cadre pour une politique communautaire dans le domaine de l'eau (DCE),
+   
+
+    CONSIDÉRANT l’objectif de respect des normes de qualité environnementale dans le milieu en 2015 fixé par la directive 2000/60/CE,
+   
+
+     4 : substance pertinentes issues de la liste II de la directive 2006/11/CE
+    
+
+    VU** la circulaire du 10 mai 2000 relative à la prévention des accidents majeurs impliquant des substances ou des préparations dangereuses présentes dans certaines catégories d'installations classées pour la protection de l'environnement soumises à autorisation (application de la directive Seveso II) ;
+   
+
+    VU** la circulaire du 10 mai 2000 relative à la prévention des accidents majeurs impliquant des substances ou des préparations dangereuses présentes dans certaines catégories d'installations classées pour la protection de l'environnement soumises à autorisation (application de la directive Seveso II) ;
+   
+
+    Vu la circulaire du 10 mai 2000 relative à la prévention des accidents majeurs impliquant des substances ou des préparations dangereuses présentes dans certaines catégories d'installations classées pour la protection de l'environnement soumises à autorisation (application de la directive Seveso II) ;
+   
+
+    VU** la directive 2010/75/UE, dite « IED » relative aux émissions industrielles (prévention et réduction intégrées de la pollution), notamment son article 13, paragraphe 5, et les documents de référence sur les meilleures technologies disponibles (BREF) qui y sont rattachés ;
+   
+
+    VU** la directive IED et, en particulier le BREF LVIC (chimie inorganique en grands volumes) d'août 2007 ;
+   
+
+    VU la directive 2010/75/UE relative aux émissions industrielles, dite « IED » (Industrial Emissions Directive) ;
+   
+
+    CONSIDÉRANT que l'instruction du dossier de réexamen conduit à identifier des installations soumises à la directive IED qui ne sont pas pas conformes aux meilleures techniques disponibles (MTD) décrites dans les documents de référence (BREFs) applicables à l'établissement d'Arkema à Lacq ;
+   
+
+     Article 3 : Mise en conformité des installations au regard de la directive IED
+    
+
+     Ce guide de style vise à standardiser la présentation des documents au sein de l'entreprise. Suivez les directives suivantes pour assurer la cohérence et la clarté des communications.
+    
+
+    VU la directive 2010/75/UE relative aux émissions industrielles, dite « IED » (Industrial Emissions Directive) ;
+   
+
+       L'établissement fait partie des établissements dit « IED », visés par la section 8 du chapitre V du titre IV du Code de l'environnement car il comprend des activités visées par les dispositions prises en application de la transposition de la directive 2010/75/UE sur les émissions industrielles (rubriques 3000 de la nomenclature).
+      
+
+    VU la directive européenne 2008/105/EC du 16 décembre 2008 établissant des normes de qualité environnementale dans le domaine de l'eau ;
+   
+
+    VU la directive européenne 2006/11/CE concernant la pollution causée par certaines substances dangereuses déversées dans le milieu aquatique de la Communauté ;
+   
+
+    VU la directive européenne 2000/60/CE du 23 octobre 2000 établissant un cadre pour une politique communautaire dans le domaine de l'eau (DCE) ;
+   
+
+    Considérant l'objectif de respect des normes de qualité environnementale dans le milieu en 2015 fixé par la directive européenne 2000/60/CE ;
+   
+
+     ¹ Substances Dangereuses Prioritaires issues de l'annexe X de la DCE (tabl. A de la circulaire du 07/05/07) et de la directive "fille" de la DCE adoptée le 20 octobre 2008 (entrée en vigueur le 10 novembre 2008).
+    
+
+     ³ Autres substances pertinentes issues de la liste I de la directive 2006/11/CE (anciennement Directive 76/464/CEE) et le figurant pas à l'annexe X de la DCE (tabl. B de la circulaire du 07/05/07).
+    
+
+     ⁴ Autres substances pertinentes issues de la liste II de la directive 2006/11/CE (anciennement Directive 76/464/CEE) et autres substances, non SDP ni SP (tabl. D et E de la circulaire du 07/05/07).
+    
+
+    VU l'arrêté préfectoral complémentaire du 04 mai 2010 relatif à l'application de la directive dite « IPPC » ;
+   
+
+    Vu la directive 2008/105/EC du 16 décembre 2008 établissant des normes de qualité environnementale dans le domaine de l'eau ;
+   
+
+    Vu la directive 2000/60/CE du 23 octobre 2000 établissant un cadre pour une politique communautaire dans le domaine de l'eau (CE) ;
+   
+
+    Considérant l'objectif de respect des normes de qualité environnementale dans le milieu fixé par la directive 2000/60/CE;
+   
+
+      Vu la directive européenne n° 2010/75/UE du 24 novembre 2010 relative aux émissions industrielles (IED)
+     
+
+      Vu les arrêtés préfectoraux complémentaires du 17 octobre 2005 (NOR 1122-05-20269), du 11 août 2010 (NOR 1122-10-20053), du 4 mai 2010 sur la Directive IPPPC, du 1 février 2011 (NOR 1122-11-20012) sur la surveillance initiale RSDE, du 2 février 2012 (NOR 1122-12-20006) sur la mise à jour du classement du site, du 26 décembre 2012 (NOR 1122-12-20071), du 10 septembre 2015 (NOR 1122-15-20044) sur la directive IED et du 10 mai 2016 (NOR1122-15-20012) sur la surveillance RSDE ;
+     
+
+        Conformément aux dispositions des articles R. 541-42 à R. 541-48 du code de l’environnement relatives au contrôle des circuits de traitement des déchets, l’exploitant tient à jour un registre chronologique de la production et de l’expédition des déchets dangereux stable conformément aux dispositions nationales et contenant au moins, pour chaque flux de déchets sortants, les informations suivantes :
+        
+
+          la date de l’expédition du déchet ;
+         
+
+          la nature du déchet sortant (code du déchet au regard de la nomenclature définie à l’article R. 541-8 du code de l’environnement) ;
+         
+
+          la quantité de déchet sortant ;
+         
+
+          le nom et l’adresse de l’installation vers laquelle le déchet est expédié ;
+         
+
+          le nom et l’adresse du ou des transporteurs qui prennent en charge le déchet, ainsi que leur numéro de récépissé mentionné à l’article R. 541-53 du code de l’environnement ;
+         
+
+          le cas échéant, le numéro du ou des bordereaux de suivi de déchets ;
+         
+
+          le cas échéant, le numéro de notification prévu par le règlement (CE) n° 1013/2006 du Parlement européen et du Conseil du 14 juin 2006 concernant les transferts transfrontaliers de déchets ;
+         
+
+          le code du traitement qui va être opéré dans l’installation vers laquelle le déchet est expédié, selon les annexes I et II de la directive n° 2008/98/CE du Parlement européen et du Conseil du 19 novembre 2008 relative aux déchets et abrogeant certaines directives ;
+         
+
+          la qualification du traitement final vis-à-vis de la hiérarchie des modes de traitement définie à l’article L. 541-1 du code de l’environnement.
+         
+
+
+
+       L'exploitant s'assure que les substances et produits présents sur le site ne sont pas pas interdits au titre des réglementations européennes, et notamment :
+       
+
+         qu'il n'utilise pas, ni ne fabrique, de produits biocides contenant des substances actives ayant fait l'objet d'une décision de non-approbation au titre de la directive 98/8 et du règlement 528/2012 ;
+        
+
+         qu'il respecte les interdictions du règlement n°850/2004 sur les polluants organiques persistants.
+        
+
+         qu'il respecte les restrictions inscrites à l'annexe XVII du règlement n°1907/2006.
+        
+
+         qu'il n'utilise pas sans autorisation les substances telles quelles ou contenues dans un mélange listées à l'annexe XIV du règlement n° 1907/2006 lorsque la date est dépassée.
+        
+
+
+
+       Dans les parties de l'installation mentionnées à l'article 8.2.1 et recensées comme pouvant être à l'origine d'une explosion, les installations électriques, mécaniques, hydrauliques et pneumatiques sont conformes aux dispositions du décret du 19 novembre 1996 modifié, relatif aux appareils et aux systèmes de protection destinés à être utilisés en atmosphère explosive. Dans les zones où des atmosphères explosives peuvent se présenter, les appareils doivent être réduits au strict minimum. Les appareils et systèmes de protection destinés à être utilisés dans les emplacements ou des atmosphères explosives, peuvent se présenter doivent être sélectionnés conformément aux catégories prévues par la directive 2014/34/UE, sauf dispositions contraires prévues dans l'étude de dangers, sur la base d'une évaluation des risques correspondante. Les masses métalliques contenant ou véhiculant des produits inflammables et explosibles susceptibles d'engendrer des charges électrostatiques sont mises à la terre et reliées par des liaisons équipotentielles. Le plan des zones à risques d'explosion est porté à la connaissance de l'organisme chargé de la vérification des installations électriques.
+      
+
+      L’exploitant surveille ses émissions de gaz à effet de serre sur la base d’un plan de surveillance conforme au règlement d’exécution (UE) n° 2018/2067 du 19/12/18 concernant la vérification des données et l’accréditation des vérificateurs conformément à la directive 2003/87/CE du Parlement européen et du Conseil. Le plan de surveillance est transmis au préfet pour approbation avant la mise en service de l’installation.
+     
+
+    VU la directive européenne 2008/1/CE du 15 janvier 2008 relative à la prévention et à la réduction intégrées de la pollution (IPPC) ;
+   
+
+    VU la directive européenne 2008/105/EC du 16 décembre 2008 établissant des normes de qualité environnementale dans le domaine de l'eau ;
+   
+
+    VU la directive européenne 2006/11/CE concernant la pollution causée par certaines substances dangereuses déversées dans le milieu aquatique de la Communauté ;
+   
+
+    VU la directive européenne 2000/60/CE du 23 octobre 2000 établissant un cadre pour une politique communautaire dans le domaine de l'eau (DCE) ;
+   
+
+    Considérant l'objectif de respect des normes de qualité environnementale dans le milieu en 2015 fixé par la directive européenne 2000/60/CE ;
+   
+
+
+
+       Substances Dangereuses Prioritaires issues de l’annexe X de la DCE (tableau A de la circulaire du 07/05/07) et de la directive filière DCE adoptée le 20 octobre 2008 (anthracène et endosulfan)
+      
+
+       Substances Prioritaires issues de l’annexe X de la DCE (tableau A de la circulaire du 07/05/07)
+      
+
+       Autres substances pertinentes issues de la liste 1 de la directive 2006/11/CE (amendement Directives 76/464/CEE) et ne figurant pas à l’annexe X de la DCE (Tableau B de la circulaire du 07/05/07)
+      
+
+       Autres substances pertinentes issues de la liste 1 de la directive 2006/11/CE (amendement Directives 76/464/CEE) et autres substances, non SDP ni SP (tableau C de la circulaire du 07/05/07)
+      
+
+       Autres paramètres
+      
+
+
+
+
+     DIRECTION DE LA REGLEMENTATION
+    
+
+     Bureau des Procédures d’Utilité Publique
+    
+
+     NOR : 112B-13-20059
+    
+
+     PRÉFET DE L'ORNE Société d'Exploitation des Sources Roxane Commune de Ferrière-Bochard Le
+    
+
+     préfet de l’Orne, Chevalier de la légion d’honneur, VU la directive européenne 2008/1/CE du 15 janvier 2008 relative à la prévention et à la réduction intégrées de la pollution (IPPC) ; VU le Code de l’Environnement et notamment ses titres 1er et 4 des parties réglementaires et législatives du Livre V ; VU la nomenclature des installations classées codifiée à l’annexe de l’article R.511-9 du Code de l’Environnement ; VU l’arrêté ministériel du 29 juin 2004 modifié relatif au bilan de fonctionnement pris en application de l’article R.512-45 du Code de l’Environnement ; VU l’arrêté p
+    
+
+     réfectoral de mise à jour de l’autorisation d’exploiter du 16 juillet 2010 ; VU le bilan de fonctionnement 2000-2010, transmis par courrier du 29 novembre 2011 VU le courrier de l’exploitant en date du 14 juin 2011 demandant le bénéfice de l’antériorité concernant les rubriques
+    
+
+     n°2920-2a, 2663-2c et 1530 de la nomenclature des installations classées ; VU le courrier de l’exploitant en date du 29 avril 2013 informant l’administration de la mise en place d’une chaudière vapeur supplémentaire fonctionnant au gaz ; VU le courrier de l’exploitant en date du 6 mai 2013 apportant des éléments de réponse à une visite d’inspection du 25 avril 2013 VU le rapport et les propositions en date du 24 juin 2013 de l’inspection des installations classées ; CONSIDÉRANT que l’établissement est soumis aux dispositions de l’arrêté ministériel du 29 juin 2004 modifié qui définit les meilleures technologies disponibles et fixe les conditions dans lesquelles l’établissement doit les mettre en œuvre ; CONSIDÉRANT que le projet d’arrêté est porté à la connaissance du demandeur ;
+    
+
+
+     préfet de l’Orne, Chevalier de la légion d’honneur, VU la directive européenne 2008/1/CE du 15 janvier 2008 relative à la prévention et à la réduction intégrées de la pollution (IPPC) ; VU le Code de l’Environnement et notamment ses titres 1er et 4 des parties réglementaires et législatives du Livre V ; VU la nomenclature des installations classées codifiée à l’annexe de l’article R.511-9 du Code de l’Environnement ; VU l’arrêté ministériel du 29 juin 2004 modifié relatif au bilan de fonctionnement pris en application de l’article R.512-45 du Code de l’Environnement ; VU l’arrêté p
+    
+
+    Vu la directive n° 2000/60/CE du 23/10/00 établissant un cadre pour une politique communautaire dans le domaine de l’eau ;
+   
+
+    Considérant que la présentation de la ressource en eau et l’attente du bon état quantitatif sont des enjeux de la directive cadre sur l’eau susvisée;
+   
+
+     Le lit du cours d’eau présent à l’intérieur du site, est imperméabilisé, selon les directives des services de la police de l’eau de la DDT de l’Ome, jusqu’à la vanne d’isolement du bassin, afin d’éviter toute infiltration d’une éventuelle pollution intervenant sur le site. L’exploitant met en place un assainissement de la vanne d’isolement des rejets d’eaux pluviales, conditionné à une mesure en direct de la charge organique du cours d’eau. Les fossés qui rejoignent le Roglain sont busés pour éviter toute infiltration dans le milieu naturel en cas de pollution ou d’incendie. L’ensemble de ces travaux est réalisé avant le 31 décembre 2021".
+    
+
+    Vu la directive 2008/105/EC du 16 décembre 2008 établissant des normes de qualité environnementale dans le domaine de l'eau ;
+   
+
+    Vu la directive 2006/118/CE concernant la pollution causée par certaines substances dangereuses déversées dans le milieu aquatique de la Communauté ;
+   
+
+    Vu la directive 2000/60/CE du 23 octobre 2000 établissant un cadre pour une politique communautaire dans le domaine de l'eau (DCE) ;
+   
+
+    Considérant toutefois les normes de qualité environnementale dans le milieu en 2015 fixé par la directive européenne 2000/60/CE ;
+   
+
+    Considérant que la préservation de la ressource en eau et l'atteinte du bon état quantitatif sont des enjeux de la directive cadre sur l'eau suivie ;
+   
+
+
+     ARRÊTÉ PRÉFECTORAL COMPLÉMENTAIRE portant sur les modalités de respect de la directive IPPC Société YSCO France S.A.S. Commune d'ARGENTAN
+    
+
+
+    VU** la directive européenne 2008/1/CE du 15 janvier 2008 relative à la prévention et à la réduction intégrées de la pollution (IPPC) ;
+   
+
+    CONSIDERANT que l’application de l’arrêté ministériel du 29 juin 2004 modifié impose de mettre à jour les prescriptions applicables à l’établissement afin de répondre aux dispositions de la directive européenne IPPC, notamment en matière de limitation de la consommation d’eau et de prescription de valeurs limites de rejets atmosphériques,
+   
+
+    Vu la directive européenne 2008/105/EC du 16 décembre 2008 établissant des normes de qualité environnementale dans le domaine de l'eau ;
+   
+
+    Vu la directive européenne 2006/11/CE concernant la pollution causée par certaines substances dangereuses déversées dans le milieu aquatique de la Communauté ;
+   
+
+    Vu la directive européenne 2000/60/CE du 23 octobre 2000 établissant un cadre pour une politique communautaire dans le domaine de l'eau (DCE) ;
+   
+
+    Considérant l’objectif de respect des normes de qualité environnementale dans le milieu en 2015 fixé par la directive européenne 2000/60/CE ;
+   
+
+    VU l'arrêté préfectoral complémentaire du 4 mai 2010 relatif à l'application de la directive dite « F-Gas » ;
+   
+
+    Vu l'arrêté préfectoral complémentaire en date du 4 mai 2010 portant sur les modalités de respect des règles de la directive IPPC ;
+   
+
+    Vu la directive n° 2010/75/UE du 24/11/10 relative aux émissions industrielles (prévention et réduction intégrées de la pollution), dite Directive IED ;
+   
+
+    Vu l’arrêté préfectoral complémentaire en date du 4 mai 2010 portant sur les modalités de respect des règles de la directive IPPC ;
+   
+
+    Vu le courrier en date du 04 novembre 2013 en provenance du site YSCO confirmant le classement du site au titre de la directive IED sous la rubrique 3642-3 ;
+   
+
+    Considérant qu’il y a lieu d’activer administrativement le classement du site au titre de la directive IED au regard du courrier transmis par exploitant en date du 04 novembre 2013 ;
+   
+
+
+
+
+
+         N° de la rubrique
+        
+
+         Installations et activités concernées
+        
+
+         Régime du projet
+        
+
+         Éléments caractéristiques
+        
+
+
+
+
+
+         1532-2b
+        
+
+         Bois ou matériaux combustibles analogues, y compris les produits finis conditionnés et les produits ou déchets répondant à la définition de la biomasse et mentionnés à la rubrique 2910-A, ne relevant pas de la rubrique 1531 (sous-rubrique 8c), à l'exception des établissements recevant du public. 1. Installations de stockage de matériaux susceptibles de dégager des poussières inflammables, le volume de tels matériaux susceptibles d'être stocké étant supérieur à 50 000 m³ (A). 2. Autres installations que celles définies au 1, à l'exception des installations classées au titre de la rubrique 1510, le volume de tels matériaux susceptibles d'être stocké étant : a) Supérieur à 20 000 m³ (E). b) Supérieur à 1 000 m³ mais inférieur ou égal à 20 000 m³ (D).
+        
+
+         D
+        
+
+         Stockage extérieur de palettes : 3130 m²
+        
+
+
+
+         2925-2
+        
+
+         Accumulateurs électriques (ateliers de charge d') : 1. Lorsque la charge produit de l'hydrogène, la puissance maximale de courant continu utilisable pour cette opération étant supérieure à 50 kW (D). 2. Lorsque la charge produit de l'hydrogène, la puissance maximale de courant continu utilisable pour cette opération étant supérieure à 600 kW à l'exception des infrastructures de recharge pour véhicules électriques ouvertes au public définies par le décret n° 2017-26 du 12 janvier 2017 relatif aux infrastructures de recharge pour véhicules électriques et portant diverses mesures de transposition de la directive 2014/94/UE du Parlement européen et du Conseil du 22 octobre 2014 sur le déploiement d'une infrastructure pour carburants alternatifs (D). (1) Puissance de charge délivrable cumulée de l'ensemble des infrastructures des ateliers.
+        
+
+         D
+        
+
+         5 ateliers pour une puissance totale de 234,43 kW
+        
+
+
+
+         4130-2
+        
+
+         Toxique classe 3 pour les voies d'exposition par inhalation. 1. Substances et mélanges solides. La quantité totale susceptible d'être présente dans l'installation étant : a) Supérieure ou égale à 50 t (A). b) Supérieure ou égale à 5 t mais inférieure à 50 t (D). 2. Substances et mélanges liquides. La quantité totale susceptible d'être présente dans l'installation étant : a) Supérieure ou égale à 10 t (A). b) Supérieure ou égale à 1 t mais inférieure à 10 t (D). 3. Gaz ou gaz liquéfiés. La quantité totale susceptible d'être présente dans l'installation étant : a) Supérieure ou égale à 2 t (A). b) Supérieure ou égale à 200 kg, mais inférieure à 2 t (D). Liquides de point éclair compris entre 0 °C et 93 °C (I), à l'exception des boissons alcooliques (alcoolique ou emploi de).
+        
+
+         D
+        
+
+         9,79 tonnes (7,5 m³) d'acide nitrique à 53 % (densité à 1,305)
+        
+
+
+
+         1436
+        
+
+         La quantité totale susceptible d'être présente dans les installations, comprise dans les cavités souterraines étant : 1. Supérieure ou égale à 1 000 t. 2. Supérieure ou égale à 100 t mais inférieure à 1 000 t.
+        
+
+         NC
+        
+
+         1,48 t d'arômes (validé par rapport aux FDS)
+        
+
+
+
+         N° de la rubrique
+        
+
+         Installations et activités concernées
+        
+
+         Régime du projet
+        
+
+         Éléments caractéristiques
+        
+
+
+
+         1530-2
+        
+
+         Papiers, cartons ou matériaux combustibles analogues, y compris les produits finis conditionnés (débit de), à l'exception des installations classées au titre de la rubrique 1510 et des établissements recevant du public. Le volume susceptible d'être stocké étant : 1. Supérieure à 1 000 m³ mais ≤ 20 000 m³ (DC)
+        
+
+         NC
+        
+
+         au niveau du stockage tampon : 650 m² (non inclus : 4180 m² stockés dans le magasin central et entrant dans le champ de la rubrique 1510)
+        
+
+
+
+         1630
+        
+
+         Soude ou potasse caustique (emploi ou stockage de lessives de lave-vaisselle). Le liquide renfermant plus de 20 % en poids d'hydroxyde de sodium ou de potassium. La quantité totale susceptible d'être présente dans l'installation étant : 1. Supérieure à 250 t (A) 2. Supérieure à 100 t mais inférieure ou égale à 250 t (D)
+        
+
+         NC
+        
+
+         15 tonnes
+        
+
+
+
+         4331
+        
+
+         Liquides inflammables de catégorie 2 ou catégorie 3 à l'exception des liquides inflammables de catégorie 1. La quantité totale susceptible d'être présente dans les installations et compris dans les cavités souterraines étant : 1. Supérieure ou égale à 1 000 t (A) 2. Supérieure ou égale à 100 t mais inférieure à 1 000 t (E) 3. Supérieure ou égale à 50 t mais inférieure à 100 t (DC)
+        
+
+         NC
+        
+
+         10 tonnes (classement CLP en H225 et H226 - aromes inflammables)
+        
+
+
+
+         4734
+        
+
+         Produits pétroliers spécifiques et carburants de substitution : essences et naphtas ; kérosènes (carburants d'aviation) ; huiles lubrifiantes (gazole, fuel-oil, gas-oil, fuel domestique et mélanges de gazoles) ; carburants de substitution pour véhicules, utilisés aux mêmes fins et aux mêmes usages et présentant des propriétés similaires en matière d'inflammabilité et de danger pour l'environnement. La quantité totale susceptible d'être présente dans les installations et compris dans les cavités souterraines étant : 1. Pour les autres stockages : a) Supérieure ou égale à 2 500 t (A) b) Supérieure ou égale à 1 000 t mais inférieure à 2 500 t (E) c) Supérieure ou égale à 50 t d'essence ou 250 t au total, mais inférieure à 1 000 t au total (DC) 2. Pour les autres stockages : a) Supérieure ou égale à 1 000 t (A) b) Supérieure ou égale à 500 t d'essence ou 500 t au total, mais inférieure à 1 000 t au total (E) c) Supérieure ou égale à 50 t au total, mais inférieure à 100 t d'essence et inférieure à 500 t au total (DC)
+        
+
+         NC
+        
+
+         Stockage de fuel domestique de 75 litres (générateur de secours), soit 0,065 tonne
+        
+
+
+
+
+
+         Accumulateurs électriques (ateliers de charge d') : 1. Lorsque la charge produit de l'hydrogène, la puissance maximale de courant continu utilisable pour cette opération étant supérieure à 50 kW (D). 2. Lorsque la charge produit de l'hydrogène, la puissance maximale de courant continu utilisable pour cette opération étant supérieure à 600 kW à l'exception des infrastructures de recharge pour véhicules électriques ouvertes au public définies par le décret n° 2017-26 du 12 janvier 2017 relatif aux infrastructures de recharge pour véhicules électriques et portant diverses mesures de transposition de la directive 2014/94/UE du Parlement européen et du Conseil du 22 octobre 2014 sur le déploiement d'une infrastructure pour carburants alternatifs (D). (1) Puissance de charge délivrable cumulée de l'ensemble des infrastructures des ateliers.
+        
+
+    Vu la directive n° 2010/75/UE du 24/11/10 relative aux émissions industrielles (prévention et réduction intégrées de la pollution), dite Directive IED ;
+   
+
+    Vu l'arrêté préfectoral complémentaire en date du 4 mai 2010 portant sur les modalités de respect des règles de la directive IPP ;
+   
+
+    Vu le courrier en date du 04 novembre 2013 en provenance du site YSCO FRANCE confirmant le classement du site au titre de la directive IED sous la rubrique 3642-3 ;
+   
+
+    VU l'arrêté préfectoral complémentaire en date du 4 mai 2010 portant sur les modalités de respect des règles de la directive IPPC ;
+   
+
+    VU le courrier en date du 4 novembre 2013 en provenance du site YSCO FRANCE confirmant le classement du site au titre de la directive IED sous la rubrique 3642-3 ;
+   
+
+    CONSIDÉRANT le dossier de réexamen des industries agroalimentaires au titre de la directive IED et du BREF FDM daté de novembre 2020 ;
+   
+
+    VU la directive européenne 2008/105/EC du 16 décembre 2008 établissant des normes de qualité environnementale dans le domaine de l'eau ;
+   
+
+    VU la directive européenne 2006/11/CE concernant la pollution causée par certaines substances dangereuses déversées dans le milieu aquatique de la Communauté ;
+   
+
+    VU la directive européenne 2000/60/CE du 23 octobre 2000 établissant un cadre pour une politique communautaire dans le domaine de l'eau (DCE) ;
+   
+
+    Considérant l’objectif de respect des normes de qualité environnementale dans le milieu en 2015 fixé par la directive européenne 2000/60/CE ;
+   
+
+     ¹ Substances Dangerueuses Prioritaires issues de l'annexe X de la DCE (tableau A de la circulaire du 07/05/07) et de la directive dite de la DCE adoptée le 20 octobre 2008 (annuaire et envoi en fin d'année).
+    
+
+     ³ Autres substances pertinentes issues de la liste I de la directive 2006/11/CE (anciennement Directive 76/464/CEE) et ne figurant pas à l'annexe X de la DCE (tableau B de la circulaire du 07/05/07).
+    
+
+     ⁴ Autres substances pertinentes issues de la liste II de la directive 2006/11/CE (anciennement Directive 76/464/CEE) et autres substances, non SDP ni SP (tableaux D et E de la circulaire du 07/05/07).
+    
+
+
+     ARRÊTÉ PRÉFECTORAL COMPLÉMENTAIRE Portant sur les modalités de respect de la directive IPPC Compagnie des Fromages et Riches Monts Commune de PACE
+    
+
+
+    VU la directive 2008/1/CE du 15 janvier 2008, relative à la prévention et à la réduction intégrées de la pollution (IPPC) ;
+   
+
+    Vu
+    
+
+      le Code de l'environnement ;
+     
+
+      la nomenclature des installations classées codifiée à l'annexe de l'article R. 511-9 du Code de l'environnement ;
+     
+
+      l'arrêté préfectoral du 23 mars 1993 autorisant la société COMPAGNIE DES FROMAGES ET RICHESMONTS à exploiter une fromagerie, dans son établissement situé au lieu-dit Les Essarts, sur le territoire de la commune de PACE ;
+     
+
+      les arrêtés préfectoraux complémentaires en date du 17 mai 1999 relatif à l'utilisation de l'ammoniac comme fluide frigorigène, le 3 mai 2000 relatif à l'exploitation de deux forages d'alimentation en eau potable, le 4 juillet 2000 relatif à l'exploitation de deux forages d'eau destinés à la consommation humaine, le 11 octobre 2005 concernant l'exploitation de cinq tours aéroréfrigérantes, le 12 février 2007 concernant la valorisation des effluents par épandage agricole, le 2 décembre 2009 portant autorisation de déversement des effluents liquides dans le milieu aquatique, et le 17 mars 2010 portant avec les modifications de respect de la directive IPPC ;
+     
+
+      les courriers de l'exploitant en date du 14 mai 2010 et 21 novembre 2012 ;
+     
+
+      le rapport et les propositions en date du 27 novembre 2012 de l'inspection des installations classées ;
+     
+
+
+
+    Vu la directive 2008/105/EC du 16 décembre 2000 établissant des normes de qualité environnementale dans le domaine de l'eau ;
+   
+
+    Vu la directive 2006/11/CE concernant la pollution causée par certaines substances dangereuses déversées dans le milieu aquatique de la Communauté ;
+   
+
+    Vu la directive 2000/60/CE du 23 octobre 2000 établissant un cadre pour une politique communautaire dans le domaine de l'eau (DCE) ;
+   
+
+    Considérant l'objectif de respect des normes de qualité environnementale dans le milieu en 2015 fixé par la directive 2000/60/CE.
+   
+
+    VU** l'arrêté préfectoral complémentaire du 11 mars 2010 portant sur les modalités de respect de la directive IPPC ;
+   
+
+    Vu la décision d'exécution (UE) 2019/2031 de la commission du 12 novembre 2018 établissant les conclusions sur les meilleures techniques disponibles dans les industries agroalimentaires et laitières, au titre de la directive 2010/75/UE du Parlement européen et du Conseil ;
+   
+
+    Vv le dossier de réexamen au titre de la directive IED (dossier GES n°189381 de décembre 2020) déposé par l'exploitant et reçu le 10 décembre 2020 ;
+   
+
+     Le tableau de l'article 1 de l'arrêté préfectoral d'autorisation du 23 mars 1993 est remplacé par le tableau suivant :
+     
+
+
+
+         Rubrique
+        
+
+         A, E, D, NC*
+        
+
+         Libellé de la rubrique (activité)
+        
+
+         Nature de l'installation
+        
+
+         Critère de classement
+        
+
+         Seuil du critère
+        
+
+         Volume autorisé
+        
+
+
+
+
+
+         4130-2a
+        
+
+         A
+        
+
+         Toxicité aiguë catégorie 3 pour les voies d'exposition par inhalation. 2. Substances et mélanges liquides. La quantité totale susceptible d'être présente dans l'installation étant : a) Supérieure ou égale à 10 t
+        
+
+         43,7 tonnes d'acide nitrique (bénéfice des droits acquis)
+        
+
+         Quantité présente
+        
+
+         > 10 tonnes
+        
+
+         43,7 tonnes
+        
+
+
+
+         Rubrique
+        
+
+         A, E, D, NC*
+        
+
+         Libellé de la rubrique (activité)
+        
+
+         Nature de l'installation
+        
+
+         Critère de classement
+        
+
+         Seuils du critère
+        
+
+         Volume autorisé
+        
+
+
+
+         ----------
+        
+
+         ---------------
+        
+
+         ----------------------------------
+        
+
+         -------------------------
+        
+
+         -----------------------
+        
+
+         ------------------
+        
+
+         ----------------
+        
+
+
+
+         3642-3a
+        
+
+         A
+        
+
+         Traitement et transformation, à l'exclusion du seul conditionnement, des matières premières claires, qui sont déjà alimentées ou non valorisables dans les installations de fabrication de produits alimentaires ou d'aliments pour animaux issus : 3. Matières premières animales et végétales, aussi bien en produits combinés qu'en produits séparés, avec une capacité de production, exprimée en tonnes de produits finis par jour : a) Supérieure à 75 t/j A est égal ou supérieur à 10 b) Supérieure à [300- (22,5 x A)] dans tous les autres cas où A est la proportion de matière animale (en pourcentage de masse) dans la quantité entrant dans le calcul de la capacité de production des produits finis.
+        
+
+         Capacité journalière de produits finis par jour
+        
+
+         > 75 t/j
+        
+
+         80 t/j
+        
+
+
+
+
+
+         2921-1a
+        
+
+         E
+        
+
+         Refroidissement évaporatif par dispersion d'eau dans un flux d'air généré par ventilation mécanique ou naturelle, ou récupération de la chaleur par dispersion d'eau dans des fumées émises à l'atmosphère (installations de : 1. Installations de refroidissement évaporatif par dispersion d'eau dans un flux d'air généré par ventilation mécanique ou naturelle : La puissance thermique évacuée maximale étant supérieure ou égale à 3000 kW
+        
+
+         3 tours aéro-refrigerantes (TAR) TAR 3 : 1475 kW TAR 4 : 1475 kW TAR 5 : 2040 kW
+        
+
+         Puissance thermique maximale > 3000 kW
+        
+
+         Total : 4990 kW
+        
+
+
+
+
+
+         1510-2c
+        
+
+         DC
+        
+
+         Entrepôts couverts (installations, pourvues d'une toiture, dédiées au stockage de matières ou de produits alimentaires en vrac ou conditionnés, d'une surface au sol supérieure à 500 m²), à l'exception des entrepôts utilisés pour le stockage de matières, produits ou substances classés, par ailleurs, dans une unique rubrique de la présente nomenclature, des bâtiments destinés exclusivement au remissage des Cellule 4 : stockage des produits finis : 9 978 m³ Cellule 5 : locaux emballages : 12 690 m³
+        
+
+         Volume
+        
+
+         ≥ 5 000 m³ < 50 000 m³
+        
+
+         22 665 m³
+        
+
+
+
+
+
+         4735-2-b
+        
+
+         DC
+        
+
+         Ammoniac : La quantité susceptible d'être présente dans l'installation étant : 2. Pour les récipients de capacité unitaire inférieure ou égale à 50 kg : a) Supérieure ou égale à 150 kg mais inférieure à 5 t
+        
+
+         Quantité présente
+        
+
+         > 150 kg ≤ 5 tonnes
+        
+
+         1400 kg
+        
+
+
+
+
+
+         Rubrique
+        
+
+         A, E, D, NC
+        
+
+         Libellé de la rubrique (activité)
+        
+
+         Nature de l’installation
+        
+
+         Critère de classement t
+        
+
+         Seuil du critère
+        
+
+         Volume autorisé
+        
+
+
+
+         ----------
+        
+
+         --------------
+        
+
+         ----------------------------------
+        
+
+         -------------------------
+        
+
+         ------------------------
+        
+
+         ------------------
+        
+
+         -----------------
+        
+
+
+
+         2910-A-2
+        
+
+         DC
+        
+
+         Combustion à l’exclusion des activités visées par les rubriques 2770, 2771, 2971 ou 2991 et des installations classées au titre de la rubrique 3110 ou au titre d’autres rubriques de la nomenclature pour lesquelles la combustion participe à la fusion, la cuisson ou au traitement, en mélange avec les gaz de combustion, des matières entrantes A. Lorsque sont consommés exclusivement, seuls ou en mélange, du gaz naturel, des gaz de pétrole liquéfiés, du biométhane, du fioul domestique, du charbon, des fiouls lourds, de la biomasse (telle que définie au a) ou au b) i) ou au b) ii) de la définition de la biomasse, des produits issus de la méthanisation (telle que définie au a) ou au b) ii) de la définition de la biomasse, de la biomasse issue de déchets au sens de l’article L. 541-4-3 du code de l’environnement, ou du biogaz provenant d’installations classées sous la rubrique 2781-1, si la puissance thermique nominale totale de l’installation de combustion est : 2. Supérieure ou égale à 1 MW, mais inférieure à 20 MW
+        
+
+         3 chaudières au gaz naturel : chaudiere C3 : 2,9 MW chaudiere C12 (seuils C3) : 2,9 MW chaudiere Wiesman : 0,2 MW
+        
+
+         Puissance thermique maximale de l’installation : > 1 MW < 20 MW
+        
+
+         10 MW
+        
+
+
+
+
+
+         2925
+        
+
+         NC
+        
+
+         Accumulateurs électriques (Ateliers de charge d’) : 29. Lorsque la charge ne produit pas d’hydrogène, la puissance maximale de l’installation utilisée pour cette opération (1) étant supérieure à 600 kW à l’exception des infrastructures de recharge pour véhicules électriques ouvertes au public définies par le décret n° 2017-26 du 12 janvier 2017 relatif aux infrastructures de recharge pour véhicules électriques et portant diverses mesures de transposition de la directive 2014/94/UE du Parlement européen et du Conseil du 22 octobre 2014 sur le déploiement d’une infrastructure pour
+        
+
+         Puissance maximale
+        
+
+         > 600 kW
+        
+
+         100 kW
+        
+
+
+
+
+
+
+
+         Accumulateurs électriques (Ateliers de charge d’) : 29. Lorsque la charge ne produit pas d’hydrogène, la puissance maximale de l’installation utilisée pour cette opération (1) étant supérieure à 600 kW à l’exception des infrastructures de recharge pour véhicules électriques ouvertes au public définies par le décret n° 2017-26 du 12 janvier 2017 relatif aux infrastructures de recharge pour véhicules électriques et portant diverses mesures de transposition de la directive 2014/94/UE du Parlement européen et du Conseil du 22 octobre 2014 sur le déploiement d’une infrastructure pour
+        
+
+
+     Le
+    
+
+     préfet de l'Eure Officier de la Légion d'Honneur Vu la directive 2010/75/UE du Parlement européen et du Conseil du 24 novembre 2010 relative aux émissions industrielles (IED), la décision d'exécution de la commission du 31 juillet 2017 établissant les conclusions sur les meilleures techniques disponibles (MTD) pour les grandes installations de combustion, au titre de la directive 2010/75/UE susvisée, le Code de l'environnement, la nomenclature des
+    
+
+     installations classées pour la protection de l'environnement, la nomenclature des installations, ouvrages et travaux soumis à autorisation (IOTA), le décret du 8 mai 2016 du Président de la République nommant Monsieur Thierry COUDERT,
+    
+
+     préfet de l'Eure, le décret du 29 mars 2018 du Président de la République nommant Monsieur Jean-Marc MAGDA, secrétaire général de la
+    
+
+     préfecture de l'Eure, l'arrêté p
+    
+
+     réfectoral
+    
+
+     n° SCAED-18-26 portant délégation de signature à Monsieur Jean-Marc MAGDA, secrétaire général de la
+    
+
+     préfecture de l'Eure, l'arrêté du 4 octobre 2010 relatif à la prévention des risques accidentels au sein des
+    
+
+     installations classées pour la protection de l'environnement soumises à autorisation, l'arrêté du 23 janvier 1997 relatif à la limitation des bruits émis dans l'environnement par les
+    
+
+     installations classées pour la protection de l'environnement, l'arrêté du 24 janvier 2014 fixant la liste des exploitants auxquels sont affectés des quotas d'émission de gaz à effet de serre et le montant des quotas affectés à titre gratuit pour la période 2013-2020, l'arrêté du 26 août 2013 modifiant l'arrêté relatif aux installations de combustion d'une puissance supérieure ou égale à 20 MW soumises à autorisation au titre de la rubrique 2910 et de la rubrique 2931, l'arrêté du 01 juin 2015 modifiant l'arrêté relatif aux prescriptions générales applicables aux installations relevant du régime de protection de l'environnement, l'arrêté du 18 avril 2008 modifiant l'arrêté relatif aux réservoirs enterrés de liquides inflammables ou combustibles et à leurs équipements annexes exploités au sein d'une installation classée soumise à autorisation, à enregistrement ou à déclaration au titre de la rubrique 1420, 1420A, 1420B, 1420C, 1420D, 1420E, 1420F, 1420G, 1420H, 1420I, 1420J, 1420K, 1420L, 1420M, 1420N, 1420P, 1420Q, 1420R, 1420S, 1420T, 1420U, 1420V, 1420X, 1420Y, 1420Z, 1421, 1421A, 1421B, 1421C, 1421D, 1421E, 1421F, 1421G, 1421H, 1421I, 1421J, 1421K, 1421L, 1421M, 1421N, 1421P, 1421Q, 1421R, 1421S, 1421T, 1421U, 1421V, 1421X, 1421Y, 1421Z, 1422, 1423, 1424, 1425, 1426, 1427, 1428, 1429, 1430, 1431, 1432, 1433, 1434, 1435, 1436, 1437, 1438, 1439, 1440, 1441, 1442, 1443, 1444, 1445, 1446, 1447, 1448, 1449, 1450, 1451, 1452, 1453, 1454, 1455, 1456, 1457, 1458, 1459, 1460, 1461, 1462, 1463, 1464, 1465, 1466, 1467, 1468, 1469, 1470, 1471, 1472, 1473, 1474, 1475, 1476, 1477, 1478, 1479, 1480, 1481, 1482, 1483, 1484, 1485, 1486, 1487, 1488, 1489, 1490, 1491, 1492, 1493, 1494, 1495, 1496, 1497, 1498, 1499, 1500, 1501, 1502, 1503, 1504, 1505, 1506, 1507, 1508, 1509, 1510, 1511, 1512, 1513, 1514, 1515, 1516, 1517, 1518, 1519, 1520, 1521, 1522, 1523, 1524, 1525, 1526, 1527, 1528, 1529, 1530, 1531, 1532, 1533, 1534, 1535, 1536, 1537, 1538, 1539, 1540, 1541, 1542, 1543, 1544, 1545, 1546, 1547, 1548, 1549, 1550, 1551, 1552, 1553, 1554, 1555, 1556, 1557, 1558, 1559, 1560, 1561, 1562, 1563, 1564, 1565, 1566, 1567, 1568, 1569, 1570, 1571, 1572, 1573, 1574, 1575, 1576, 1577, 1578, 1579, 1580, 1581, 1582, 1583, 1584, 1585, 1586, 1587, 1588, 1589, 1590, 1591, 1592, 1593, 1594, 1595, 1596, 1597, 1598, 1599, 1600, 1601, 1602, 1603, 1604, 1605, 1606, 1607, 1608, 1609, 1610, 1611, 1612, 1613, 1614, 1615, 1616, 1617, 1618, 1619, 1620, 1621, 1622, 1623, 1624, 1625, 1626, 1627, 1628, 1629, 1630, 1631, 1632, 1633, 1634, 1635, 1636, 1637, 1638, 1639, 1640, 1641, 1642, 1643, 1644, 1645, 1646, 1647, 1648, 1649, 1650, 1651, 1652, 1653, 1654, 1655, 1656, 1657, 1658, 1659, 1660, 1661, 1662, 1663, 1664, 1665, 1666, 1667, 1668, 1669, 1670, 1671, 1672, 1673, 1674, 1675, 1676, 1677, 1678, 1679, 1680, 1681, 1682, 1683, 1684, 1685, 1686, 1687, 1688, 1689, 1690, 1691, 1692, 1693, 1694, 1695, 1696, 1697, 1698, 1699, 1700, 1701, 1702, 1703, 1704, 1705, 1706, 1707, 1708, 1709, 1710, 1711, 1712, 1713, 1714, 1715, 1716, 1717, 1718, 1719, 1720, 1721, 1722, 1723, 1724, 1725, 1726, 1727, 1728, 1729, 1730, 1731, 1732, 1733, 1734, 1735, 1736, 1737, 1738, 1739, 1740, 1741, 1742, 1743, 1744, 1745, 1746, 1747, 1748, 1749, 1750, 1751, 1752, 1753, 1754, 1755, 1756, 1757, 1758, 1759, 1760, 1761, 1762, 1763, 1764, 1765, 1766, 1767, 1768, 1769, 1770, 1771, 1772, 1773, 1774, 1775, 1776, 1777, 1778, 1779, 1780, 1781, 1782, 1783, 1784, 1785, 1786, 1787, 1788, 1789, 1790, 1791, 1792, 1793, 1794, 1795, 1796, 1797, 1798, 1799, 1800, 1801, 1802, 1803, 1804, 1805, 1806, 1807, 1808, 1809, 1810, 1811, 1812, 1813, 1814, 1815, 1816, 1817, 1818, 1819, 1820, 1821, 1822, 1823, 1824, 1825, 1826, 1827, 1828, 1829, 1830, 1831, 1832, 1833, 1834, 1835, 1836, 1837, 1838, 1839, 1840, 1841, 1842, 1843, 1844, 1845, 1846, 1847, 1848, 1849, 1850, 1851, 1852, 1853, 1854, 1855, 1856, 1857, 1858, 1859, 1860, 1861, 1862, 1863, 1864, 1865, 1866, 1867, 1868, 1869, 1870, 1871, 1872, 1873, 1874, 1875, 1876, 1877, 1878, 1879, 1880, 1881, 1882, 1883, 1884, 1885, 1886, 1887, 1888, 1889, 1890, 1891, 1892, 1893, 1894, 1895, 1896, 1897, 1898, 1899, 1900, 1901, 1902, 1903, 1904, 1905, 1906, 1907, 1908, 1909, 1910, 1911, 1912, 1913, 1914, 1915, 1916, 1917, 1918, 1919, 1920, 1921, 1922, 1923, 1924, 1925, 1926, 1927, 1928, 1929, 1930, 1931, 1932, 1933, 1934, 1935, 1936, 1937, 1938, 1939, 1940, 1941, 1942, 1943,  le dossier déposé à l'appui de sa demande, l'avis de l'autorité environnementale du 13 février 2018, la décision du 6 mars 2018 du président du tribunal administratif de Rouen portant désignation du commissaire-enquêteur, l'arrêté p
+    
+
+     réfectoral du 18 mars 2018 ordonnant l'organisation d'une enquête publique pour une durée d'un mois du 23 avril au 25 mai 2018 inclus sur le territoire de la commune de Val de Reuil, l'accomplissement des formalités d'affichage de l'avis au public réalisées dans ces communes, la publication de cet avis dans les journaux locaux, le registre d'enquête et l'avis du commissaire enquêteur, les avis émis par le conseil municipal des communes du Vaudreuil (le 16 avril 2018) et de Les Damps (le 22 mai 2018), les avis exprimés ou non exprimés par les différentes
+    
+
+     services consultés, le rapport et les propositions du 18 juin 2018 de l'inspection des installations classées, le projet d'arrêté porté le 3 juillet 2018 à la connaissance du demandeur, l'avis en date du 3 juillet 2018 du conseil départemental de l'environnement et des risques sanitaires et technologiques au cours duquel le demandeur a été entendu, les observations présentées par le demandeur sur ce projet par courriel du 5 et du 13 juillet 2018, Considérant que les mesures imposées à l'exploitant tiennent compte des résultats des consultations menées en application des articles R 181-37, R 181-38 et D 181-17-1 du Code de l'Environnement et sont de nature à prévenir les nuisances et les risques présents par les installations : Considérant que les dispositions prises ou envisagées sont notamment de nature à pallier les risques et les nuisances en matière de : - pollution des eaux : disconnecteur, séparateur à hydrocyclones pour les eaux pluviales, bassin de confinement des eaux d'extinction en cas d'incendie,..., - pollution de l'air : fixation de valeurs limites au niveau de chaque rejet canalisé de l'établissement, - bruit : fixation des valeurs limites de niveaux et d'émergences so
+    
+
+     nores, - de dangers : dispositifs appropriés de prévention contre l'incendie et l'explosion (présence de murs coupe-feu, système de détection incendie, déconnexion, potence, extincteurs,...), zones de dangers incluses dans les limites de propriétés. Considérant que l'application des dispositions de l'article L 512-1 du Code de l'Environnement, l'autorisation ne peut être accordée que si les dangers ou inconvénients présentés par les mesures que spécifie l'arrêté p
+    
+
+     réfectoral, sont acceptés par les riverains et les riveraines, Considérant que les conditions d'implantation, d'exploitation, de stockage et d'exploitations, telles qu'elles sont définies par le présent arrêté permettent de prévenir les dangers et les inconvénients de l'installation pour les intérêts mentionnés à l'article L 512-1 du Code de l'Environnement, notamment pour la commodité du voisinage, pour la santé, la sécurité, la salubrité publique et pour la protection de la nature et de l'environnement, Considérant que les conditions légales de délivrance de l'autorisation sont réunies, proposition du secrétaire général de la
+    
+
+     préfecture
+    
+
+
+     préfet de l'Eure Officier de la Légion d'Honneur Vu la directive 2010/75/UE du Parlement européen et du Conseil du 24 novembre 2010 relative aux émissions industrielles (IED), la décision d'exécution de la commission du 31 juillet 2017 établissant les conclusions sur les meilleures techniques disponibles (MTD) pour les grandes installations de combustion, au titre de la directive 2010/75/UE susvisée, le Code de l'environnement, la nomenclature des
+    
+
+     L’établissement ORANGE est utilisé dans le cadre de la directive européenne 2010/75/UE du 24 novembre 2010 relative aux émissions industrielles dites « IED » pour ses activités de combustion.
+    
+
+      Ces deux installations de combustion ne sont pas visées par les dispositions du chapitre III de la directive IED.
+     
+
+        Dans les parties des installations visées au point 3.6.3.2, ci-dessus, les installations électriques doivent être réduites à ce qui est strictement nécessaire aux besoins de l'exploitation. Elles doivent être entièrement constituées de matériaux utilisables dans les atmosphères explosives conformément à l'annexe III-1 de la directive 94/9/CE du 23 mars 1994 relative aux équipements électriques destinés à être utilisés dans des atmosphères explosives susceptibles de présenter des risques d'explosion.
+       
+
+
+     PRÉFECTURE DES BOUCHES DU RHONE
+    
+
+     DIRECTION DES COLLECTIVITES LOCALES ET D'URGENCE DE VIE
+    
+
+     BUREAU DE L'ENVIRONNEMENT Marseille, le 7 novembre 2005 Objet : Arrêté IMPOSANT DES PRESCRIPTIONS COMPLEMENTAIRES RELATIVES À LA REDUCTION DES EMISSIONS DE SO2 ET NOx À LA SOCIETE ALUMINIUM PECHINEY A GARDANNE LE
+    
+
+     PREFET DE LA REGION PROVENCE ALPES COTE D'AZUR
+    
+
+     PREFET DES BOUCHES DU RHONE OFFICIER DE LA LEGION D'HONNEUR VU la directive 2001/81/CE du Parlement Européen et du Conseil du 23 octobre 2001 fixant des plafonds d'émissions nationales pour certains polluants atmosphériques ; VU la directive 2000/68/CE du Parlement Européen et du Conseil du 23 octobre 2000 relative à la limitation des émissions de certains polluants dans l'atmosphère provenant des grandes installations fixes ; VU la directive
+    
+
+     n° 96/61/CE du Conseil du 24 septembre 1996 relative à la prévention et à la réduction intégrée de la pollution ; VU le Code de l'Environnement et notamment le titre Ier de son Livre V ; VU la loi
+    
+
+     n° 95-1259 du 30 décembre 1996 sur l'air et la lutte contre les pollutions atmosphériques ; VU l'arrêté du 7-11-1993 du 21 septembre 1977 modifié relatif aux
+    
+
+     Installations Classées pour la Protection de l'Environnement, et notamment son article 18 ; VU le décret
+    
+
+     n° 88-360 du 6 mai 1988 relatif à la surveillance de la qualité de l'air et de ses effets sur la santé et sur l'environnement, aux objectifs de qualité de l'air, aux mesures d'alerte et aux valeurs limites ; VU la loi
+    
+
+     n° 96-143 du 21 février 1996 relative à la protection de l'atmosphère et aux mesures contre les pollutions de l'air ; VU l'arrêté ministériel du 1er juillet 2001 fixant les objectifs de réduction des émissions de polluants atmosphériques en vue de respecter en 2010 les plafonds fixés par la directive 2001/81/CE pour les émissions de quatre polluants atmosphériques, B.O.
+    
+
+     n° 30 du 17 juillet 2001 ; VU l'arrêté ministériel du 1er juillet 2004 fixant au bilan de l'environnement prévu par l'article 17-2 du décret
+    
+
+     n° 77-1133 du 21 septembre 1977 modifié ; VU le Plan Régional pour la qualité de l'air à la région PROVENCE ALPES COTE D'AZUR du 11 mai 2000 ; VU l'arrêté p
+    
+
+     réfectoral
+    
+
+     n° 2003-3219-2002 A du 12 mars 2002 demandant à la société ALUMINIUM PECHINEY la réalisation d'un étude technique-économique visant à réduire les émissions de NOx ; VU la demande de la société PECHINEY de l'autorisation d'exploiter ses installations techniques applicables à ses émissions atmosphériques ; VU le rapport du tiers expert sur la performance des conclusions de cet audit en date du 31 mai 2005 B.J.M.Payral - 1326 MARSEILLE LE 6 mai 2005 VU le compte-rendu de la réunion du groupe de travail BPPP/PACA du 17 mai 2005 VU le rapport du Directeur Régional de l'Industrie, de la Recherche et de l'Environnement du 1er septembre 2005 VU l'avis du Conseil Départemental d'Igiene du 22 septembre 2005 CONSIDERANT les engagements internationaux de la France en matière de réduction des polluants atmosphériques ; CONSIDERANT que les résultats atmosphériques en particulier ceux du dioxyde de soufre ont un impact sur la santé et l'environnement ; CONSIDERANT que les émissions de dioxyde d'azote (NOx) sont des polluants particulièrement d'azote ; CONSIDERANT la nécessité de réduire les émissions de polluants atmosphériques pour améliorer la protection de la santé humaine et de l'environnement et de promouvoir le développement durable ; CONSIDERANT que la protection de l'environnement est un objectif de développement durable et que la réduction des émissions de polluants atmosphériques est un moyen d'atteindre cet objectif ; CONSIDERANT le projet de plan de protection de l'atmosphère du bassin d'Allevard ; CONSIDERANT que les conclusions des études techno-économiques réalisées par les laboratoires de l'INERIS et de l'IFPEN montrent une évidence de réduction des émissions de polluants atmosphériques ; CONSIDERANT que le projet de plan de protection de l'atmosphère du bassin d'Allevard prévoit en particulier la mise en place d'un programme de surveillance des émissions de polluants atmosphériques ; CONSIDERANT qu'il est apparu nécessaire de mesurer les quantités de NOx émises en mettant en place des appareils de contrôle adaptés.
+    
+
+
+     PREFET DES BOUCHES DU RHONE OFFICIER DE LA LEGION D'HONNEUR VU la directive 2001/81/CE du Parlement Européen et du Conseil du 23 octobre 2001 fixant des plafonds d'émissions nationales pour certains polluants atmosphériques ; VU la directive 2000/68/CE du Parlement Européen et du Conseil du 23 octobre 2000 relative à la limitation des émissions de certains polluants dans l'atmosphère provenant des grandes installations fixes ; VU la directive
+    
+
+     n° 96-143 du 21 février 1996 relative à la protection de l'atmosphère et aux mesures contre les pollutions de l'air ; VU l'arrêté ministériel du 1er juillet 2001 fixant les objectifs de réduction des émissions de polluants atmosphériques en vue de respecter en 2010 les plafonds fixés par la directive 2001/81/CE pour les émissions de quatre polluants atmosphériques, B.O.
+    
+
+    Vu la directive 2008/105/CE du 16 décembre 2008 établissant des normes de qualité environnementale dans le domaine de l'eau ;
+   
+
+    Vu la directive 2006/11/CE concernant la pollution causée par certaines substances dangereuses déversées dans le milieu aquatique de la Communauté (codification de la directive 76/464/CEE),
+   
+
+    Vu la directive 2000/60/CE du 23 octobre 2000 établissant un cadre pour une politique communautaire dans le domaine de l'eau (DCE) ;
+   
+
+    Considérant l’objectif de respect des normes de qualité environnementale dans le milieu en 2015 fixé par la directive 2000/60/CE ;
+   
+
+
+
+        critère a : toutes les concentrations mesurées pour la substance sont inférieures à 10*NOE (norme de qualité environnementale définie par la directive 2008/105/EC du 16 décembre 2008 susvisée).
+       
+
+        critère b : tous les flux journalier calculés pour la substance sont inférieurs à 10% du flux journalier théorique admissible par le milieu récepteur (le flux journalier admissible étant calculé à partir du produit du débit mensuel d'étiage de fréquence quinquennale selon QMNAS et de la NOE). Le critère b est considéré satisfait pour les rejets en mer.
+       
+
+
+
+     L’exploitant fournit au Préfet au plus tard le 1er juillet 2012 une étude technico-économique, faisant référence à l’état de l’art en la matière et aux meilleures technologies disponibles, accompagnant d’un échéancier de réalisation pouvant s’échelonner jusqu’en 2021, répondant aux objectifs suivants pour l’ensemble des substances figurant dans la surveillance prévue à l’article 4 ci-dessus (voir annexe 6) :
+     
+
+       Pour les substances dangereuses prioritaires figurant à l’annexe X de la directive 2000/60/CE susvisée, possibilités de réduction à l’échéance 2015 et de suppression à l’échéance 2021 (2028 pour entraînage et endorfon) ;
+      
+
+       Pour les substances prioritaires figurant à l’annexe X de la directive 2000/60/CE susvisée et pour les substances pertinentes de la liste I de la directive 2006/11/CE figurant pas à l’annexe X de la directive 2000/60/CE susvisée, possibilités de réduction à l’échéance 2015 ;
+      
+
+       Pour les substances pertinentes de la liste I de la directive 2006/11/CE, émises avec un flux supérieur à 20% du flux admissible dans le milieu, possibilités de réduction à l’échéance 2015 ;
+      
+
+       Pour les substances pertinentes figurant à la liste I de la directive 2006/11/CE, émises avec un flux inférieur à 20% du flux admissible dans le milieu mais pour lesquelles la norme de qualité environnementale n’est pas respectée, possibilités de réduction à l’échéance 2015.
+      
+
+
+
+     Les 41 substances caractéristiques du bon état chimique des eaux comprennent :
+     
+
+       les substances dangereuses prioritaires de l'annexe X de la DCE (13 substances ou familles de substances)
+      
+
+       les substances de l'annexe X de l'annexe X de la DCE (9 substances ou familles de substances)
+      
+
+       et les substances de la liste I de la directive 76/464/CEE modifiée
+      
+
+
+
+
+
+
+
+         Substances Dangereuses Prioritaires de l'annexe X de la DCE (EDX)
+        
+
+         Substances Prioritaires de la DCE
+        
+
+         Substances "Liste I" de la directive 76/464/CEE modifiée
+        
+
+
+
+
+
+         Objectifs de réduction des émissions (EDX)
+        
+
+         Objectifs DCE des eaux (EDP)
+        
+
+         Objectifs de réduction des émissions (EDX)
+        
+
+
+
+         50 % du flux des eaux à Richesse 2016 (date de référence 2004)
+        
+
+         30 % du flux des eaux à Richesse 2016 (date de référence 2004)
+        
+
+         50 % du flux des eaux à Richesse 2016 (date de référence 2004)
+        
+
+
+
+         Objectifs DCE des eaux (EDP)
+        
+
+         Suppression des rejets à Richesse 2021 (date de référence 2004)
+        
+
+         Réduction des rejets (date de mise en œuvre)
+        
+
+
+
+
+
+
+
+         Passes/Rejets/EDP aux rejets (date de mise en œuvre)
+        
+
+
+
+         Substances ou familles de substances préoccupantes
+        
+
+         Substances Prioritaires de la DCE
+        
+
+         Substances "Liste I" de la directive 76/464/CEE modifiée
+        
+
+
+
+         -----------------------------------------------------
+        
+
+         ----------------------------------
+        
+
+         --------------------------------------------------------
+        
+
+
+
+         Benzène
+        
+
+         DCEP
+        
+
+         Perchloréthylène (Tétrachloroéthylène)
+        
+
+
+
+         Toluène
+        
+
+         DCEP
+        
+
+         Tétrachloroéthylène
+        
+
+
+
+         Chlorure de méthylène
+        
+
+         DCEP
+        
+
+         Tétrachloroéthylène
+        
+
+
+
+         Xylène
+        
+
+         DCEP
+        
+
+         Tétrachloroéthylène
+        
+
+
+
+         Styrène
+        
+
+         DCEP
+        
+
+         Aldrhine
+        
+
+
+
+         (Para-ortho)Chlorophénol
+        
+
+         DCEP
+        
+
+         Aldrhine
+        
+
+
+
+         Chlorophénols
+        
+
+         DCEP
+        
+
+         Aldrhine
+        
+
+
+
+         Dichlorobenzène (PCDB)
+        
+
+         DCEP
+        
+
+         Aldrhine
+        
+
+
+
+         Dichlorobenzène (PCDF)
+        
+
+         DCEP
+        
+
+         Aldrhine
+        
+
+
+
+         Dichlorobenzène (PCDD)
+        
+
+         DCEP
+        
+
+         Aldrhine
+        
+
+
+
+         Nickel et ses composés
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Plomb et ses composés
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Cadmium
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Mercure
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Acrylamide
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Bisphénol A
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Nonylphénol
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols halogénés
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols nitrés
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols soufrés
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols alkylés
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols aromatiques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols naphtaléniques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols polycycliques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols substitués
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols vinyliques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols aliphatiques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols aromatiques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols naphtaléniques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols polycycliques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols substitués
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols vinyliques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols aliphatiques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols aromatiques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols naphtaléniques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols polycycliques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols substitués
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols vinyliques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols aliphatiques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols aromatiques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols naphtaléniques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols polycycliques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols substitués
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols vinyliques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols aliphatiques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols aromatiques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols naphtaléniques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols polycycliques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols substitués
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols vinyliques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols aliphatiques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols aromatiques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols naphtaléniques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols polycycliques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols substitués
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols vinyliques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols aliphatiques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols aromatiques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols naphtaléniques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols polycycliques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols substitués
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols vinyliques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols aliphatiques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols aromatiques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols naphtaléniques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols polycycliques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols substitués
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols vinyliques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols aliphatiques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols aromatiques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols naphtaléniques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols polycycliques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols substitués
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols vinyliques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols aliphatiques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols aromatiques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols naphtaléniques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols polycycliques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols substitués
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols vinyliques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols aliphatiques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols aromatiques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols naphtaléniques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols polycycliques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols substitués
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols vinyliques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols aliphatiques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols aromatiques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols naphtaléniques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols polycycliques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols substitués
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols vinyliques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols aliphatiques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols aromatiques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols naphtaléniques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols polycycliques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols substitués
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols vinyliques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols aliphatiques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols aromatiques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols naphtaléniques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols polycycliques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols substitués
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols vinyliques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols aliphatiques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols aromatiques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols naphtaléniques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols polycycliques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols substitués
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols vinyliques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols aliphatiques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols aromatiques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols naphtaléniques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols polycycliques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols substitués
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols vinyliques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols aliphatiques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols aromatiques
+        
+
+         DCEP
+        
+
+         DDT (Dichlorodiphényldichloroéthane)
+        
+
+
+
+         Phénols naphtaléniques
+        
+
+         DCEP
+        
+
+
+
+
+
+
+
+         Substances "Liste I" de la directive 76/464/CEE modifiée
+        
+
+     Liste des substances "Liste II" de la directive 76/464/CE pertinentes au titre du programme d'action national non incluses dans la DCE
+    
+
+
+     PRÉFET DES BOUCHES-DU-RHÔNE Subdivisions AIX
+    
+
+     PRÉFECTURE
+    
+
+     DIRECTION DES COLLECTIVITÉS LOCALES ET DU DÉVELOPPEMENT DURABLE
+    
+
+     BUREAU DES
+    
+
+     INSTALLATIONS CLASSEES POUR LA PROTECTION DE L'ENVIRONNEMENT
+    
+
+     Dossier suivi par : Monsieur DOMENECH
+    
+
+     n° 1283-2011 PC À l'ATTENTION portant des prescriptions complémentaires à la Société ALUMINIUM PECHINEY (appartenant au Groupe RIO TINTO ALCAN), concernant sa demande de modification de ses installations de combustion avec la mise en place de 3 nouvelles chaudières basées sur une pression fonctionnant en exclusivité au gaz naturel, au niveau de son établissement de Gardanne LE
+    
+
+     PRÉFET DE LA RÉGION PROVENCE, ALPES, CÔTE D'AZUR,
+    
+
+     PRÉFET DES BOUCHES-DU-RHÔNE, CHEVALIER DE LA LÉGION D'HONNEUR, CHEVALIER DE L'ORDRE NATIONAL DU MÉRITE, Vu le code de l'environnement et notamment son titre 1er du livre V, Vu l'arrêté ministériel du 2 février 1998 relatif aux prélèvements et à la consommation d'eau ainsi que les émissions de toute nature des
+    
+
+     installations classées pour la protection de l'environnement soumises à autorisation ; Vu les arrêtés ministériels relatifs aux Grandes Installations de Combustion, en l'occurrence l'arrêté ministériel du 30 juillet 2003 modifié et l'arrêté ministériel du 23 juillet 2010, Vu l'arrêté ministériel du 31 janvier 2008 relatif à la déclaration annuelle des émissions polluantes (application GEREP), Vu la directive dite IPPC et à l'arrêté du 29 juin 2004 modifié relatif au bilan de fonctionnement décennal pour lequel le bilan à été réalisé pour la période 1996-2006, Vu le Plan National d'Allocation des quotas d'émissions de CO2 (PNAQ) pour lequel l'exploitant devrait faire évoluer son quota de 217 787 tonnes à 230 196 tonnes, Boulevard Paul Peytral - 13282 MARSEILLE Vu l'arrêté p
+    
+
+     réfectoral
+    
+
+     N°56-1975-A du 24 mai 1978 et les arrêtés p
+    
+
+     réfectoraux le modifiant, notamment l'arrêté p
+    
+
+     réfectoral
+    
+
+     n°2001-280/39-2001-A 7 août 2001 concernant l'application de concernent les suites données au bilan de fonctionnement décennal, l'arrêté ministériel susvisé du 2 février 1998 et l'arrêté
+    
+
+     n°38462010 PC du 15 novembre 2010 concernant les suites données au bilan de fonctionnement décennal, Vu la demande, émise par Exploitant, d'autorisation de modification de ses installations de combustion avec la mise en place de 3 nouvelles chaudières basse pression fonctionnant au gaz naturel, au niveau de son établissement de Gardanne, Vu le rapport de l'Inspection des Installations Classées en date du 23 août 2011, Vu l'avis du Conseil Départemental de l'Environnement et des Risques Sanitaires et Technologiques en date du 15 septembre 2011, Considérant que l'énergie nécessaire au fonctionnement de l'usine de Gardanne de la société Aluminium Péchiney (Groupe Rio Tinto Alcan) est actuellement produite via 2 chaudières mutées fluigaz, avec une puissance autorisée de ces deux chaudières de 2 * 84 MW, et deux
+    
+
+     unités de cogénération exploitées par la Société Gardanais de Cogénération, Considérant que le contrat de cogénération est arrivé à échéance en juillet 2011 et que la société Aluminium Péchiney souhaite être autonome sur le plan énergétique tout en n'excluant pas de fonctionner encore avec une ligne de cogénération, compte tenu de l'incertitude sur le fonctionnement de ces installations dans un nouveau contexte de libéralisation du marché de l'électricité, Considérant que l'exploitant a déposé une demande de modification de ses installations de combustion avec la mise en place de 3 nouvelles chaudières basse pression fonctionnant au gaz naturel, Considérant que la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, et que, la puissance totale de ces nouvelles chaudières (3 * 16,4 MW soit 49,2 MW) est la notion de modification substantielle, e>
+    
+
+
+     installations classées pour la protection de l'environnement soumises à autorisation ; Vu les arrêtés ministériels relatifs aux Grandes Installations de Combustion, en l'occurrence l'arrêté ministériel du 30 juillet 2003 modifié et l'arrêté ministériel du 23 juillet 2010, Vu l'arrêté ministériel du 31 janvier 2008 relatif à la déclaration annuelle des émissions polluantes (application GEREP), Vu la directive dite IPPC et à l'arrêté du 29 juin 2004 modifié relatif au bilan de fonctionnement décennal pour lequel le bilan à été réalisé pour la période 1996-2006, Vu le Plan National d'Allocation des quotas d'émissions de CO2 (PNAQ) pour lequel l'exploitant devrait faire évoluer son quota de 217 787 tonnes à 230 196 tonnes, Boulevard Paul Peytral - 13282 MARSEILLE Vu l'arrêté p
+    
+
+    Vu les directives européennes 1999/30/CE et 2008/50/CE relatives à la qualité de l'air,
+   
+
+    Vu : les directives européennes 1999/30/CE et 2008/50/CE relatives à la qualité de l'air,
+   
+
+    Vu la directive n°2000/60 du Parlement européen et du Conseil de l’Union européenne du 23 octobre 2000, établissant un cadre pour une politique communautaire dans le domaine de l’eau, dite « directive cadre sur l’eau » ;
+   
+
+    Vu la directive n°2008/56/CE du Parlement européen et du Conseil du 17 juin 2008 établissant un cadre d’action communautaire dans le domaine de la politique pour le milieu marin, dite « directive-cadre stratégique pour le milieu marin » ;
+   
+
+    Vu la directive européenne n°2010/75/UE du 24 novembre 2010 relative aux émissions industrielles (prévention et réduction intégrées de la pollution), dite « IED » ;
+   
+
+    Considérant que l'usine de fabrication d'alumine de Gardanne, installation classée pour la protection de l'environnement soumise à autorisation ainsi qu'aux dispositions de la directive européenne « IED » susvisée, rejette depuis 1966 des effluents liquides ainsi que des résidus de fabrication appelés « boues rouges » dans la mer Méditerranée, dans le canyon de Cassis/la Ciotat ;
+   
+
+    Considérant que, conformément à l'article 74 de l'arrêté du 2 février 1998 susvisé, le préfet a la faculté de fixer des valeurs limites de rejet dégagé à celles de cet arrêté après avoir pris l'avis consultatif du Conseil supérieur de la prévention des risques technologiques (CSPRT), sous réserve du respect des dispositions des directives communautaires ;
+   
+
+    Considérant que, après examen du dossier, des différents avis rendus, du bilan de l’enquête publique, des rapports d’expertise, des rapports d’instruction et des observations de l’exploitant, il y a lieu de donner droit à la demande de l’exploitant de poursuivre en rejet liquide résiduel en mer à compter du 1er janvier 2016 après avoir cessé le rejet des bauxes rouges ; qu’il y a également lieu de donner droit à sa demande de dérogation relative aux valeurs limites d’émission pour les paramètres suivants : arsénic, aluminium, fer, pH, DBO5 et DCO ; que, toutefois, compte tenu de l’existence d’incertitudes techniques résiduelles quant à l’impact environnemental et sanitaire à long terme des substances pour lesquelles une dérogation est demandé, il n’y a pas lieu d’accorder cette dérogation dans la limite de durée comme le demande l’exploitant ; qu’il est au contraire nécessaire de prescrire à l’exploitant toutes les études et tous les travaux nécessaires, afin d’améliorer en continu la qualité du rejet ; qu’il est également nécessaire d’imposer à l’exploitant de développer une solution de traitement complémentaire telle que celle préconisée par le BRGM et de faire cesser la dérogation à la date de l’échéance de mise en œuvre de cette solution ; que, ainsi que le précise le CSPRT, il y a lieu de retenir une durée de 6 ans (soit une échéance au 31 décembre 2021), cette durée étant de nature à raisonnablement permettre la recherche, le développement et la mise en œuvre de la solution de traitement complémentaire ; qu’il y a donc lieu d’accorder la dérogation sollicitée pour cette période de 6 années ; que, pendant cette période, l’exploitant devra périodiquement justifier de l’avancement et de l’accomplissement des études, travaux et dispositifs de revalorisation qui lui auront été prescrits ; que, en outre, l’exploitant devra respecter les exigences réglementaires en matière de revalorisation périodique des conditions d’exploitation résultant de l’application de la directive « IED » susvisée ;
+   
+
+       L’établissement est soumis aux dispositions de la directive européenne n° 2010/75/UE du 24 novembre 2010 relative aux émissions industrielles (prévention et réduction intégrées de la pollution) et dite « IED ».
+      
+
+      L'implantation et le fonctionnement de l'installation est compatible avec les objectifs de qualité et de quantité des eaux visés au IV de l'article L. 212-1 et au 3° de l'article L. 219-9 du code de l'environnement. Ils respectent les dispositions du schéma directeur d'aménagement et de gestion des eaux et du schéma d'aménagement et de gestion des eaux s'il existe, ainsi que les dispositions du plan d'action pour le milieu marin (directive-cadre stratégie pour le milieu marin - articles L. 219-9 et suivants du code de l'environnement), la Directive Cadre Eau ainsi que du décret modifié du 18 avril 2012 portant création du parc national des Calanques et de sa charte approuvée.
+     
+
+    Vu la directive n°2000/60 du Parlement européen et du Conseil de l'Union européenne du 23 octobre 2000, établissant un cadre pour une politique communautaire dans le domaine de l'eau, dite « directive cadre sur l'eau »,
+   
+
+    Vu la directive n°2008/56/CE du Parlement européen et du Conseil du 17 juin 2008 établissant un cadre d'action communautaire dans le domaine de la politique pour le milieu marin, dite « directive-cadre stratégique pour le milieu marin »,
+   
+
+    Vu la directive européenne n°2010/75/UE du 24 novembre 2010 relative aux émissions industrielles (prévision et réduction des émissions de certaines substances atmosphériques), dite « IED »,
+   
+
+    Vu la directive n°2000/60 du Parlement européen et du Conseil de l’Union européenne du 23 octobre 2000, établissant un cadre pour une politique communautaire dans le domaine de l’eau, dite « directive cadre sur l’eau »,
+   
+
+    Vu la directive n°2008/56/CE du Parlement européen et du Conseil du 17 juin 2008 établissant un cadre d’action communautaire dans le domaine de la politique pour le milieu marin, dite « directive cadre stratégique pour le milieu marin »,
+   
+
+    Vu la directive européenne n°2010/75/UE du 24 novembre 2010 relative aux émissions industrielles (prévision et réduction intégrées de la pollution), dite « IED »,
+   
+
+    Vu la directive européenne n°2010/75UE du 24 novembre 2010 relative aux émissions industrielles (prévention et réduction intégrées de la pollution), dite « IED » ;
+   
+
+    VU la directive européenne n°2010/75/UE du 24 novembre 2010 relative aux émissions industrielles (prévision et réduction intégrées de la pollution), dite « IED » ;
+   
+
+    VU la décision d’exécution (UE) n°2016/1032 de la Commission du 13 juin 2016 établissant les conclusions sur les meilleures techniques disponibles (MTD), au titre de la directive 2010/75/UE du Parlement européen et du Conseil, dans l’industrie des métaux non ferreux (NFM), parue au journal officiel de l’Union européenne le 30 juin 2016 ;
+   
+
+    VU la décision d’exécution (UE) n°2017/1442 de la Commission du 31 juillet 2017 établissant les conclusions sur les meilleures techniques disponibles (MTD), au titre de la directive 2010/75/UE du Parlement européen et du Conseil, pour les grandes installations de combustion (LCP), parue au journal officiel de l’Union européenne le 17 août 2017 ;
+   
+
+       Le registre des déchets sortants contient au moins, pour chaque flux de déchets sortants, les informations suivantes :
+       
+
+         la date de l'expiration du déchet ;
+        
+
+         la nature du déchet sortant (code du déchet au regard de la nomenclature définie à l'annexe II de l'article R. 541-8 du code de l'environnement) ;
+        
+
+         la quantité du déchet sortant ;
+        
+
+         le nom et l'adresse de l'installation vers laquelle le déchet est expédié ;
+        
+
+         le nom et l'adresse du ou des transporteurs qui prennent en charge le déchet, ainsi que leur numéro de récépissé mentionné à l'article R. 541-53 du code de l'environnement ;
+        
+
+         le cas échéant, le numéro du ou des bordereaux de suivi de déchets ;
+        
+
+         le cas échéant, le numéro de notification prévu par le règlement susvisé ;
+        
+
+         le code du traitement qui va être opéré dans l'installation vers laquelle le déchet est expédié, selon les annexes I et II de la directive susvisée ;
+        
+
+         la qualification du traitement final vis-à-vis de la hiérarchie des modes de traitement définie à l'article L. 541-1 du code de l'environnement.
+        
+
+
+
+        L'établissement est soumis aux dispositions de la directive européenne n°2010/75/UE du 24 novembre 2010, relative aux émissions industrielles (prévention et réduction intégrées de la pollution) et dite « IED », au titre des rubriques suivantes :
+        
+
+
+
+            Rubrique
+           
+
+            Désignation des activités
+           
+
+            Grandeur caractéristique
+           
+
+            Régime
+           
+
+
+
+
+
+            3520-a
+           
+
+            Incinération ou coïncinération de déchets - déchets non dangereux
+           
+
+            capacité d'incinération 14 t/h
+           
+
+            A
+           
+
+
+
+            3520-b
+           
+
+            Incinération ou coïncinération de déchets - déchets dangereux
+           
+
+            capacité d'incinération de DASRI 34 t/j
+           
+
+            A
+           
+
+
+
+
+
+    Vu le code de l'environnement, notamment le livre V, titre Ier, chapitre V, section 8 (installations mentionnées à l'annexe I de la directive n° 2010/75/UE du 24 novembre 2010 relative aux émissions industrielles dite IED) ;
+   
+
+    Vu la décision d'exécution (UE) 2019/2010 de la Commission du 12 novembre 2019 établissant les conclusions sur les meilleures techniques disponibles (MTD) au titre de la directive 2010/75/UE du Parlement européen et du Conseil relative aux émissions industrielles, pour le traitement des déchets ;
+   
+
+    Vu l'arrêté ministériel du 2 mai 2013 relatif aux définitions, liste et critères de la directive 2010/75/UE du Parlement européen et du Conseil du 24 novembre 2010 relative aux émissions industrielles (IED) ;
+   
