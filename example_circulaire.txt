@@ -1,0 +1,1080 @@
+
+       Les prescriptions de l’arrêté ministériel du 23 janvier 1997 modifient relativement à la limitation des bruits émis dans l’environnement par les installations relevant du livre V titre I du code de l’environnement, ainsi que les règles techniques annexées à la circulaire du 23 juillet 1986, relative aux vibrations mécaniques émises dans l’environnement par les installations classées sont applicables.
+      
+
+       En cas d'émissions de vibrations nécessaires gênantes pour le voisinage ainsi que pour la sécurité des biens ou des personnes, les points de contrôle, les valeurs des niveaux limites admissibles ainsi que la mesure des niveaux vibratoires ainsi seront déterminés suivant les spécifications des règles techniques annexées à la circulaire ministérielle n°23 du 23 juillet 1986 relative aux vibrations mécaniques émises dans l'environnement par les installations classées.
+      
+
+      Les prescriptions de l'arrêté ministériel du 23 janvier 1997 modifié relatif à la limitation des bruits émis dans l'environnement par les installations relevant du titre IV du code de l'environnement, ainsi que les règles techniques annexes à la circulaire du 23 juillet 1986 relative aux vibrations mécaniques émises dans l'environnement par les installations classées sont applicables.
+     
+
+       En cas d’émissions de vibrations mécaniques générantes pour la voisinage ainsi que pour la sécurité des biens ou des personnes, les points de contrôle, les valeurs des niveaux limites admissibles ainsi que la mesure des niveaux vibratoires émis seront déterminés suivant les spécifications des règles techniques annexées à la circulaire ministérielle n° 23 du 23 juillet 1986 relatives aux vibrations mécaniques émises dans l’environnement par les installations classées.
+      
+
+    VU** la circulaire ministérielle du 23 avril 1999 relative aux risques liés aux tours aéroréfrigérantes et à la prévention de la légionellose ;
+   
+
+    VU** la circulaire du 10 mai 2000 relative à la prévention des accidents majeurs impliquant des substances ou des préparations dangereuses présentes dans certaines catégories d'installations classées pour la protection de l'environnement soumises à autorisation (application de la directive Seveso II) ;
+   
+
+     L'évaluation établit une liste des "éléments importants pour la sécurité" aussi bien pour prévenir les causes d'un accident que pour en limiter les conséquences. Cette liste comporte les équipements principaux ou accessoires ainsi que les éléments de supportage et les structures dont la défaillance entraînerait un danger, de même que les éléments qui sont aptes à intervenir pour pallier les effets dangereux de la défaillance d'un autre matériel. Les équipements définis comme étant importants pour la sécurité (IPS) sont ceux de la circulaire du 16 mai 2000 pour l'objet d'une attention particulière.
+    
+
+    Vu la circulaire du 10 mai 2000 relative à la prévention des accidents majeurs impliquant des substances ou des préparations dangereuses présentes dans certaines catégories d'installations classées pour la protection de l'environnement soumises à autorisation (application de la directive Seveso II) ;
+   
+
+     L'exploitant établit une liste des "éléments importants pour la sécurité" aussi bien pour prévenir les coups d'accident que pour en limiter les conséquences. Cette liste comporte les équipements principaux ou accessoires ainsi que les éléments de support et les structures dont la défaillance entraînerait en danger, de même que les éléments qui sont appelés à intervenir pour pallier les effets dangereux de la défaillance d'un autre matériel. Les équipements définis comme étant importants pour la sécurité (IPS) au sens de la circulaire du 10 mai 2000 font l'objet d'une attention particulière.
+    
+
+    La circulaire BSEI n° 09-213 du 10 décembre 2009 signalant la présence de défauts métallurgiques dans des équipements et accessoires sous pression mis sur le marché par la société RIGAU ;
+   
+
+    VU la circulaire DPPR/DE au 4 février 2002 qui organise une action nationale de recherche et de réduction des rejets de substances dangereuses dans l'eau par les installations classées,
+   
+
+    VU la circulaire DCF 2005/12 du 28 juillet 2005 relative à la définition du "bon état",
+   
+
+    VU la circulaire DE/DPPR du 7 mai 2007 définissant les "normes de qualité environnementale provisoire (NQEp)" et les objectifs nationaux de réduction des émissions de certaines substances,
+   
+
+    VU la circulaire du 5 janvier 2009 relative à la mise en œuvre de la deuxième phase de l’action nationale de recherche et de réduction des substances dangereuses pour le milieu aquatique présentes dans les rejets des installations classées pour la protection de l’environnement,
+   
+
+    VU la circulaire du 23 mars 2010 relative aux adaptations des conditions de mise en œuvre de la circulaire du 5 janvier 2009,
+   
+
+    CONSIDÉRANT les objectifs de réduction et de suppression de certaines substances dangereuses fixés dans la circulaire DE/DPPR du 7 mai 2007,
+   
+
+     2.1 Les prélèvements et analyses réalisés en application du présent arrêté doivent respecter les dispositions de l’annexe 5 de la circulaire du 5 janvier 2009 susvisée.
+    
+
+     2.3 L’exploitant doit être en possession de l’ensemble des pièces suivantes fournies par le laboratoire qu’il aura choisi, avant le début des opérations de prélèvement et de mesures afin de s’assurer que ce prestataire remplit bien les dispositions de l’annexe 5 de la circulaire du 5 janvier 2009 susvisée :
+     1. justificatifs d’accréditations sur les opérations de prélèvements (si disponibles) et d’analyses de substances dans la matrice “eaux résiduaires” comprenant à minima : a. numéro d’accréditation b. extract de l’annexe technique sur les substances concernées
+    
+
+     3. tableau des performances et d’assurance qualité précis des limites de quantification pour l’analyse des substances qui doivent être inférieures ou égales à celles de l’annexe 5.2 de l’annexe 5 de la circulaire du 5 janvier 2009 susvisée.
+    
+
+     4. attestation du prestataire s’engageant à respecter les prescriptions figurant à l’annexe 5 de la circulaire du 5 janvier 2009 susvisée.
+    
+
+     Les modèles des documents mentionnés aux points 3 et 4 précédemment sont repris à l’annexe 5.5 de l’annexe 5 de la circulaire du 5 janvier 2009 susvisée (modèles également téléchargeables sur le site http://rsde.ineris.fr).
+    
+
+     2.4 Dans le cas où l’exploitant souhaite réaliser lui-même le prélèvement des échantillons, celui-ci doit fournir à l’inspection avant le début des opérations de prélèvement et de mesures prévues à l’article 3 du présent arrêté, les procédures qui lui aura établies démontrant la fiabilité et la reproductibilité de ses pratiques de prélèvement et de mesure de débit. Ces procédures doivent intégrer les points détaillés aux paragraphes 5.2 à 3.6 de l’annexe 5 de la circulaire du 5 janvier 2009 susvisée et préciser les modalités de traçabilité de ces opérations.
+    
+
+    VU** la circulaire du 10 mai 2000 relative à la prévention des accidents majeurs impliquant des substances ou des préparations dangereuses présentes dans certaines catégories d'installations classées pour la protection de l'environnement soumises à autorisation (application de la directive Seveso II) ;
+   
+
+    VU** la circulaire du 10 mai 2010 récipissant les règles méthodologiques applicables aux études de dangers, à l'appréciation de la démarche de réduction du risque à la source et aux plans de prévention des risques technologiques (PPRT) dans les installations classées en application de la loi du 30 juillet 2003
+   
+
+     L'exploitant établit une liste des "éléments importants pour la sécurité" aussi bien pour prévenir les causes d'un accident que pour en limiter les conséquences. Cette liste comporte les équipements principaux ou accessoires ainsi que les éléments de supportage et les structures dont la défaillance entraînerait un danger, de même que les éléments qui sont opérés à intervenir pour pallier les effets dangereux de la défaillance d'autre matériel. Les équipements définis comme étant important pour la sécurité (IP) au sens de la circulaire du 10 mai 2000 font l'objet d'une attention particulière.
+    
+
+    VU** la circulaire du 10 mai 2000 relative à la prévention des accidents majeurs impliquant des substances ou des préparations dangereuses présentes dans certaines catégories d'installations classées pour la protection de l'environnement soumises à autorisation (application de la directive Seveso II) ;
+   
+
+    VU** la circulaire du 10 mai 2010 récipissant les règles méthodologiques applicables aux études de dangers, à l'appréciation de la démarche de réduction du risque à la source et aux plans de prévention des risques technologiques (PPRT) dans les installations classées en application de la loi du 30 juillet 2003
+   
+
+     L'exploitant établit une liste des "éléments importants pour la sécurité" aussi bien pour prévenir les causes d'un accident que pour en limiter les conséquences. Cette liste comporte les équipements principaux ou accessoires ainsi que les éléments de supportage et les structures dont la défaillance entraînerait un danger, de même que les éléments qui sont opérés à intervenir pour pallier les effets dangereux de la défaillance d'autre matériel. Les équipements définis comme étant important pour la sécurité (IPS) au sens de la circulaire du 10 mai 2000 font l'objet d'une attention particulière.
+    
+
+    Vu la circulaire du 10 mai 2000 relative à la prévention des accidents majeurs impliquant des substances ou des préparations dangereuses présentes dans certaines catégories d'installations classées pour la protection de l'environnement soumises à autorisation (application de la directive Seveso II) ;
+   
+
+    Vu la circulaire du 30 mai 2010 récapitulant les règles méthodologiques applicables aux études de dangers, à l'appréciation de la démarche de réduction du risque à la source et aux plans de prévention des risques technologiques (PPRT) dans les installations classées en application de la loi du 30 juillet 2003 ;
+   
+
+    Vu la circulaire du 5 juin 2013 relative à l'éclairage nocturne des bâtiments non résidentiels ;
+   
+
+    Considérant que l'application des critères d'évaluation des mesures de maîtrise des risques, fixés par la circulaire ministérielle du 29 septembre 2005, conduit à identifier plusieurs installations pour lesquelles la démarche d'amélioration de la sécurité doit être poursuivie ;
+   
+
+       Les prescriptions de l'arrêté ministériel du 23 janvier 1997 modifié relatif à la limitation des bruits émis dans l'environnement par les installations relevant du titre V - titre I du Code de l'Environnement, ainsi que les règles techniques annexées à la circulaire du 23 juillet 1986 relative aux vibrations mécaniques émises dans l'environnement par les installations classées sont applicables.
+      
+
+       En cas d'émissions de vibrations mécaniques gênantes pour le voisinage ainsi que pour la sécurité des biens ou des personnes, les points de contrôle, les valeurs des niveaux limites admissibles ainsi que la mesure des niveaux vibratoires émis seront déterminés suivant les spécifications des règles techniques annexées à la circulaire ministérielle n° 23 du 23 juillet 1986 relative aux vibrations mécaniques émises dans l'environnement par les installations classées.
+      
+
+     Pour effectuer ces réexamens, l'exploitant peut s'appuyer sur les dispositions de l'avis de la Direction Générale de la Prévention des Risques du 8 février 2017 relatif au réexamen quinquennal des études de dangers des installations classées pour la protection de l'environnement de statut Seveso seuil haut (NOR : DEVP1631704V). Si le réexamen conduit à réviser l'étude de dangers, l'exploitant élabore la révision de l'étude de dangers selon les dispositions prévues par l'arrêté du 26 mai 2014 susvisé. Elle contient à minima les informations listées à l'annexe III de cet arrêté. L'analyse de risques et l'étude de dangers sont réalisées en tenant compte, le cas échéant, des préconisations de la circulaire du 10 mai 2010 recapitulant les règles méthodologiques applicables aux études de dangers à l'initiative de l'exploitant et aux plans de prévention des risques industriels (PRI) et des plans de prévention des risques technologiques (PPRT) et des mesures de prévention des risques. Le cas échéant, l'exploitant joint à cette étude un document comprenant une liste et un échéancier de mise en œuvre des mesures exposées dans l'étude de dangers concourant à la réduction du risque et à l'amélioration de la sécurité au sein de l'établissement. L'exploitant tient à la disposition de l'inspection un plan d'actions et un état d'avancement de la mise en œuvre de ces mesures.
+    
+
+    VU** la circulaire du 29 mars 2004, relative aux installations classées, concernant la réduction des émissions fugitives des composés organiques volatils dans le secteur de la pétrochimie et de la chimie organique ;
+   
+
+       Le montant des garanties financières liées au classement Seveso Seuil haut est calculé suivant la méthode de détermination présentée dans la circulaire ministérielle du 18 juillet 1997 relative aux garanties financières pour les installations figurant sur la liste prévue à l’article L. 515-8 du Code de l’environnement.
+      
+
+
+
+        assurer que la gestion des déchets se fait sans mettre en danger la santé humaine et sans nuire à l'environnement, notamment sans créer de risque pour l'eau, l'air, le sol, la faune ou la flore, sans provoquer de nuisances sonores ou olfactives et sans porter atteinte aux paysages et aux sites présentant un intérêt particulier,
+       
+
+        organiser le transport des déchets et le limiter en distance et en volume selon un principe de proximité,
+       
+
+        contribuer à la transition vers une économie circulaire
+       
+
+        économiser les ressources épuisables et améliorer l'efficacité de l'utilisation des ressources.
+       
+
+
+
+      Les prescriptions de l'arrêté ministériel du 23 janvier 1997 modifiée relatifs à la limitation des bruits émis dans l'environnement par les installations relevant du livre V - titre I du Code de l'Environnement, ainsi que les règles techniques annexées à la circulaire du 23 juillet 1986 relatives aux vibrations mécaniques émises dans l'environnement par les installations classées sont applicables.
+     
+
+       En cas d'émissions de vibrations mécaniques générantes pour le voisinage ainsi que pour la sécurité des biens ou des personnes, les points de contrôle, les valeurs des niveaux limites admissibles ainsi que la mesure des niveaux vibratoires émis seront déterminés suivant les spécifications des règles techniques annexées à la circulaire ministérielle n° 23 du 23 juillet 1986 relative aux vibrations mécaniques émises dans l'environnement par les installations classées.
+      
+
+    VU la circulaire DPPRDE du 4 février 2002 qui organise une action nationale de recherche et de réduction des rejets de substances dangereuses dans l'eau par les installations classées ;
+   
+
+    VU la circulaire DCE 2005/12 du 28 juillet 2005 relative à la définition du « bon état » ;
+   
+
+    VU la circulaire DE/DPPR du 7 mai 2007 définissant les « normes de qualité environnementale » (NQE) et les objectifs nationaux de réduction des émissions de certaines substances ;
+   
+
+    VU la circulaire DGPR/SRT du 5 janvier 2009 relative à la mise en œuvre de la deuxième phase de l'action nationale de recherche et de réduction des substances dangereuses pour le milieu aquatique présentes dans les rejets des installations classées pour la protection de l'environnement (ICPE) soumises à autorisation ;
+   
+
+    VU la circulaire DGPR/SRT du 23 mars 2010 relative à l'adaptation des conditions de mise en œuvre de la circulaire du 5 janvier 2009 relative aux actions de recherche et de réduction des substances dangereuses dans les rejets aqueux des installations classées ;
+   
+
+    Considérant les objectifs de réduction et de suppression de certaines substances dangereuses fixées dans la circulaire DE/DPPR du 7 mai 2007 ;
+   
+
+     2.1 Les prélèvements et analyses réalisés en application du présent arrêté doivent respecter les dispositions de l’annexe 5 (prise de l’annexe 5 de la circulaire du 5 janvier 2009) du présent arrêté.
+    
+
+      Cas spécifiques des abandons de substances : les substances suivantes peuvent être abandonnées à la condition que les rôles premières mesurent démontrent leur absence (concentration inférieure à la limite de détection) : Nonylphénols, Octylphénols, Acide chloracétique (ces substances n'apparaissent pas aux listes en gris des listes sectorielles définies à l'annexe 1 de la circulaire de référence).
+     
+
+     3. 3.1 Toutes les concentrations mesurées pour la substance sont inférieures à 10*NQE (norme de qualité environnementale fixée dans l'arrêté ministériel du 25 janvier 2010 relatif aux méthodes et critères d'évaluation de l'état écologique, de l'état chimique et du potentiel écologique des eaux de surface pris en application des articles R. 212-10, R.212-11 et R.212-18 du code de l'environnement, en patente de leur adoption en droit français, 10*NQE), norme de qualité environnementale provisoire fixée dans la circulaire DE/DPPR du 7 mai 2007, concentrations définies dans le tableau de l'annexe 1 du présent arrêté (5ème colonne du tableau) ;
+    
+
+     (documents disponibles à l'annexe 5.5 de la circulaire du 5 janvier 2009 et téléchargeables sur le site http://rsee.ineris.fr/)
+    
+
+     ¹ Substances Dangereuses Prioritaires issues de l'annexe X de la DCE (tabl. A de la circulaire du 07/05/07) et de la directive "fille" de la DCE adoptée le 20 octobre 2008 (entrée en vigueur le 10 novembre 2008).
+    
+
+     ² Substances Prioritaires issues de l'annexe X de la DCE (tabl. A de la circulaire du 07/05/07).
+    
+
+     ³ Autres substances pertinentes issues de la liste I de la directive 2006/11/CE (anciennement Directive 76/464/CEE) et le figurant pas à l'annexe X de la DCE (tabl. B de la circulaire du 07/05/07).
+    
+
+     ⁴ Autres substances pertinentes issues de la liste II de la directive 2006/11/CE (anciennement Directive 76/464/CEE) et autres substances, non SDP ni SP (tabl. D et E de la circulaire du 07/05/07).
+    
+
+    VU la circulaire DPPR/DE du 4 février 2002 qui organise une action nationale de recherche et de réduction des rejets de substances dangereuses dans l'eau par les installations classées;
+   
+
+    VU la circulaire du 5 janvier 2009 relative à la mise en œuvre de la deuxième phase de la recherche et de réduction des substances dangereuses pour le milieu aquatique présentes dans les rejets des installations classées pour la protection de l'environnement;
+   
+
+       L’exploitant prend toutes les dispositions nécessaires dans la conception, l’aménagement, et l’exploitation de ses installations pour respecter les principes définis par l’article L. 541-1 du code de l’environnement :
+       
+
+         1° En priorité, de prévenir et de réduire la production et la nocivité des déchets, notamment en agissant sur la conception, la fabrication et la distribution des substances et produits et en favorisant le réemploi, ainsi que de diminuer les incidences globales de l’utilisation des ressources et d’améliorer l’efficacité de leur utilisation ;
+        
+
+         2° De mettre en œuvre une hiérarchie des modes de traitement des déchets consistant à privilégier, dans l’ordre : a) La préparation en vue de la réutilisation ; b) Le recyclage ; c) Toute autre valorisation, notamment la valorisation énergétique ; d) L’élimination.
+        
+
+         3° D’assurer que la gestion des déchets se fait sans mettre en danger la santé humaine et sans nuire à l’environnement, notamment sans créer de risque pour l’eau, l’air, le sol, la faune ou la flore, sans provoquer de nuisances sonores ou olfactives et sans porter atteinte aux paysages et aux sites présentant un intérêt particulier ;
+        
+
+         4° D’organiser le transport des déchets et de le limiter en distance et en volume selon un principe de proximité ;
+        
+
+         5° De contribuer à la transition vers une économie circulaire ;
+        
+
+         6° D’optimiser les ressources épuisables et d’améliorer l’efficacité de l’utilisation des ressources.
+        
+
+
+
+       Les prescriptions de l'arrêté ministériel du 23 janvier 1997 modifié relatif à la limitation des bruits émis dans l'environnement par les installations relevant du titre I du Code de l'environnement, ainsi que les règles techniques annexées à la circulaire du 23 juillet 1996 relative aux vibrations mécaniques émises dans l'environnement par les installations classées sont applicables.
+      
+
+      En cas d'émissions de vibrations mécaniques gênantes pour la voisinage ainsi que pour la sécurité des biens ou des personnes, les points de contrôle, les valeurs des niveaux limites admissibles ainsi que la mesure des niveaux vibratoires emis seront déterminés suivant les spécifications des règles techniques annexées à la circulaire ministérielle n° 23 du 23 juillet 1986 relative aux vibrations mécaniques émises dans l'environnement par les installations classées.
+     
+
+     En cas d'émissions de vibrations mécaniques gênantes pour la voisinage ainsi que pour la sécurité des biens ou des personnes, les points de contrôle, les valeurs des niveaux limites admissibles ainsi que la mesure des niveaux vibratoires émis seront déterminés suivant les spécifications des règles techniques annexées à la circulaire ministérielle n° 23 du 23 juillet 1986 relatives aux vibrations mécaniques émises dans l'environnement par les installations classées.
+    
+
+    VU la circulaire DPPR/DE du 4 février 2002 qui organisè une action nationale de recherche et de réduction des rejets de substances dangereuses dans l'eau par les installations classées ;
+   
+
+    VU la circulaire DCE 2005/12 du 28 juillet 2005 relative à la définition du « bon état » ;
+   
+
+    VU la circulaire DE/DPPR du 7 mai 2007 définissant les « normes de qualité environnementale provisoires (NQEP) » et les objectifs nationaux de réduction des émissions de certaines substances ;
+   
+
+    VU la circulaire DGPR/SRT du 5 janvier 2009 relative à la mise en œuvre de la deuxième phase de la recherche et de réduction des substances dangereuses pour la milieu aquatique présentées dans les rejets des installations classées pour la protection de l'environnement (ICPE) soumises à autorisation ;
+   
+
+    VU la circulaire DGPR/SRT du 23 mars 2010 relative à l'adaptation des conditions de mise en œuvre de la circulaire du 5 janvier 2009 relative aux actions de recherche et de réduction des substances dangereuses dans les rejets aqueux des installations classées ;
+   
+
+    Considérant les objectifs de réduction et de suppression de certaines substances dangereuses fixés dans la circulaire DE/DPPR du 7 mai 2007 ;
+   
+
+     2.1 Les prélèvements et analyses réalisés en application du présent arrêté doivent respecter les dispositions de l’annexe 5 (prise de l’annexe 5 de la circulaire du 5 janvier 2009) du présent arrêté.
+    
+
+      L’exploitant met en œuvre dès le 1er mai 2011, le programme de surveillance aux points de rejet des effluents industriels d’établissement dans les conditions suivantes :
+      
+
+        liste des substances dangereuses : substances dangereuses visées à l’annexe 1 du présent arrêté ;
+       
+
+        périodicité : 1 mesure par mois pendant 6 mois ;
+       
+
+        durée de chaque prélèvement : 24 heures représentatives du fonctionnement de l'installation.
+       
+
+        Cas spécifique des abandons de substances : les substances suivantes peuvent être abandonnées à la condition que les trous premîeres mesures démontrent leur absence (concentration inférieure à la limite de détection) : Nonylphénols, Octylphénols, Acide chloracétique, Chlorofème (ces substances n'apparaissent pas aux listes en gras des listes sectorielles définies à l'annexe 1 de la circulaire de référence).
+       
+
+
+
+     3. Toutes les concentrations mesurées pour la substance sont inférieures à 10*EQE (norme de qualité environnementale fixée dans l'arrêté ministériel du 25 janvier 2010 relatif aux méthodes et critères d'évaluation de l'état écologique, de l'état chimique et du potentiel écologique des eaux de surface pris en application des articles R. 212-10, R.212-11 et R.212-18 du code de l'environnement, ou, en l'attente de leur adoption en droit français, 10*EQEp, norme de qualité environnementale provisoire fixée dans la circulaire DE/DPPR du 7 mai 2007), concentrations définies dans le tableau de l'annexe 1 du présent arrêté (5ème colonne du tableau).
+    
+
+     (documents disponibles à l’annexe 5.5 de la circulaire du 5 janvier 2009 et téléchargeables sur le site http://rscd.lrdev.fr)
+    
+
+
+
+       Substances Dangereuses Prioritaires issues de l’annexe X de la DCE (tableau A de la circulaire du 07/05/07) et de la directive filière DCE adoptée le 20 octobre 2008 (anthracène et endosulfan)
+      
+
+       Substances Prioritaires issues de l’annexe X de la DCE (tableau A de la circulaire du 07/05/07)
+      
+
+       Autres substances pertinentes issues de la liste 1 de la directive 2006/11/CE (amendement Directives 76/464/CEE) et ne figurant pas à l’annexe X de la DCE (Tableau B de la circulaire du 07/05/07)
+      
+
+       Autres substances pertinentes issues de la liste 1 de la directive 2006/11/CE (amendement Directives 76/464/CEE) et autres substances, non SDP ni SP (tableau C de la circulaire du 07/05/07)
+      
+
+       Autres paramètres
+      
+
+
+
+    Vu la loi n° 2020-105 du 10 février 2020 relative à la lutte contre le gaspillage et à l’économie circulaire ;
+   
+
+     Le complément du dispositif de défense peut être constitué par un point d'eau adéquat, à proximité, dûment aménagé et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre 1961. Cette dernière aménage et conforme à la circulaire interministérielle n°465 du 10 décembre
+    
+
+    Vu la circulaire DPPR/DE du 4 février 2002 qui organise une action nationale de recherche et de réduction des rejets de substances dangereuses dans l'eau par les installations classées ;
+   
+
+    Vu la circulaire DCE 2006/12 du 28 juillet 2005 relative à la définition du « bon état » ;
+   
+
+    Vu la circulaire DE/DPPR du 7 mai 2007 définissant les « normes de qualité environnementale provisoire (NQEP) » et les objectifs nationaux de réduction des émissions de certaines substances ;
+   
+
+    Vu la circulaire DGP/R/ERT du 6 janvier 2009 relative à la mise en œuvre de la deuxième phase de l'action nationale de recherche et de réduction des substances dangereuses pour le milieu aquatique présentes dans les rejets des installations classées pour la protection de l'environnement (ICPE) soumises à autorisation ;
+   
+
+     Si un risque de vibration existe, l'étude des effets sur les catégories de construction ou ouvrages doit être confiée à des personnes compétentes ou à un organisme qualifié et conformément aux règles techniques annexées à la circulaire du 23 juillet 1986 relative aux vibrations mécaniques émises dans l'environnement par les installations classées pour la protection de l'environnement. La périodicité et la nature de ces contrôles doivent être définies en accord avec l'inspecteur des installations classées. Les frais occasionnés par ces contrôles sont supportés par l'exploitant.
+    
+
+      Les prescriptions de l'arrêté ministériel du 23 janvier 1997 modifié relatif à la limitation des bruits émis dans l'environnement par les installations relevant du titre I du Code de l'Environnement, ainsi que les règles techniques annexées à la circulaire du 23 juillet 1986 relatives aux vibrations mécaniques émises dans l'environnement par les installations classées sont applicables.
+     
+
+       En cas d’émissions de vibrations mécaniques gênantes pour la voisinage ainsi que pour la sécurité des biens ou des personnes, les points de contrôle, les valeurs des niveaux limites admissibles ainsi que la mesure des niveaux vibratoires émis seront déterminés suivant les spécifications des règles techniques annexées à la circulaire ministérielle n° 23 du 23 juillet 1986 relative aux vibrations mécaniques émises dans l'environnement par les installations classées.
+      
+
+    Vu la circulaire DPPRIDE du 4 février 2002 qui organise une action nationale de recherche et de réduction des rejets de substances dangereuses dans l'eau par les installations classées ;
+   
+
+    VU la circulaire DCE 2005/12 du 28 juillet 2005 relative à la définition du « bon état » ;
+   
+
+    VU la circulaire DE/DPPR du 7 mai 2007 définissant les « normes de qualité environnementale prioritaires (NQEp) » et les objectifs nationaux de réduction des émissions de certaines substances ;
+   
+
+    VU la circulaire DGPR/SRT du 5 janvier 2009 relative à la mise en œuvre de la deuxième phase de l’action nationale de recherche et de réduction des substances dangereuses pour le milieu aquatique présentes dans les eaux rejetées des installations classées pour la protection de l’environnement (ICPE) soumises à autorisation ;
+   
+
+    VU la circulaire DGPR/SRT du 23 mars 2010 relative à l’adaptation des conditions de mise en œuvre de la circulaire du 5 janvier 2009 relative aux actions de recherche et de réduction des substances dangereuses dans les rejets aqueux des installations classées ;
+   
+
+    Considérant les objectifs de réduction et de suppression de certaines substances dangereuses fixées dans la circulaire DE/DPPR du 7 mai 2007 ;
+   
+
+     2.1 Les prélèvements et analyses réalisés en application du présent arrêté doivent respecter les dispositions de l’annexe 5 (reprise de l’annexe 5 de la circulaire du 5 janvier 2005) du présent arrêté.
+    
+
+      Cas spécifique des abandons de substances : les substances suivantes pourront être abandonnées à la condition que les trois premières mesures démontrent leur absence (concentration inférieure à la limite de détection) : Nonylphénol, Octylphénol, Acide chlorosulfonique, Chrome et ses composés (ces substances ne sont pas listées en gras des listes sectorielles définies à l’annexe 1 de la circulaire de référence).
+     
+
+     3. Toutes les concentrations mesurées pour la **substance** sont inférieures à 10%NOE (nom de qualité environnementale fixée dans l’arrêté ministériel du 25 janvier 2010 relatif aux méthodes et critères d’évaluation de l’état écologique, de l’état chimique et du potentiel écologique des eaux de surface pris en application des articles R. 212-10, R.212-11 et R.212-18 du code de l’environnement ou, en l’absence de leur adoption en droit français, 10%NOEp, nom de qualité environnementale provisoire fixée dans la circulaire DE/DPPR du 7 mai 2007), concentrations définies dans le tableau de l’annexe 1 du présent arrêté (5ème colonne du tableau).
+    
+
+     (documents disponibles à l'annexe 5.5 de la circulaire du 5 janvier 2009 et téléchargeables sur le site http://rsde.ineris.fr/)
+    
+
+     19.2 Des ressources en eau suffisantes seront disponibles pour combattre un incendie. Elles seront constituées notamment :
+     
+
+       d’un stockage d’eau de 500 m³ situé sur le site et aménagé conformément aux dispositions de la circulaire interministérielle n° 465 du 10 décembre 1951,
+      
+
+       d’un réseau incendie capable de fournir 180 m³/h et équipé de 6 bornes judicieusement réparties.
+      
+
+
+
+     Si un risque de vibration existe, l'étude de ses effets sur les catégories de construction ou aux règles techniques annexées à la circulaire du 23 juillet 1986 relative aux vibrations mécaniques périodique et la nature de ces contrôles doivent être définies en accord avec l'inspecteur des installations classées. Les frais occasionnés par ces contrôles sont supportés par l'exploitant.
+    
+
+    VU la circulaire DPPR/DE du 4 février 2002 qui organise une action nationale de recherche et de réduction des rejets de substances dangereuses dans l'eau par les installations classées ;
+   
+
+    VU la circulaire DCE 2005/12 du 28 juillet 2003 relative à la définition du « bon état » ;
+   
+
+    VU la circulaire DE/DPPR du 7 mai 2007 définissant les normes de qualité environnementale provisoire (NOEP) et les objectifs nationaux de réduction des émissions de certaines substances ;
+   
+
+    VU la circulaire DGPPR/SRT du 5 janvier 2009 relative à la mise en œuvre de la deuxième phase de l’action nationale de recherche et de réduction des substances dangereuses pour la milieu aquatique présents dans les rejets des installations classées pour la protection de l’environnement (ICPE), soumise à autorisation ;
+   
+
+    Considérant les objectifs de réduction et de suppression de certaines substances dangereuses fixées dans la circulaire DE/DPPR du 7 mai 2007 ;
+   
+
+
+
+       Toutes les concentrations mesurées pour la substance sont strictement inférieures à 10%NOE (norme de qualité environnementale, en l'attente de leur adoption en droit français) 10%QEp (norme de qualité environnementale provisoire fixée dans la circulaire DE/DPPR du 7 mai 2007) concentrations définies dans le tableau de l'annexe 1 du présent arrêté (5ème colonne du tableau).
+      
+
+
+
+
+
+
+
+         Substance
+        
+
+         Code SANDRE
+        
+
+         Catégorie de Substance : 1 = prioritaires, 2 = non prioritaires, 3 = résidus, 4 = partagés liste 1, 5 = partagés liste 2
+        
+
+         Limite de quantification à atteindre par les laboratoires : LQ en µg/l (source : annexe 5.2 de la circulaire du 03/01/2009)
+        
+
+         Valeurs limites admissibles via vis du millieu (eaux de boisson) : 10
+         
+          NQE ou 10
+         
+         NQEp en µg/l (cf. annexe 3.3. de la circulaire du 03/01/2009)
+        
+
+
+
+
+
+         Chloroforme
+        
+
+         1135
+        
+
+         2
+        
+
+         1
+        
+
+         120
+        
+
+
+
+         Nitrobenzène
+        
+
+         1957
+        
+
+         1
+        
+
+         0,1
+        
+
+         3
+        
+
+
+
+         Octylphénols
+        
+
+         1920
+        
+
+         2
+        
+
+         0,1
+        
+
+         1
+        
+
+
+
+         Acide chloracétique
+        
+
+         1465
+        
+
+         4
+        
+
+         25
+        
+
+         5,8
+        
+
+
+
+         Nickel et ses composés
+        
+
+         1386
+        
+
+         2
+        
+
+         10
+        
+
+         200
+        
+
+
+
+         Zinc et ses composés
+        
+
+         1383
+        
+
+         4
+        
+
+         10
+        
+
+         Fc du bruit de fond
+        
+
+
+
+         Cuivre et ses composés
+        
+
+         1392
+        
+
+         4
+        
+
+         5
+        
+
+         Fc du bruit de fond
+        
+
+
+
+         Demande Chimique en Oxygène
+        
+
+         1314
+        
+
+         Paramètres de suivi
+        
+
+         30000
+        
+
+
+
+
+
+         Organique Total
+        
+
+         1941
+        
+
+         Paramètres de suivi
+        
+
+         300
+        
+
+
+
+
+
+         Métaux en Suspension
+        
+
+         1305
+        
+
+
+
+         2000
+        
+
+
+
+
+
+
+
+     (documents disponibles à l'annexe 5.5 de la circulaire du 5 janvier 2009 et téléchargeables sur le site http://rsde.ineris.fr/)
+    
+
+     ¹ Substances Dangerueuses Prioritaires issues de l'annexe X de la DCE (tableau A de la circulaire du 07/05/07) et de la directive dite de la DCE adoptée le 20 octobre 2008 (annuaire et envoi en fin d'année).
+    
+
+     ² Substances Prioritaires issues de l'annexe X de la DCE (tableau A de la circulaire du 07/05/07).
+    
+
+     ³ Autres substances pertinentes issues de la liste I de la directive 2006/11/CE (anciennement Directive 76/464/CEE) et ne figurant pas à l'annexe X de la DCE (tableau B de la circulaire du 07/05/07).
+    
+
+     ⁴ Autres substances pertinentes issues de la liste II de la directive 2006/11/CE (anciennement Directive 76/464/CEE) et autres substances, non SDP ni SP (tableaux D et E de la circulaire du 07/05/07).
+    
+
+    Considérant les objectifs de réduction et de suppression de certaines substances dangereuses fixés dans la circulaire DE/DPPR du 7 mai 2007 ;
+   
+
+      Compétent pour la mise en place d'un outil d'épurateur sur le site de Pacé, l'exploitant doit chercher les éventuelles substances dangereuses rejetées par son procédé industriel. Au regard des activités mises en œuvre sur le site, l'exploitant doit rechercher les substances suivantes dans son rejet en sortie de station d'épuration (référence du rejet vers le milieu récepteur : " rejet STEP – point de rejet n°1") :
+      
+
+
+
+          Substance
+         
+
+          Code Sandre
+         
+
+          LQ circulaire (µg/l)
+         
+
+          Seuil de surveillance périodique
+         
+
+          Seuil d'étude de réduction
+         
+
+
+
+
+
+          Chloroforme
+         
+
+          1135
+         
+
+          1
+         
+
+          20
+         
+
+          100
+         
+
+
+
+          Cuivre et ses composés
+         
+
+          1392
+         
+
+          5
+         
+
+          200
+         
+
+          500
+         
+
+
+
+          Nickel et ses composés
+         
+
+          1386
+         
+
+          10
+         
+
+          20
+         
+
+          100
+         
+
+
+
+          Zinc et ses composés
+         
+
+          1383
+         
+
+          10
+         
+
+          200
+         
+
+          500
+         
+
+
+
+          Plomb et ses composés
+         
+
+          1382
+         
+
+          5
+         
+
+          20
+         
+
+          100
+         
+
+
+
+          Mercure et ses composés
+         
+
+          1387
+         
+
+          0,5
+         
+
+          2
+         
+
+          5
+         
+
+
+
+          Cadmium et ses composés
+         
+
+          1388
+         
+
+          2
+         
+
+          2
+         
+
+          10
+         
+
+
+
+          Acide chloroacétique
+         
+
+          1465
+         
+
+          25
+         
+
+          300
+         
+
+          500
+         
+
+
+
+          Fluoranthène
+         
+
+          1191
+         
+
+          0,01
+         
+
+          4
+         
+
+          30
+         
+
+
+
+          Naphtalène
+         
+
+          1517
+         
+
+          0,05
+         
+
+          20
+         
+
+          100
+         
+
+
+
+          Nonyphénols linéaires ou ramifiés
+         
+
+          6598
+         
+
+          0,1
+         
+
+          2
+         
+
+          10
+         
+
+
+
+          Tétrachlorure de carbone
+         
+
+          1276
+         
+
+          0,5
+         
+
+          2
+         
+
+          5
+         
+
+
+
+          Tributylétain cation
+         
+
+          2879
+         
+
+          0,02
+         
+
+          2
+         
+
+          5
+         
+
+
+
+          Trichloréthylène
+         
+
+          1286
+         
+
+          0,5
+         
+
+          2
+         
+
+          5
+         
+
+
+
+
+
+
+
+        Article 1.8.1. Arrets
+       
+
+        Article 1.8.2. Circulaires
+       
+
+        Article 1.8.3. Instructions
+       
+
+
+
+       Les prescriptions de l'arrêté ministériel du 23 janvier 1997 relatif à la limitation des bruits émis dans l'environnement par les installations relevant du titre V - titre II du Code de l'Environnement, ainsi que les règles techniques annexées à la circulaire du 23 août 1996 relative aux vibrations mécaniques émises dans l'environnement par les installations classées sont applicables.
+      
+
+      En cas d'émissions de vibrations mécaniques gênantes pour le voisinage ainsi que pour la sécurité des biens ou des personnes, les points de contrôle, les valeurs des niveaux limites admissibles ainsi que la mesure des niveaux vibratoires émis seront déterminés suivant les spécifications des règles techniques annexées à la circulaire ministérielle n° 23 du 23 juillet 1986 relatives aux vibrations mécaniques émises dans l'environnement par les installations classées.
+     
+
+       Les prescriptions de l'arrêté ministériel du 23 janvier 1997 relatif à la limitation des bruits émis dans l'environnement par les installations relevant du titre V - titre du Code de l'Environnement, ainsi que les règles techniques annexées à la circulaire du 23 juillet 1998 relatives aux vibrations mécaniques émises dans l'environnement par les installations classées sont applicables.
+      
+
+      En cas d'émissions de vibrations mécaniques générantes pour le voisinage ainsi que pour la sécurité des biens ou des personnes, les points de contrôle, les valeurs des niveaux limites admissibles ainsi que la mesure des niveaux vibratoires émis seront déterminés suivant les spécifications des règles techniques annexées à la circulaire ministérielle n° 23 du 23 juillet 1986 relative aux vibrations mécaniques émises dans l'environnement par les installations classées.
+     
+
+     Sans préjudice des prescriptions figurant au présent arrêté, sont applicables aux installations visées par le présent arrêté :
+     
+
+       l'arrêté ministériel du 31 mars 1980 portant règlement des installations électriques des établissements réglementés au titre de la législation sur les installations classées ;
+      
+
+       l'arrêté ministériel du 2 février 1998 relatif aux prélèvements et à la consommation ainsi qu'aux émissions de toute nature des installations classées pour la protection de l'environnement soumise à autorisation ;
+      
+
+       l'arrêté ministériel du 26 septembre 1985 relatif aux ateliers de traitement de surface ;
+      
+
+       l'arrêté ministériel du 4 janvier 1985 relatif au contrôle des circuits d'élimination des déchets générateurs de nuisances ;
+      
+
+       les règles techniques annexées à la circulaire n° 86-23 du 23 juillet 1986 relative aux vibrations mécaniques émises dans l'environnement ;
+      
+
+       l'arrêté ministériel du 23 janvier 1997 relatif à la limitation des bruits émis dans l'environnement par les installations classées pour la protection de l'environnement ;
+      
+
+
+
+     20. Les cheminées des fours devront avoir des caractéristiques conformes à la circulaire ministérielle du 24 novembre 1970 (J.O. du 13 décembre 1970) relative à la construction des cheminées dans les cas des installations de combustion, ainsi qu'à la circulaire ministérielle du 15 août 1971 (J.O. du 27 octobre 1971) relative à la construction des cheminées dans les cas des installations émettant des poussières fines.
+    
+
+        Les machines fixes susceptibles d'incommoder le voisinage par des trépidations seront isolées par des dispositifs antivibratoires efficaces. La gêne éventuelle sera évaluée conformément aux règles techniques annexées à la circulaire 86-23 du 23 juillet 1986 relatives aux vibrations mécaniques émises dans l'environnement par les installations classées.
+       
+
+        Les dépôts de fuel lourd sont soumis aux dispositions des règles d'aménagement et d'exploitation des dépôts d'hydrocarbures liquides de 1ère et 2ème classe, de capacité fixe globale au plus égale à 1 000 m³ emmagasinés à l'atelier de parachèvement de l'alumine, conformément à l'arrêté du 19 novembre 1989, modifié par la circulaire du 6 mai 1999, relatives aux dépôts de liquides inflammables.
+       
+
+        Le renouvellement d’épreuve doit être effectué dans les conditions définies par l’annexe II de l’instruction du 17 avril 1975 modifiée à la circulaire du 17 avril 1978 relative aux réservoirs enterrés (J.O. du 19 juin 1978).
+       
+
+     Les moyens de lutte contre l’incendie des dépôts devront satisfaire aux prescriptions de la circulaire et de l’instruction technique du 19 novembre 1989, modifiées par la circulaire du 6 mai 1998, relatives aux dépôts de liquides inflammables, avant le 1er février 2002.
+    
+
+    VU** la circulaire ministérielle du 9 Novembre 1989 relative aux dépôts de liquides inflammables,
+   
+
+     La Société ALUMINIUM PECHINEY, dont les installations sont situées sur la commune de GARDANNE, est mise en demeure :
+     
+
+       de réaliser sous un délai d'un mois, des notifications dûment arrêtées, un dossier comprenant une étude sur la mise en conformité du dépôt de fuel lourd ainsi qu'une étude techno-économique 9 Novembre 1989 relative aux dépôts de liquides inflammables. Cette dernière étude devra proposer et recevoir l'avis favorable des Services d'Incendie et de Secours des Bouches-du-Rhône ;
+      
+
+       de mettre en conformité sous un délai de trois mois, des notifications dûment arrêtées, ses installations de stockage de fuel lourd aux dispositions de la circulaire modifiée du 9 Novembre 1989 relative aux dépôts de liquides inflammables sur la base des résultats des études demandées.
+      
+
+
+
+
+     PREFECTURE DES BOUCHES-DU-RHONE
+    
+
+     DIRECTION DES COLLECTIVITES LOCALES ET DU CADRE DE VIE
+    
+
+     BUREAU DE L'ENVIRONNEMENT
+    
+
+     Dossier suivi par : MARGUIMBEAU Adresse électronique : marguimbau@bouches-du-rhone.p
+    
+
+     ref.gouv.fr
+    
+
+     n° 100-2006 A À RETE RELATIF A LA SOCIETE ALCAN ALUMINIUM PECHINEY PORTANT PRESCRIPTIONS ADDITIONNELLES pour application de la circulaire ministérielle du 13 juillet 2004 relative aux
+    
+
+     installations classées pour la protection de l'environnement et à la maîtrise et la réduction des émissions atmosphériques toxiques pour la santé concernant son établissement de Gardanne LE
+    
+
+     PREFET DE LA REGION PROVENCE ALPES COTE D'AZUR
+    
+
+     PREFET DES BOUCHES DU RHONE Vu le Code de l'Environnement et notamment son titre 1er du Livre V. Vu le décret
+    
+
+     n° 77-1133 du 21 septembre 1977 modifié relatif aux
+    
+
+     Installations Classées pour la Protection de l'Environnement, et notamment son article 18. Vu la circulaire ministérielle
+    
+
+     n° 04-217 du 13 juillet 2004 relative aux
+    
+
+     installations classées pour la protection de l'environnement et à la maîtrise et la réduction des émissions atmosphériques toxiques pour la santé. Vu les arrêtés antérieurs délivrés à la Société ALCAN ALUMINIUM PECHINEY. Vu le rapport du Directeur Régional de l'Industrie, de la Recherche et de l'Environnement. Inspecteur des installations classées du 29 mai 2006. Vu l'avis du Conseil Départemental d'Hygiène du 29 juin 2006. Considérant qu'un des trois objectifs majeurs de la circulaire ministérielle
+    
+
+     n° 04-217 du 13 juillet 2004, est de réduire les émissions aériennes de substances toxiques d'origine industrielle. Considérant qu'en application de la circulaire susvisée, un arrêté p
+    
+
+     réfectoral doit être pris afin d'imposer à la Société ALCAN ALUMINIUM PECHINEY des dispositions permettant - d'améliorer la surveillance et la connaissance des émissions atmosphériques, - de réaliser à l'échéance de 2010 des actions de réduction particulières contribuant à la réalisation des objectifs globaux de réduction des émissions, - de mettre en œuvre un programme de surveillance dans l'environnement. Considérant que l'article 18 du décret du 21 septembre 1977 permet de fixer des prescriptions additionnelles que la protection des intérêts visés à l'article L.511-1 du Code de l'Environnement rend nécessaire,
+    
+
+
+     n° 100-2006 A À RETE RELATIF A LA SOCIETE ALCAN ALUMINIUM PECHINEY PORTANT PRESCRIPTIONS ADDITIONNELLES pour application de la circulaire ministérielle du 13 juillet 2004 relative aux
+    
+
+     Installations Classées pour la Protection de l'Environnement, et notamment son article 18. Vu la circulaire ministérielle
+    
+
+     installations classées pour la protection de l'environnement et à la maîtrise et la réduction des émissions atmosphériques toxiques pour la santé. Vu les arrêtés antérieurs délivrés à la Société ALCAN ALUMINIUM PECHINEY. Vu le rapport du Directeur Régional de l'Industrie, de la Recherche et de l'Environnement. Inspecteur des installations classées du 29 mai 2006. Vu l'avis du Conseil Départemental d'Hygiène du 29 juin 2006. Considérant qu'un des trois objectifs majeurs de la circulaire ministérielle
+    
+
+     n° 04-217 du 13 juillet 2004, est de réduire les émissions aériennes de substances toxiques d'origine industrielle. Considérant qu'en application de la circulaire susvisée, un arrêté p
+    
+
+    VU la circulaire de la ministre de l'écologie et du développement durable du 15 janvier 2004 fixant les thèmes d'action nationale de l'inspection des installations classées pour l'année 2004, et notamment le point 8 portant sur la réduction des prélèvements industriels d'eau et de l'impact des rejets en cas de sécheresse
+   
+
+    VU la circulaire de la ministre de l'écologie et du développement durable du 15 janvier 2004 fixant les thèmes d'action nationale de l'inspection des installations classées pour l'année 2004, et notamment le point 8 portant sur la réduction des prélèvements industriels d'eau et de l'impact des rejets en cas de sécheresse
+   
+
+    Vu la circulaire DPPR/DE du 4 février 2002 qui organise une action nationale de recherche et de réduction des rejets de substances dangereuses dans l'eau par les installations classées ;
+   
+
+    Vu la circulaire DCE 2005/12 du 28 juillet 2005 relative à la définition du « bon état » ;
+   
+
+    VU la circulaire DE/DPPR du 7 mai 2007 définissant les « normes de qualité environnementale provisoires (NOEP) » et les objectifs nationaux de réduction des émissions de certaines substances ;
+   
+
+    VU la circulaire DGPR/SRT du 5 janvier 2009 relative à la mise en œuvre de la deuxième phase de l’action nationale de recherche et de réduction des substances dangereuses pour le milieu aquatique présentes dans les rejets des installations classées pour la protection de l’environnement (ICPE) soumise à autorisation ;
+   
+
+    Considérant les objectifs de réduction et de suppression de certaines substances dangereuses fixés dans la circulaire DE/DPPR du 7 mai 2007 ;
+   
+
+     (copie de l'annexe 3.6 de la circulaire RSDE du 5 janvier 2009, téléchargeable sur le site http://rsede.ineris.fr)
+    
+
+     ANNEXE 5. Prescriptions techniques applicables aux opérations de prélèvements et d'analyse copie de l'annexe 5 de la circulaire RSDE du 5 janvier 2009, téléchargeable sur le site http://rsde.ineris.fr)
+    
+
+       Les prescriptions de l'arrêté ministériel du 23 janvier 1997 modifient relativement à la limitation des bruits émis dans l'environnement par les installations relevant du titre V du Code de l'Environnement, ainsi que les règles techniques annexées à la circulaire du 23 juillet 1986 relative aux vibrations mécaniques émises dans l'environnement par les installations classées sont applicables.
+      
+
+      En cas d’émissions de vibrations mécaniques gênantes pour le voisinage ainsi que pour la sécurité des biens ou des personnes, les points de contrôle, les valeurs des niveaux limites admissibles ainsi que les mesures des niveaux vibratoires émis seront déterminés suivant les spécifications des règles techniques annexes à la circulaire ministérielle n° 23 du 23 juillet 1986 relative aux vibrations mécaniques émises dans l’environnement par les installations classées.
+     
+
+       L’exploitant est tenu de réaliser une étude des eaux souterraines (hors site) comprenant :
+       
+
+         l’état réel de la pollution des milieux (eaux souterraines)
+        
+
+         l’identification des voies d’exposition à la pollution (milieux de transfert et leurs caractéristiques) et des enjeux à protéger au regard des activités exercées et de la situation environnementale du site (un schéma conceptuel tel que prévu dans l’annexe 2 de la circulaire du 08/02/2007 ;
+        
+
+         une étude (du type interprétation de l’état des milieux telle que prévue par l’annexe 2 de la circulaire du 08/02/2007 et par la circulaire du 9 août 2013) relative à la démarche de prévention et de gestion des risques sanitaires des installations classées soumises à autorisation) comprenant notamment une évaluation des risques sanitaires permanent de statuer sur la conservation des usages des milieux impactés ou sur la nécessité d’établir des restrictions et de définir des mesures de gestion (telles que, confinement des dépôts, mise en place d’une barrière hydraulique, surveillance, restrictions d’usage, etc...), associées à un schéma de réalisation des opérations nécessaires à la maîtrise des impacts sanitaires sur les populations et à la protection de l’environnement.
+        
+
+
+
+    VU la circulaire du 24 février 1997 relative aux plans départementaux d'élimination des déchets ménagers et assimilés ;
+   
+
+     Les dispositions des circulaires DGS/96/296 du 30 avril 1996 et DGS/96/416 du 2 juillet 1996 relatives au conditionnement des déchets d'activités de soins à risques infectieux et assimilés et à l'application du règlement pour le transport des matières dangereuses par route et concernant le transport sont applicables.
+    
+
+     Les dispositions des circulaires DGS/96/296 du 30 avril 1996 et DGS/96/416 du 2 juillet 1996 relatives au conditionnement des déchets d'activités de soins à risques infectieux et assimilés et à l'application du règlement pour le transport des matières dangereuses par route et concernant le conditionnement sont applicables.
+    
+
+     Selon leurs caractéristiques, les mâchefers pourront, une fois déferraillés, faire l'objet d'une valorisation comme indiqué à l'annexe V de la circulaire ministérielle du 9 mai 1994 quant aux conditions et modalités de revalorisation.
+    
+
+     Cette valorisation pourra alors se faire soit directement, soit après un terme de maturation sur une aire spécialement aménagée à cet effet, comme précisé à l'annexe VI de la circulaire précitée.
+    
+
+     L'exploitant fera procéder trimestriellement par un organisme extérieur compétent à un contrôle :
+     
+
+       de la teneur en imbrûlés dans les mâchefers ;
+      
+
+       de la qualité des résidus de l'épuration des fumées et des mâchefers comptant :
+      
+
+       un test de lixiviation réalisé conformément au protocole défini par la norme NFX 31-210 ;
+      
+
+       une analyse chimique des résidus solides pour les REFIOM : sur la teneur en métaux lourds (Plomb, Cadmium, Mercure, Ars, Cd, Hg, Pb, Cd) ;
+      
+
+       une analyse des mâchefers sur les paramètres mentionnés à la circulaire du 9 mai 1994 - Annexe III et selon la méthode préconisée dans la circulaire susvisée - Annexe IV.
+      
+
+
+
+     Les prescriptions de l'arrêté ministériel du 23 janvier 1997 relatif à la limitation des bruits émis dans l'environnement par les installations classées pour la protection de l'environnement, et les règles techniques annexées à la circulaire du 23 juillet 1980 relatives aux vibrations mécaniques émis dans l'environnement par les installations classées lui sont applicables.
+    
+
+     L'ensemble de l'établissement doit être conforme à l'arrêté du 28 janvier 1993 relatif à la protection de certaines installations classées contre les effets de la foudre, et à ses circulaires d'application.
+    
+
+    VU la circulaire du 9 octobre 2002 relative à l’arrêté ministériel du 20 septembre 2002 ;
+   
+
+       Les prescriptions de l'arrêté ministériel du 23 janvier 1997 modifié s'appliquent à la limitation des bruits émis dans l'environnement par les installations relevant du titre I du Code de l'Environnement, ainsi que les règles techniques annexées à la circulaire du 23 juillet 1986 relative aux vibrations mécaniques émis dans l'environnement par les installations classées sont applicables.
+      
+
+       En cas d'émissions de vibrations mécaniques gênantes pour le voisinage ainsi que pour la sécurité des biens ou des personnes, les points de contrôle, les valeurs des niveaux limites admissibles ainsi que la mesure des niveaux vibratoires émis seront déterminés suivant les spécifications des règles techniques annexées à la circulaire ministérielle n° 23 du 23 juillet 1986 relative aux vibrations mécaniques émises dans l'environnement par les installations classées.
+      
