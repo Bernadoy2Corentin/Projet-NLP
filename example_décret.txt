@@ -1,0 +1,6577 @@
+
+       Sans préjudice de la réglementation en vigueur, sont notamment applicables à l'établissement les prescriptions qui le concernent des textes cités ci-dessus (liste non exhaustive) :
+       
+
+         arrêté ministériel du 23 janvier 1997 relatif à la limitation des bruits émis dans l'environnement par les installations classées pour la protection de l'environnement ;
+        
+
+         arrêté ministériel du 02 février 1998 modifié relatif aux prélèvements et à la consommation d'eau ainsi qu'aux émissions de toute nature des installations classées pour la protection de l'environnement soumises à autorisation ;
+        
+
+         arrêté ministériel du 23 décembre 1998 relatif aux prescriptions générales applicables aux installations classées pour la protection de l'environnement soumises à déclaration sous la rubrique n° 4511 (déchets non-dangereux non inertes) ;
+        
+
+         arrêté ministériel du 20 septembre 2002 relatif aux installations d'incinération et de co-incinération de déchets non dangereux et aux installations incinérant des déchets d'activités de soins à risques infectieux ;
+        
+
+         arrêté ministériel du 29 juillet 2005 modifiant le formulaire de bordereau de suivi des déchets dangereux mentionné à l'article 4 du décret n°2005-635 du 30 mai 2005-Arreté du 23/01/97 relatif à la limitation des bruits émis dans l'environnement par les installations classées pour la protection de l'environnement ;
+        
+
+         arrêté ministériel du 31 janvier 2008 modifiant le registre et à la déclaration annuelle des émissions et des transferts de polluants et des déchets ;
+        
+
+         arrêté ministériel du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les installations classées pour la protection de l'environnement et aux normes de référence ;
+        
+
+         arrêté ministériel du 04 octobre 2010 modifiant relatif à la prévention des risques accidentels au sein des installations classées pour la protection de l'environnement soumises à autorisation ;
+        
+
+         arrêté ministériel du 29 février 2012 modifiant l'existant le contenu des registres mentionnés aux articles R. 541-43 et R. 541-46 du code de l'environnement ;
+        
+
+         arrêté ministériel du 23 mai 2016 relatif aux installations de production de chaleur et/ou d'électricité à partir de déchets non dangereux préparés sous forme de combustibles solides de récupération dans des installations prévues à cet effet, associés ou non à un autre combustible et relevant de la rubrique 2971 de la nomenclature des installations classées pour la protection de l'environnement ;
+        
+
+
+
+       Sans préjudice de la réglementation en vigueur, sont notamment applicables à l'établissement les prescriptions qui le concernent des textes cités ci-dessous (liste non exhaustive) :
+       
+
+         arrêté ministériel du 23 janvier 1997 relatif à la limitation des bruits émis dans l'environnement par les installations classées pour la protection de l'environnement ;
+        
+
+         arrêté ministériel du 2 février 1998 modifié relatif aux prélèvements et à la consommation d'eau ainsi qu'aux émissions de toute nature des installations classées pour la protection de l'environnement soumises à autorisation ;
+        
+
+         arrêté ministériel du 23 décembre 1998 relatif aux prescriptions générales applicables aux installations classées pour la protection de l'environnement soumises à déclaration sous la rubrique n° 4511 (déchets non-dangereux non inertes).
+        
+
+         arrêté ministériel du 20 septembre 2002 relatif aux installations d'incinération et de co-incinération de déchets non dangereux et aux installations incinérant des déchets d'activités de soins à risques infectieux ;
+        
+
+         arrêté ministériel du 29 juillet 2005 modifiant fixant le formulae du bordereau de suivi des déchets dangereux mentionné à l'Article 4 du décret n° 2005-635 du 30 mai 2005. Arrête du 23/01/97 relatif à la limitation des bruits émis dans l'environnement par les installations classées pour la protection de l'environnement ;
+        
+
+         arrêté ministériel du 31 janvier 2008 modifiant relatif au registre et à la déclaration annuelle des émissions et des transferts de polluants et des déchets ;
+        
+
+         arrêté ministériel du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les installations classées pour la protection de l'environnement et aux normes de référence ;
+        
+
+         arrêté ministériel du 4 octobre 2010 modifié relatif à la prévention des risques accidentels au sein des installations classées pour la protection de l'environnement soumises à autorisation ;
+        
+
+         arrêté ministériel du 29 février 2012 modifiant fixant le contenu des registres mentionnés aux articles R.541-43 et R.541-46 du code de l'environnement ;
+        
+
+         arrêté ministériel du 23 mai 2016 modifiant relatif aux installations de production de chaleur et/ou d'électricité à partir de déchets non dangereux préparés sous forme de combustibles solides de récupération dans des installations prévues à cet effet, associés ou non à un autre combustible et relevant de la rubrique 2971 de la nomenclature des installations classées pour la protection de l'environnement ;
+        
+
+         arrêté ministériel du 12 janvier 2021 relatif aux meilleures techniques disponibles (MTD) applicables aux installations d'incinération et de co-incinération de déchets relevant du régime de l'autorisation au titre de la rubrique 3520 ;
+        
+
+
+
+    VU** le décret n° 77-1133 du 21 septembre 1977 modifié relatif aux installations classées pour la protection de l'environnement ;
+   
+
+      Les installations électriques doivent être conçues, réalisées et entretenues conformément au décret n° 88-1056 du 14 novembre 1988 relatif à la réglementation du travail.
+     
+
+    VU le décret n° 77-1133 du 21 septembre 1977 modifié pris pour son application et notamment ses articles 10 et 11 ;
+   
+
+      Tous les 10 ans, l'exploitant élabore le bilan de fonctionnement prévu à l'article 17-2 du décret 77-1133 du 21 septembre 1977 susvisé et le transmet au Préfet.
+     
+
+      Toute injection en Crétacé 4000 d'un nouvel effluent ne pourra se faire que si elle a fait l'objet d'une demande présentée et instruite dans les formes prévues par le décret n° 77-1133 du 21 septembre 1977. Le dossier fourni à l'appui de la demande devra comporter, outre les pièces prévues par le décret susvisé :
+      
+
+        un justificatif technico-économique de la filière de rejet retenue ;
+       
+
+        un compte-rendu des tests de compatibilité ;
+       
+
+        les résultats d'analyses de l'effluent.
+       
+
+
+
+      Un registre est tenu sur lequel seront reportées les informations suivantes :
+      
+
+        codification selon la nomenclature officielle annexée au décret 2002.540 du 18 avril 2002,
+       
+
+        type et quantité de déchets produits,
+       
+
+        opération ayant généré chaque déchet,
+       
+
+        nom des entreprises et des transporteurs assurant les enlèvements de déchets,
+       
+
+        date des différents enlèvements pour chaque type de déchets,
+       
+
+        nom et adresse des centres d'élimination ou de valorisation,
+       
+
+        nature du traitement effectué sur le déchet dans le centre d'élimination ou de valorisation.
+       
+
+
+
+      L'établissement est constitué par l'ensemble des installations classées relevant d'un même exploitant situées sur un même site au sens de l'article 12 du décret 77-1133 du 21 septembre 1977 modifié, et comprend leurs équipements et activités connexes.
+     
+
+      Les zones d'effets à considérer sont celles présentées dans l'étude de dangers du dossier de demande d'autorisation. Sans préjuger des conséquences liées aux effets dominés entre l'installation THT et les installations adjacentes, les zones d'effets ainsi déterminées ne sont pas de nature à porter atteinte aux tiers. Toute modification susceptible d'affecter les zones Z1 et Z2 définies ci-dessus est portée par l'exploitant à la connaissance du Préfet dans les forines prévues à l'article 20 du décret du 21 septembre 1977.
+     
+
+    VU le décret n° 77-1133 du 21 septembre 1977 modifié relatif aux installations classées pour la protection de l'environnement, et notamment ses articles 3.5°, 3.6° et 18 ;
+   
+
+     L'exploitant établit, conformément aux dispositions de l'article 3.5° du décret du 21 septembre 1977 modifié, et selon les échéances fixées ci-après, les études des dangers portant sur les installations suivantes situées dans son établissement de Lacq.
+    
+
+     Sous un délai de 3 mois, selon les dispositions de l’article 3.6° du décret du 21 septembre 1977 modifié, l’exploitant propose à l’approbation de l’inspection des installations classées, le choix d’un tiers expert qui, aux frais de l’exploitant, sera amené à donner un avis sur la pertinence de l’estimation des conséquences inhérentes à la libération des potentiels de dangers fournie à l’article 4 ci-avant au regard notamment des études des dangers établies.
+    
+
+    VU** le décret n° 77-1133 du 21 septembre 1977 modifié relatif aux installations classées pour la protection de l'environnement, et notamment son article 18 ;
+   
+
+    VU** le décret n° 96-197 du 11 mars 1996 modifiant la nomenclature des installations classées et notamment l'intitulé de la rubrique 361 qui devient 2920 ;
+   
+
+    VU le décret n° 77-1133 du 21 septembre 1977 modifié relatif aux installations classées pour la protection de l'environnement, et notamment son article 18 ;
+   
+
+    VU** le décret n° 77-1133 du 21 septembre 1977 modifié pris pour son application et notamment ses articles 3.5, 17 et 18 ;
+   
+
+    VU** le décret n° 53-578 du 20 mai 1953 modifié relatif à la nomenclature des installations classées ;
+   
+
+     L'établissement est constitué par l'ensemble des installations classées relevant d'un même exploitant études sur un même site au sens de l'article 12 du décret 77-1133 du 21 septembre 1977 modifié, et comprend leurs équipements et activités connexes.
+    
+
+     Compte tenu de la date de remise des derniers éléments significatifs des études de dangers, le prochain réexamen pourra être réalisé suivant le calendrier figurant au tableau de l’annexe 1, sans préjuger des demandes de complément formulées dans le cadre de l’article 18 du décret n° 77-1133 du 21 septembre 1977 modifié.
+    
+
+     Les études révisées à jour sont transmises au Préfet et, en deux exemplaires, à l’inspection des installations classées. Elles répondent aux dispositions de l’article L. 512-1 du code de l’environnement et de l’article 4 (3°) du décret n° 77-1133 du 21 septembre 1977 modifié, relatif à la prévention des accidents majeurs et l’article du 29 septembre 2005 susvisé.
+    
+
+     Au plus tard le 31 décembre 2007, l’exploitant débute les travaux de création d’une rétention déportée au droit du stockages journalier de méthylmercaptan. L’exploitant adresse au Préfet, dans les formes prévues à l’article 20 du décret du 21 septembre 1977, l’enseignement des éléments d’appréciation des modifications prévues dans le cadre des travaux.
+    
+
+     Avant le 31 décembre 2008, l’exploitant met en œuvre une retenue associée au poste de dépotage. Il adresse au Préfet, dans les formes prévues à l’article 20 du décret du 21 septembre 1977, l’ensemble des éléments relatifs à cette modification.
+    
+
+     Sous 9 mois, l'exploitant adresse au Préfet des Pyrénées Atlantiques et, en 2 exemplaires, à l'inspection des installations classées une analyse critique au sens de l'article 3 du décret du 21 septembre 1977 sur cette étude technico-économique.
+    
+
+    VU l’ordonnance n° 2001-270 du 28 mars 2001 et le décret n° 2002-460 du 4 avril 2002 relatifs à la protection générale des personnes contre les dangers des rayonnements ionisants ;
+   
+
+    VU le décret n° 53-578 du 20 mai 1953 modifié relatif à la nomenclature des installations classées ;
+   
+
+
+
+
+
+         Rubrique
+        
+
+         Nature de l'activité
+        
+
+         Capacité totale des installations
+        
+
+         Description des installations
+        
+
+         Régime de classement
+        
+
+
+
+
+
+         1715.1
+        
+
+         Utilisation, dépôt et stockage de substances radioactives sous forme de sources radioactives, scellées ou non scellées, à l'exclusion des installations mentionnées à la rubrique 1735, des installations nucléaires de base mentionnées à l'article 28 de la loi no 2006-686 du 13 juin 2006 relative à la transparence et à la sécurité en matière nucléaire et des installations nucléaires de base secrètes telles que définies par l'article 6 du décret no 2001-592 du 5 juillet 2001. 1. La valeur de Q est égale ou supérieure à 10
+         
+          4
+         
+         .
+        
+
+         7.091.10
+         
+          9
+         
+
+
+
+          Unité DMDS
+         
+         Q = 155.10
+         
+          9
+         
+         , 550.10
+         
+          9
+         
+         , 1.10
+         
+          10
+         
+         , 1.40
+         
+          10
+         
+         , 1.655.10
+         
+          9
+         
+         , 1.70
+         
+          10
+         
+         , 1.75
+         
+          10
+         
+         , 1.80
+         
+          10
+         
+         , 1.85
+         
+          10
+         
+         , 1.90
+         
+          10
+         
+         , 1.95
+         
+          10
+         
+         , 2.00
+         
+          10
+         
+         , 2.05
+         
+          10
+         
+         , 2.10
+         
+          10
+         
+         , 2.15
+         
+          10
+         
+         , 2.20
+         
+          10
+         
+         , 2.25
+         
+          10
+         
+         , 2.30
+         
+          10
+         
+         , 2.35
+         
+          10
+         
+         , 2.40
+         
+          10
+         
+         , 2.45
+         
+          10
+         
+         , 2.50
+         
+          10
+         
+         , 2.55
+         
+          10
+         
+         , 2.60
+         
+          10
+         
+         , 2.65
+         
+          10
+         
+         , 2.70
+         
+          10
+         
+         , 2.75
+         
+          10
+         
+         , 2.80
+         
+          10
+         
+         , 2.85
+         
+          10
+         
+         , 2.90
+         
+          10
+         
+         , 2.95
+         
+          10
+         
+         , 3.00
+         
+          10
+         
+         , 3.05
+         
+          10
+         
+         , 3.10
+         
+          10
+         
+         , 3.15
+         
+          10
+         
+         , 3.20
+         
+          10
+         
+         , 3.25
+         
+          10
+         
+         , 3.30
+         
+          10
+         
+         , 3.35
+         
+          10
+         
+         , 3.40
+         
+          10
+         
+         , 3.45
+         
+          10
+         
+         , 3.50
+         
+          10
+         
+         , 3.55
+         
+          10
+         
+         , 3.60
+         
+          10
+         
+         , 3.65
+         
+          10
+         
+         , 3.70
+         
+          10
+         
+         , 3.75
+         
+          10
+         
+         , 3.80
+         
+          10
+         
+         , 3.85
+         
+          10
+         
+         , 3.90
+         
+          10
+         
+         , 3.95
+         
+          10
+         
+         , 4.00
+         
+          10
+         
+         , 4.05
+         
+          10
+         
+         , 4.10
+         
+          10
+         
+         , 4.15
+         
+          10
+         
+         , 4.20
+         
+          10
+         
+         , 4.25
+         
+          10
+         
+         , 4.30
+         
+          10
+         
+         , 4.35
+         
+          10
+         
+         , 4.40
+         
+          10
+         
+         , 4.45
+         
+          10
+         
+         , 4.50
+         
+          10
+         
+         , 4.55
+         
+          10
+         
+         , 4.60
+         
+          10
+         
+         , 4.65
+         
+          10
+         
+         , 4.70
+         
+          10
+         
+         , 4.75
+         
+          10
+         
+         , 4.80
+         
+          10
+         
+         , 4.85
+         
+          10
+         
+         , 4.90
+         
+          10
+         
+         , 4.95
+         
+          10
+         
+         , 5.00
+         
+          10
+         
+         , 5.05
+         
+          10
+         
+         , 5.10
+         
+          10
+         
+         , 5.15
+         
+          10
+         
+         , 5.20
+         
+          10
+         
+         , 5.25
+         
+          10
+         
+         , 5.30
+         
+          10
+         
+         , 5.35
+         
+          10
+         
+         , 5.40
+         
+          10
+         
+         , 5.45
+         
+          10
+         
+         , 5.50
+         
+          10
+         
+         , 5.55
+         
+          10
+         
+         , 5.60
+         
+          10
+         
+         , 5.65
+         
+          10
+         
+         , 5.70
+         
+          10
+         
+         , 5.75
+         
+          10
+         
+         , 5.80
+         
+          10
+         
+         , 5.85
+         
+          10
+         
+         , 5.90
+         
+          10
+         
+         , 5.95
+         
+          10
+         
+         , 6.00
+         
+          10
+         
+         , 6.05
+         
+          10
+         
+         , 6.10
+         
+          10
+         
+         , 6.15
+         
+          10
+         
+         , 6.20
+         
+          10
+         
+         , 6.25
+         
+          10
+         
+         , 6.30
+         
+          10
+         
+         , 6.35
+         
+          10
+         
+         , 6.40
+         
+          10
+         
+         , 6.45
+         
+          10
+         
+         , 6.50
+         
+          10
+         
+         , 6.55
+         
+          10
+         
+         , 6.60
+         
+          10
+         
+         , 6.65
+         
+          10
+         
+         , 6.70
+         
+          10
+         
+         , 6.75
+         
+          10
+         
+         , 6.80
+         
+          10
+         
+         , 6.85
+         
+          10
+         
+         , 6.90
+         
+          10
+         
+         , 6.95
+         
+          10
+         
+         , 7.00
+         
+          10
+         
+         , 7.05
+         
+          10
+         
+         , 7.10
+         
+          10
+         
+         , 7.15
+         
+          10
+         
+         , 7.20
+         
+          10
+         
+         , 7.25
+         
+          10
+         
+         , 7.30
+         
+          10
+         
+         , 7.35
+         
+          10
+         
+         , 7.40
+         
+          10
+         
+         , 7.45
+         
+          10
+         
+         , 7.50
+         
+          10
+         
+         , 7.55
+         
+          10
+         
+         , 7.60
+         
+          10
+         
+         , 7.65
+         
+          10
+         
+         , 7.70
+         
+          10
+         
+         , 7.75
+         
+          10
+         
+         , 7.80
+         
+          10
+         
+         , 7.85
+         
+          10
+         
+         , 7.90
+         
+          10
+         
+         , 7.95
+         
+          10
+         
+         , 8.00
+         
+          10
+         
+         , 8.05
+         
+          10
+         
+         , 8.10
+         
+          10
+         
+         , 8.15
+         
+          10
+         
+         , 8.20
+         
+          10
+         
+         , 8.25
+         
+          10
+         
+         , 8.30
+         
+          10
+         
+         , 8.35
+         
+          10
+         
+         , 8.40
+         
+          10
+         
+         , 8.45
+         
+          10
+         
+         , 8.50
+         
+          10
+         
+         , 8.55
+         
+          10
+         
+         , 8.60
+         
+          10
+         
+         , 8.65
+         
+          10
+         
+         , 8.70
+         
+          10
+         
+         , 8.75
+         
+          10
+         
+         , 8.80
+         
+          10
+         
+         , 8.85
+         
+          10
+         
+         , 8.90
+         
+          10
+         
+         , 8.95
+         
+          10
+         
+         , 9.00
+         
+          10
+         
+         , 9.05
+         
+          10
+         
+         , 9.10
+         
+          10
+         
+         , 9.15
+         
+          10
+         
+         , 9.20
+         
+          10
+         
+         , 9.25
+         
+          10
+         
+         , 9.30
+         
+          10
+         
+         , 9.35
+         
+          10
+         
+         , 9.40
+         
+          10
+         
+         , 9.45
+         
+          10
+         
+         , 9.50
+         
+          10
+         
+         , 9.55
+         
+          10
+         
+         , 9.60
+         
+          10
+         
+         , 9.65
+         
+          10
+         
+         , 9.70
+         
+          10
+         
+         , 9.75
+         
+          10
+         
+         , 9.80
+         
+          10
+         
+         , 9.85
+         
+          10
+         
+         , 9.90
+         
+          10
+         
+         , 9.95
+         
+          10
+         
+         , 1.00
+         
+          11
+         
+         , 1.05
+         
+          11
+         
+         , 1.10
+         
+          11
+         
+         , 1.15
+         
+          11
+         
+         , 1.20
+         
+          11
+         
+         , 1.25
+         
+          11
+         
+         , 1.30
+         
+          11
+         
+         , 1.35
+         
+          11
+         
+         , 1.40
+         
+          11
+         
+         , 1.45
+         
+          11
+         
+         , 1.50
+         
+          11
+         
+         , 1.55
+         
+          11
+         
+         , 1.60
+         
+          11
+         
+         , 1.65
+         
+          11
+         
+         , 1.70
+         
+          11
+         
+         , 1.75
+         
+          11
+         
+         , 1.80
+         
+          11
+         
+         , 1.85
+         
+          11
+         
+         , 1.90
+         
+          11
+         
+         , 1.95
+         
+          11
+         
+         , 2.00
+         
+          11
+         
+         , 2.05
+         
+          11
+         
+         , 2.10
+         
+          11
+         
+         , 2.15
+         
+          11
+         
+         , 2.20
+         
+          11
+         
+         , 2.25
+         
+          11
+         
+         , 2.30
+         
+          11
+         
+         , 2.35
+         
+          11
+         
+         , 2.40
+         
+          11
+         
+         , 2.45
+         
+          11
+         
+         , 2.50
+         
+          11
+         
+         , 2.55
+         
+          11
+         
+         , 2.60
+         
+          11
+         
+         , 2.65
+         
+          11
+         
+         , 2.70
+         
+          11
+         
+         , 2.75
+         
+          11
+         
+         , 2.80
+         
+          11
+         
+         , 2.85
+         
+          11
+         
+         , 2.90
+         
+          11
+         
+         , 2.95
+         
+          11
+         
+         , 3.00
+         
+          11
+         
+         , 3.05
+         
+          11
+         
+         , 3.10
+         
+          11
+         
+         , 3.15
+         
+          11
+         
+         , 3.20
+         
+          11
+         
+         , 3.25
+         
+          11
+         
+         , 3.30
+         
+          11
+         
+         , 3.35
+         
+          11
+         
+         , 3.40
+         
+          11
+         
+         , 3.45
+         
+          11
+         
+         , 3.50
+         
+          11
+         
+         , 3.55
+         
+          11
+         
+         , 3.60
+         
+          11
+         
+         , 3.65
+         
+          11
+         
+         , 3.70
+         
+          11
+         
+         , 3.75
+         
+          11
+         
+         , 3.80
+         
+          11
+         
+         , 3.85
+         
+          11
+         
+         , 3.90
+         
+          11
+         
+         , 3.95
+         
+          11
+         
+         , 4.00
+         
+          11
+         
+         , 4.05
+         
+          11
+         
+         , 4.10
+         
+          11
+         
+         , 4.15
+         
+          11
+         
+         , 4.20
+         
+          11
+         
+         , 4.25
+         
+          11
+         
+         , 4.30
+         
+          11
+         
+         , 4.35
+         
+          11
+         
+         , 4.40
+         
+          11
+         
+         , 4.45
+         
+          11
+         
+         , 4.50
+         
+          11
+         
+         , 4.55
+         
+          11
+         
+         , 4.60
+         
+          11
+         
+         , 4.65
+         
+          11
+         
+         , 4.70
+         
+          11
+         
+         , 4.75
+         
+          11
+         
+         , 4.80
+         
+          11
+         
+         , 4.85
+         
+          11
+         
+         , 4.90
+         
+          11
+         
+         , 4.95
+         
+          11
+         
+         , 5.00
+         
+          11
+         
+         , 5.05
+         
+          11
+         
+         , 5.10
+         
+          11
+         
+         , 5.15
+         
+          11
+         
+         , 5.20
+         
+          11
+         
+         , 5.25
+         
+          11
+         
+         , 5.30
+         
+          11
+         
+         , 5.35
+         
+          11
+         
+         , 5.40
+         
+          11
+         
+         , 5.45
+         
+          11
+         
+         , 5.50
+         
+          11
+         
+         , 5.55
+         
+          11
+         
+         , 5.60
+         
+          11
+         
+         , 5.65
+         
+          11
+         
+         , 5.70
+         
+          11
+         
+         , 5.75
+         
+          11
+         
+         , 5.80
+         
+          11
+         
+         , 5.85
+         
+          11
+         
+         , 5.90
+         
+          11
+         
+         , 5.95
+         
+          11
+         
+         , 6.00
+         
+          11
+         
+         , 6.05
+         
+          11
+         
+         , 6.10
+         
+          11
+         
+         , 6.15
+         
+          11
+         
+         , 6.20
+         
+          11
+         
+         , 6.25
+         
+          11
+         
+         , 6.30
+         
+          11
+         
+         , 6.35
+         
+          11
+         
+         , 6.40
+         
+          11
+         
+         , 6.45
+         
+          11
+         
+         , 6.50
+         
+          11
+         
+         , 6.55
+         
+          11
+         
+         , 6.60
+         
+          11
+         
+         , 6.65
+         
+          11
+         
+         , 6.70
+         
+          11
+         
+         , 6.75
+         
+          11
+         
+         , 6.80
+         
+          11
+         
+         , 6.85
+         
+          11
+         
+         , 6.90
+         
+          11
+         
+         , 6.95
+         
+          11
+         
+         , 7.00
+         
+          11</
+         
+
+
+
+
+
+
+
+
+         Utilisation, dépôt et stockage de substances radioactives sous forme de sources radioactives, scellées ou non scellées, à l'exclusion des installations mentionnées à la rubrique 1735, des installations nucléaires de base mentionnées à l'article 28 de la loi no 2006-686 du 13 juin 2006 relative à la transparence et à la sécurité en matière nucléaire et des installations nucléaires de base secrètes telles que définies par l'article 6 du décret no 2001-592 du 5 juillet 2001. 1. La valeur de Q est égale ou supérieure à 10
+         
+          4
+         
+         .
+        
+
+    Vu le décret n° 53-578 du 20 mai 1953 modifié relatif à la nomenclature des installations classées ;
+   
+
+    VU l'arrêté ministériel du 20 avril 2005 modifié pris en application du décret du 20 avril 2005 relatif au programme national d'action contre la pollution des milieux aquatiques par certaines substances dangereuses,
+   
+
+    VU** le décret n° 53-578 du 20 mai 1953 modifié relatif à la nomenclature des installations classées ;
+   
+
+    VU** le décret n° 53-578 du 20 mai 1953 modifié relatif à la nomenclature des installations classées ;
+   
+
+     Le présent décret ne peut être déféré qu'un tribunal administratif :
+     
+
+       1° par les tiers, personnes physiques ou morales, les communes intéressées ou leurs groupements, en raison des inconvénients ou des dangers que le fonctionnement de l'installation présente pour les intérêts mentionnés aux articles L. 211-1 et L. 511-1 dans un délai d'un an à compter de la publication ou de l'affichage de la présente décision ;
+      
+
+       2° par les demandeurs ou exploitants, dans un délai de deux mois à compter de la date à laquelle la décision leur a été notifiée.
+      
+
+
+
+     Sous réserve que les installations du site en relevant, les règles parasismiques de construction sont conformes aux dispositions réglementaires en vigueur, et notamment le décret du 22 octobre 2010 relatif à la prévention du risque sismique, l'arrêté ministériel du 24 janvier 2011 fixant les règles parasismiques applicables à certaines installations classées et l'arrêté ministériel du 22 octobre 2010 relatif à la classification et aux règles de construction parasismique applicables aux bâtiments de la classe dite « à risque normal ».
+    
+
+    Vu le décret n°2012-633 du 3 mai 2012 relatif à l'obligation de constitution des garanties financières en vue de la mise en sécurité de certaines installations classées pour la protection de l'environnement ;
+   
+
+    Vu le décret n° 53-578 du 20 mai 1953 modifié relatif à la nomenclature des installations classées ;
+   
+
+
+
+
+
+           Code
+          
+
+           Description
+          
+
+           Unité
+          
+
+           Quantité
+          
+
+
+
+
+
+           1610
+          
+
+           Fabrication industrielle d'acides nitrique à plus de 20 % mais à moins de 70 %, sulfurique à plus de 25 % et oxydes d'azote, quelle que soit la capacité de production.
+          
+
+           tonnes
+          
+
+           70000
+          
+
+
+
+           1611.1
+          
+
+           b- La quantité totale susceptible d'être présente dans l'installation est supérieure ou égale à 250 tonnes.
+          
+
+           tonnes
+          
+
+           613
+          
+
+
+
+           1612.B2
+          
+
+           Emploi et stockage de chlorosulfurique et d'oléums. b- Supérieure ou égale à 50 tonnes, mais inférieure à 500 tonnes.
+          
+
+           tonnes
+          
+
+           460
+          
+
+
+
+           1715.1
+          
+
+           Utilisation, dépôt et stockage de substances radioactives sous forme de sources radioactives, scellées ou non scellées, à l'exclusion des installations mentionnées à la rubrique 1735, des installations nucléaires de base mentionnées à l'article 28 de la loi no 2006-686 du 13 juin 2006 relative à la transparence et à la sécurité en matière nucléaire et des installations nucléaires de base secrètes telles que définies par l'article 6 du décret no 2001-592 du 5 juillet 2001. b- La valeur de Q est égale ou supérieure à 10^4.
+          
+
+           tonnes
+          
+
+           5.655 x 10^4
+          
+
+
+
+           1820.1
+          
+
+           Emploi et stockage de substances ou préparations dangereuses des gaz toxiques et du sulfate acide de chaux de contact d'aération. b- La quantité totale susceptible d'être présente dans l'installation est supérieure ou égale à 200 tonnes.
+          
+
+           tonnes
+          
+
+           820
+          
+
+
+
+           2620
+          
+
+           Ateliers de fabrication de composés organiques halogénés : mercaptans, thiols, thiocétones, 2 atellens. b- Les substances mentionnées à l'article 4 sont utilisées ou fabriquées.
+          
+
+           tonnes
+          
+
+           4.500
+          
+
+
+
+           2910.B
+          
+
+           Combustion, à l'exclusion des installations visées par les rubriques 167-C et 322-B-4. b- Les produits consommés sont des gaz naturels, des gaz de pétrole liquéfiés, du fuel domestique, du charbon, des fuels lourds ou de la biomasse, des gaz de synthèse, des gaz de cokerie, des gaz de l'installation est supérieure à 0,1 MW.
+          
+
+           MW
+          
+
+           1.6
+          
+
+
+
+           2915.1a
+          
+
+           Procédés de chauffage utilisant comme fluide caloporteur des corps organiques combustibles. b- La température d'installation est égale ou supérieure au point d'ébullition des fluides.
+          
+
+           litres
+          
+
+           6300
+          
+
+
+
+
+
+           Utilisation, dépôt et stockage de substances radioactives sous forme de sources radioactives, scellées ou non scellées, à l'exclusion des installations mentionnées à la rubrique 1735, des installations nucléaires de base mentionnées à l'article 28 de la loi no 2006-686 du 13 juin 2006 relative à la transparence et à la sécurité en matière nucléaire et des installations nucléaires de base secrètes telles que définies par l'article 6 du décret no 2001-592 du 5 juillet 2001. b- La valeur de Q est égale ou supérieure à 10^4.
+          
+
+    VU le décret n° 2004-374 du 29 avril 2004 modifié relatif aux pouvoirs des préfets, à l'organisation et à l'action des services de l'État dans les régions et les départements ;
+   
+
+     L'exploitant remet avant le 31 décembre 2021 les études techniques de détails et de procédés décrivant la solution retenue sur le programme d'études techniques devant être transmises avant le 30 juin 2021, comme précisé à l'article 4 du décret n°51032020/55 du 16/10/2020. Ces études doivent décrire la solution qui sera mise en œuvre avant le 01/01/2025, fournir des éléments de dimensionnement, de performance et un calendrier sur les différentes étapes de mise en œuvre du projet.
+    
+
+    VU le décret n° 53-578 du 20 mai 1953 modifié relatif à la nomenclature des Installations Classées ;
+   
+
+    VU** le décret du 5 octobre 2022 portant nomination de M. Julien CHARLES préfet des Pyrénées-Atlantiques ;
+   
+
+    VU** le décret du 5 juillet 2024 portant nomination de M. Samuel GESRET secrétaire général de la préfecture des Pyrénées-Atlantiques ;
+   
+
+    VU le décret n° 53-578 du 20 mai 1953 modifié, portant nomenclature des installations Classées,
+   
+
+    VU le décret n° 77-1133 du 21 septembre 1977 modifié pris pour application de la loi n° 76-663 du 19 juillet 1976 relative aux installations Classées pour la Protection de l’Environnement (codifié au Titre 1er du Livre V du Code de l’Environnement),
+   
+
+    VU le décret n° 2002-540 du 18 avril 2002 relatif à la classification des déchets,
+   
+
+    VU le décret n° 87-59 du 2 février 1987 relatif à la mise sur le marché, à l’utilisation et à l’élimination des polychlorobiphényles et polychloroterphényles,
+   
+
+    VU l'arrêté ministériel du 17 juillet 2000 pris en application de l'article 17-2 du décret du 21 septembre 1977 susvisé,
+   
+
+      En particulier, les emballages industriels devront être éliminés conformément aux dispositions du décret n° 94-609 du 13 juillet 1994 relatif à l'élimination des déchets d'emballages contenant des déchets dangereux.
+     
+
+      Dans les zones où les atmosphères explosives peuvent apparaître de façon permanente ou semi-permanente (type 0 ou 1), les installations électriques devront être constituées de matériaux utilisables en atmosphère explosive et répondre aux dispositions du décret n° 78-779 du 17 juillet 1978.
+     
+
+      21.6 :
+      Avant la première mise en service ou à la suite d’un arrêt prolongé du système de réfrigération, après une modification notable au sens de l’article 20 du décret du 21 septembre 1977 susvisé ou après des travaux de maintenance ayant nécessité un arrêt de longue durée, l’installation complète devra être vérifiée. Cette vérification sera à réaliser par une personne ou une entreprise compétente, désignée par l’exploitant avec l’approbation de l’Inspection des Installations Classées. Cette vérification devra faire l’objet d’un compte rendu écrit tenu à la disposition de l’Inspection des Installations Classées inséré au dossier de sécurité. Les frais occasionnés par ces vérifications seront supportés par l’exploitant.
+     
+
+      Les installations électriques devront être réalisées conformément au décret n°88-1056 du 14 novembre 1988 relatif à la réglementation du travail.
+     
+
+      Dans le cas du remplacement du fluide PCB d’un transformateur par un fluide de substitution, en conformité avec le décret n° 97-59 du 2 février 1997 (étiquette mentionnée au premier alinéa du présent article sera remplacée par l’étiquette, réalisée aux mêmes conditions techniques et comportant la mention : « Appareil ayant contenu des PCB, substitués par (nom de marque et nature chimique du nouveau fluide), en conformité avec le décret du 2 février 1987 ».
+     
+
+     Ces mesures compensatoires seront, après avis de l'Inspection des Installations Classées, imposées par arrêté préfectoral pris en application de l'article 18 du décret du 21 septembre 1977.
+    
+
+      Les installations électriques seront réalisées conformément au décret n° 88-1056 du 14 novembre 1988 relatif à la réglementation du travail
+     
+
+    VU l'arrêté ministériel du 20 avril 2005 modifié pris en application du décret du 20 avril 2005 relatif au programme national d'action contre la pollution des milieux aquatiques par certaines substances dangereuses ;
+   
+
+    CONSIDERANT
+    
+
+      que le décret n° 2010-369 du 13 avril 2010 a modifié la nomenclature en réformant certaines rubriques ;
+     
+
+      que les rubriques visées à l'arrêté préfectoral du 10 décembre 2004 modifié sont affectées par les changements introduits par le décret du 13 avril 2010 précité ;
+     
+
+      que l'étendue de ces modifications rend nécessaire l'actualisation de la liste des rubriques visées à l'article 2.1 de l'arrêté préfectoral du 10 décembre 2004 modifié ;
+     
+
+      que ces modifications ont une incidence sur la situation administrative de l'établissement, sans toutefois que des modifications aient été apportées aux installations, à leurs conditions d'exploitation ou à leur voisinage ;
+     
+
+      que les termes du présent arrêté ne renforcent ni n'allègent les prescriptions imposées à l'exploitant ; que, dès lors, ils ne constituent pas des prescriptions additionnelles au sens entendu par l'article R. 512-31 du Code de l'environnement et ne nécessitent pas d'être soumis à l'avis du conseil départemental de l'environnement et des risques sanitaires et technologiques ;
+     
+
+
+
+      Vu l'arrêté ministériel du 20 avril 2005 modifié, pris en application du décret du 20 avril 2005 relatif au programme national d'action contre la pollution des milieux aquatiques par certaines substances dangereuses ;
+     
+
+      Le décret n°633-2012 du 3 mai 2012 institue l'obligation de constituer des garanties financières pour certaines installations classées qui sont susceptibles d'être à l'origine de pollutions importantes des sols ou des eaux, en raison de la nature et de la quantité des produits et déchets détenus. Cette obligation a été codifiée au 5° de l'article R. 516-1 du Code de l'Environnement. Les installations soumises à ces obligations sont celles répondant aux critères définis par l'arrêté ministériel du 31 mai 2012 fixant la liste des installations classées soumises à l'obligation de constitution de garanties financières.
+     
+
+         En cas de réalisation d’un nouvel ouvrage de prélèvement d’eau ou de surveillance, l’exploitant se conforme aux prescriptions édictées dans l’arrêté ministériel modifié du 11 septembre 2003 fixant les prescriptions générales applicables aux sondages, forages, créations de puits ou d’ouvrage souterrain soumis à déclaration en application des articles L. 214-1 à L. 214-3 du code de l’environnement et relevant de la rubrique 1.1.1.0 de la nomenclature annexée au décret n° 93-743 du 29 mars 1993 modifié.
+        
+
+       Dans les parties de l'installation mentionnées à l'article 8.2.1 et recensées comme pouvant être à l'origine d'une explosion, les installations électriques, mécaniques, hydrauliques et pneumatiques sont conformes aux dispositions du décret du 19 novembre 1996 modifié, relatif aux appareils et aux systèmes de protection destinés à être utilisés en atmosphère explosive. Dans les zones où des atmosphères explosives peuvent se présenter, les appareils doivent être réduits au strict minimum. Les appareils et systèmes de protection destinés à être utilisés dans les emplacements ou des atmosphères explosives, peuvent se présenter doivent être sélectionnés conformément aux catégories prévues par la directive 2014/34/UE, sauf dispositions contraires prévues dans l'étude de dangers, sur la base d'une évaluation des risques correspondante. Les masses métalliques contenant ou véhiculant des produits inflammables et explosibles susceptibles d'engendrer des charges électrostatiques sont mises à la terre et reliées par des liaisons équipotentielles. Le plan des zones à risques d'explosion est porté à la connaissance de l'organisme chargé de la vérification des installations électriques.
+      
+
+    Vu le décret du Président de la République en date du 12 janvier 2022 nommant monsieur Sébastien JALLET préfet de l’Orne ;
+   
+
+    Vu le décret du 17 août 2021 nommant madame Marie CORNET secrétaire générale de la Préfecture de l’Orne ;
+   
+
+       Un programme prévisionnel d’épandage doit être établi en accord avec les exploitants agricoles concernés, un mois avant le début des opérations. Ce programme qui permet de s’assurer du respect de toutes les interdictions ou décrets applicables, est tenu à la disposition de l’inspection des installations classées.
+      
+
+    VU l'arrêté ministériel du 20 avril 2005 modifié pris en application du décret du 20 avril 2005 relatif au programme national d'action contre la pollution des milieux aquatiques par certaines substances dangereuses ;
+   
+
+     Le tableau de l'article 1.2.1 de l'arrêté du 16 juillet 2010 est remplacé par le tableau suivant :
+     
+
+
+
+         Rubrique et activité
+        
+
+         AS, A, E, D, NC (1)
+        
+
+         Libellé de la rubrique (activité)
+        
+
+         Nature de l'installation
+        
+
+         Critère de classement au titre de l'environnement
+        
+
+         Seuil du critère
+        
+
+         Unité du seuil
+        
+
+         Volume et débit
+        
+
+         Unité du volume et du débit
+        
+
+
+
+
+
+         3642 2
+        
+
+         A
+        
+
+         Traitement et transformation, et l'exclusion du seul conditionnement des matières premières ci-après qu'elles aient été ou non soumises à des pré-traitements transformés, en vue, boissons de la fabrication de produits raffinés, alimentaires ou d'aliments pour les animaux issus : (mélange de matières premières végétales, avec une capacité d'extraction supérieure à 300 t de végétaux, produits finis par jour ou 600 t par tonne de jour lorsque l'installation fonctionne) (sucre) pendant une durée maximale de 90 jours consécutifs en un an
+        
+
+         Embouteillage de boissons alcoolisées (mélange de matières premières végétales, avec une capacité d'extraction supérieure à 300 t de végétaux, produits finis par jour ou 600 t par tonne de jour lorsque l'installation fonctionne) (sucre) pendant une durée maximale de 90 jours consécutifs en un an
+        
+
+         Capacité de production > 300 u (principaux finis)
+        
+
+         t / jour
+        
+
+         1500
+        
+
+         m³/jour
+        
+
+
+
+
+
+         2253 1
+        
+
+         A
+        
+
+         Boissons (préparation, conditionnement de bière, jus de fruits)
+        
+
+         Embouteillage de boissons alcoolisées
+        
+
+         Capacité de production > 20 m³/jour
+        
+
+         m³/jour
+        
+
+         1500
+        
+
+         m³/jour
+        
+
+
+
+
+
+         Rubrique et alinéa
+        
+
+         AS, A, E, D, NC (I)
+        
+
+         Libellé de la rubrique (activité)
+        
+
+         Nature de l'installation
+        
+
+         Critère de classement
+        
+
+         Seuils du critère
+        
+
+         Unité du critère
+        
+
+         Volume et autorisation
+        
+
+
+
+
+
+         -------------------
+        
+
+         -----------------------
+        
+
+         ----------------------------------
+        
+
+         ------------------------
+        
+
+         ----------------------
+        
+
+         ------------------
+        
+
+         ------------------
+        
+
+         ------------------------
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         fruits, autres boissons, à l'exclusion des eaux minérales, eaux de sources, boissons : eaux de table et des activités diverses
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Rubrique et etendue
+        
+
+         AS
+        
+
+         Libellé de la rubrique (activité)
+        
+
+         Nature de l'installation
+        
+
+         Critère de classement
+        
+
+         Seuils du critère
+        
+
+         Unité du critère
+        
+
+         Volume et autorisation
+        
+
+         Unités du volume et autorisation
+        
+
+
+
+         --------------------
+        
+
+         ----
+        
+
+         --------------------------------------
+        
+
+         -------------------------
+        
+
+         -----------------------
+        
+
+         ------------------
+        
+
+         ------------------
+        
+
+         ------------------------
+        
+
+         -------------------------------
+        
+
+
+
+
+
+         A, B, C, D, NC (I)
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         rémorfogue, des établissements recevant du public et des entrepôts (frigorifiques. Le volume des entrepôts étant supérieur ou égal à 5 000 m³ mais inférieur à 50 000 m³)
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Palettes en bois : 2020 Palettes en bois : 2020
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         1532
+        
+
+         3
+        
+
+         D
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Palettes en bois : 2020 Palettes en bois : 2020
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Palettes en bois : 2020 Palettes en bois : 2020
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Palettes en bois : 2020 Palettes en bois : 2020
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Palettes en bois : 2020 Palettes en bois : 2020
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Palettes en bois : 2020 Palettes en bois : 2020
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Palettes en bois : 2020 Palettes en bois : 2020
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Palettes en bois : 2020 Palettes en bois : 2020
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Palettes en bois : 2020 Palettes en bois : 2020
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Palettes en bois : 2020 Palettes en bois : 2020
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Palettes en bois : 2020 Palettes en bois : 2020
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Palettes en bois : 2020 Palettes en bois : 2020
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Palettes en bois : 2020 Palettes en bois : 2020
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Palettes en bois : 2020 Palettes en bois : 2020
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Palettes en bois : 2020 Palettes en bois : 2020
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Palettes en bois : 2020 Palettes en bois : 2020
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Palettes en bois : 2020 Palettes en bois : 2020
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Palettes en bois : 2020 Palettes en bois : 2020
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Palettes en bois : 2020 Palettes en bois : 2020
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Palettes en bois : 2020 Palettes en bois : 2020
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Palettes en bois : 2020 Palettes en bois : 2020
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Palettes en bois : 2020 Palettes en bois : 2020
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Palettes en bois : 2020 Palettes en bois : 2020
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Palettes en bois : 2020 Palettes en bois : 2020
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Palettes en bois : 2020 Palettes en bois : 2020
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Palettes en bois : 2020 Palettes en bois : 2020
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Palettes en bois : 2020 Palettes en bois : 2020
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Palettes en bois : 2020 Palettes en bois : 2020
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Palettes en bois : 2020 Palettes en bois : 2020
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Palettes en bois : 2020 Palettes en bois : 2020
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Palettes en bois : 2020 Palettes en bois : 2020
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Palettes en bois : 2020 Palettes en bois : 2020
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Rubrique et alinéa
+        
+
+         AS, A, E, D, NC (f)
+        
+
+         Libellé de la rubrique (activité)
+        
+
+         Nature de l'installation
+        
+
+         Critère de classement net
+        
+
+         Seuil du critère net
+        
+
+         Unité de mesure naturelle
+        
+
+         Volume et seuil naturel
+        
+
+         Unité de volume et seuil autorisé
+        
+
+
+
+         -------------------
+        
+
+         -----------------------
+        
+
+         ----------------------------------
+        
+
+         -------------------------
+        
+
+         --------------------------
+        
+
+         -------------------
+        
+
+         --------------------------
+        
+
+         -------------------------
+        
+
+         -------------------------------
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         L'environnement, à l'exclusion des installations visées par d'autres rubriques de la nomenclature pour lesquelles la combustion participe à [FOD : à fusion, la cuisson ou au traitement, en mélange avec les gaz/électrogènes de combustion, des matières] [1000 kW et entrainées, et la puissance thermique > 800 kW et inanimale de l'installation est supérieure à 2 MW, mais inférieure à 20 MW]
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         4441
+        
+
+         2
+        
+
+         Liquides comburants catégorie 1, 2 désinfectants ou 3
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         La quantité totale susceptible d'être présente, dans l'installation d'une capacité supérieure ou égale à 2 t mais inférieure à 50 t
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Quantité totale présente ≥ 2 < 50
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         4422
+        
+
+         2
+        
+
+         Peroxydes organiques type E ou désinfectants type F
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         La quantité totale susceptible d'être présente, dans l'installation d'une capacité supérieure ou égale à 300 kg mais inférieure à 10 t
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Quantité totale présente ≥ 0,5 < 10
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         4718
+        
+
+         2
+        
+
+         Gaz inflammables, liquéfaction de catégorie 1 et 2 (y compris GPL) et gaz naturel (y compris biogaz affiné, lorsqu'il a été traité conformément aux normes applicables en matière de biogaz purifié et affiné, en assurant une qualité équivalente à celle du gaz naturel, et compris dans les catégories 1 et 2)
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         La quantité totale susceptible d'être présente, dans les installations y compris dans les cavités souterraines (strates naturelles, aquifères, cavités salines et mines désaffectées) d'une capacité supérieure ou égale à 6 t mais inférieure à 50 t
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Quantité totale présente ≥ 6 < 50
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         4734
+        
+
+         2.c
+        
+
+         Produits pétroliers spécifiques et [FOD : 30 carburants de substitution essence et naphtas : kérosène (avions) carburants d'aviation (compris) : gazoles (gazole diesel, gazole de chauffage domestique et mélange) [gazole : 40 chauffage domestique et mélange] [n', soit 34 t
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Quantité totale présente ≥ 50 < 500
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Rubrique et alinéa
+        
+
+         AS, A, E, D, NC (I)
+        
+
+         Libellé de la rubrique (activité)
+        
+
+         Nature de l'installation
+        
+
+         Critère de classement
+        
+
+         Seuil du critère
+        
+
+         Unité du critère
+        
+
+         Volume et/ou quantité autorisé
+        
+
+         Unité du volume et/ou quantité autorisé
+        
+
+
+
+         -------------------
+        
+
+         -----------------------
+        
+
+         ----------------------------------
+        
+
+         ------------------------
+        
+
+         ----------------------
+        
+
+         -----------------
+        
+
+         ------------------
+        
+
+         ----------------------------------
+        
+
+         ----------------------------------------
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         de gazoles compris : fuel lourd ; essence ; substitution pour véhicules, avions, motos et aux infrastructures utilisant des propriétés similaires en matière d'inflammabilité et de danger pour l'environnement. La quantité totale susceptible d'être présente dans les installations y compris les soutes, est, pour les autres stockages, supérieure ou égale à 50 t au total, mais inférieure à 100 t d'essence et inférieure à 500 t au total.
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Gaz à effet de serre fluorés visés à l'article 1, décret n° 2014-517/2014 relatif aux gaz à effet de serre fluorés et abrogé par règlement (CE) n° 842/2006 concernant les équipements utilisant des substances qui appauvrissent la couche d'ozone visés par règlement (CE) n° 1005/2009 (fabrication, emploi, stockage).
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         4802
+        
+
+         2.a
+        
+
+         Emploi dans des équipements clos ou en exploitation des équipements frigorifiques (y compris pompes à chaleur) de capacité unitaire supérieure à 2 kg, la quantité cumulée de fluide susceptible d'être présente dans l'installation étant inférieure à 300 kg.
+        
+
+
+
+
+
+
+
+
+
+         Quantité cumulée de fluide présente
+        
+
+         < 300 kg
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Stations-service : installations ouvertes ou non au public, oils les carburants sont transférés de réservoirs de stockage fixes dans les réservoirs de véhicules au moyen de pompes.
+        
+
+
+
+
+
+
+
+
+
+         Volume annuel de carburant
+        
+
+         ≤ 500 m³
+        
+
+
+
+         1435
+        
+
+         /
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Rubrique et
+        
+
+         AS,
+        
+
+         Libellé de la rubrique (activité)
+        
+
+         Nature de l'installation
+        
+
+         Critère de classement
+        
+
+         Seuils du critère
+        
+
+         Unité du critère
+        
+
+         Volume et
+        
+
+         Unité du volume et
+        
+
+
+
+         -------------
+        
+
+         -----
+        
+
+         ----------------------------------
+        
+
+         ------------------------
+        
+
+         ----------------------
+        
+
+         ------------------
+        
+
+         -----------------
+        
+
+         ----------
+        
+
+         ------------------------
+        
+
+
+
+         et aligné
+        
+
+         A, E, D, NC (1)
+        
+
+
+
+         n
+        
+
+         nt
+        
+
+         e
+        
+
+         ant
+        
+
+         s
+        
+
+         sé
+        
+
+
+
+
+
+         NC
+        
+
+         Silos et installations de stockage en vrac de céréales, grains, produits alimentaires ou tout produit organique dégageant des poussières/Silo de stockage sous tente ou structure gonflable. Si le volume total de stockage est inférieur ou égal à 5000 m³
+        
+
+         Volume total de stockage
+        
+
+         < 5000
+        
+
+         m³
+        
+
+         140
+        
+
+         m³
+        
+
+
+
+
+
+
+
+         Gaz à effet de serre fluorés visés à l'article 1, décret n° 2014-517/2014 relatif aux gaz à effet de serre fluorés et abrogé par règlement (CE) n° 842/2006 concernant les équipements utilisant des substances qui appauvrissent la couche d'ozone visés par règlement (CE) n° 1005/2009 (fabrication, emploi, stockage).
+        
+
+    Vu le décret n° 2020-383 du 1er avril 2020 portant dérogation au principe de suspension des délais pendant la période d'urgence sanitaire liée à l'épidémie de covid-19,
+   
+
+    Vu l'arrêté du 8 janvier 1998 fixant les prescriptions techniques applicables aux épandages de boues sur les sols agricoles pris en application du décret n° 97-1133 du 08/12/97 relatif à l'épandage des boues issues du traitement des eaux usées ;
+   
+
+    Vu l’arrêté du 8 janvier 1998 fixant les prescriptions techniques applicables aux épandages de boues sur les sols agricoles ou en application du décret n° 97-1133 du 08/12/97 relatif à l’épandage des boues issues du traitement des eaux usées ;
+   
+
+    Vu le décret du Président de la République en date du 15 janvier 2020 nommant Mme Françoise TAHERI préfète de l’Orne ;
+   
+
+    Vu l'arrêté du 8 janvier 1998 fixant les prescriptions techniques applicables aux épandages de boues sur les sols agricoles pris en application du décret n° 97-1133 du 08/12/97 relatif à l'épandage des boues issues du traitement des eaux usées ;
+   
+
+    Vu l'arrêté du 8 janvier 1996 fixant les prescriptions techniques applicables aux épandages de boues sur les sols agricoles pris en application du décret n° 97-1133 du 08/12/97 relatif à l'épandage des boues issues du traitement des eaux usées ;
+   
+
+    Vu le décret du Président de la République en date du 15 janvier 2020 nommant Mme Françoise TAHERI préfète de l'Orne ;
+   
+
+    Vu le décret du 17 août 2021, nommant Madame Marie CORNET, secrétaire générale de la préfecture de l'Orne ;
+   
+
+    Vu l'arrêté du 8 janvier 1998 fixant les prescriptions techniques applicables aux épandages de boues sur les sols agricoles pris en application du décret n° 97-1133 du 08/12/97 relatif à l'épandage des boues issues du traitement des eaux usées ;
+   
+
+    Vu le décret du Président de la République en date du 12 janvier 2022 nommant Monsieur Sébastien JALLET préfet de l'Orne ;
+   
+
+    Vu le décret du 17 août 2021 nommant Madame Marie CORNET secrétaire générale de la Préfecture de l'Orne ;
+   
+
+     Les présents travaux rentrent dans la nomenclature des opérations soumises à déclaration au titre de l'article L. 214-3 du code de l'environnement. Les rubriques du tableau de l'article R. 214-1 du code de l'environnement concernées sont les suivantes :
+     
+
+
+
+         Rubriques
+        
+
+         Intitulé de la rubrique
+        
+
+         Régime
+        
+
+         Arrêts de prescriptions générales
+        
+
+         Caractéristiques du projet
+        
+
+
+
+
+
+         111.0
+        
+
+         Sondage, forage, y compris les essais de pompage, création de puits ou d'ouvrage souterrain, non destiné à un usage domestique, exécuté en vue de la recherche ou de la surveillance des eaux souterraines ou en vue d'effectuer un prélèvement temporaire ou permanent dans les eaux souterraines, y compris dans les nappes d'accompagnement de cours d'eau (D).
+        
+
+         Déclaration
+        
+
+         Arrêtés du 1/09/2003 portant application du décret n° 96-102 du 2 février 1996 et fixant les prescriptions générales applicables aux sondages, forages, création de puits et lieu-dit « Les Bruyères »
+        
+
+         SAINT-CÉNERI-LE-GÉREI : Sections cadastrales ZB n° 165
+         
+         LA FERRIÈRE-BOCHARD : Sections cadastrales ZD n° 108 et n° 125
+         
+         Essais de pompage complémentaires du 16/05/2022 au 16/12/2022
+         
+         sur F1 : 32 m³/h
+         
+         sur F2 : 32 m³/h
+         
+         sur F3 : 15 m³/h
+         
+         sur F4 : 6 m³/h
+        
+
+
+
+
+
+         Arrêtés du 1/09/2003 portant application du décret n° 96-102 du 2 février 1996 et fixant les prescriptions générales applicables aux sondages, forages, création de puits et lieu-dit « Les Bruyères »
+        
+
+    Vu l'arrêté du 8 janvier 1998 fixant les prescriptions techniques applicables aux épandages de boues sur les sols agricoles pris en application du décret n° 97-1133 du 08/12/97 relatif à l'épandage des boues issues du traitement des eaux usées ;
+   
+
+    Vu le décret du 17 août 2021 nommant Madame Marie CORNET secrétaire générale de la Préfecture de l'Orne ;
+   
+
+    Vu le décret du Président de la République en date du 12 janvier 2022 nommant Monsieur Sébastien JALLET préfet de l'Orne ;
+   
+
+    Vu le décret du Président de la République en date du 12 janvier 2022 nommant Monsieur Sébastien JALLET préfet de l'Orne ;
+   
+
+    Vu le décret du 17 août 2021 nommant Madame Marie CORNET secrétaire générale de la Préfecture de l'Orne ;
+   
+
+    Vu le décret du Président de la République en date du 12 janvier 2022 nommant monsieur Sébastien JALLET préfet de l'Orne ;
+   
+
+    Vu le décret du 8 novembre 2023 nommant monsieur Yohan BLONDEL secrétaire général de la préfecture de l'Orne ;
+   
+
+    VU le décret n° 53-577 du 20 mai 1953 modifié, portant nomenclature des installations Classées,
+   
+
+    VU le décret n° 77.1133 du 21 septembre 1977 modifié pris pour application de la loi n° 76-663 du 19 juillet 1976 relative aux installations classées pour la protection de l’environnement (codifiée au Titre 1er du Livre V du Code de l’Environnement),
+   
+
+    VU le décret n° 2002-540 du 18 avril 2002 relatif à la classification des déchets,
+   
+
+    VU l’arrêté ministériel du 29 juin 2004 pris en application de l’article 17-2 du décret du 21 septembre 1977,
+   
+
+    Considérant que le projet d'arrêté préfectoral a été porté à la connaissance du demandeur conformément aux dispositions de l'article 11 du décret 77-1133 du 21 septembre 1977 modifié,
+   
+
+     5.1 : Il est rappelé que par application des dispositions de l'article 38 du décret n° 77-1133 du 21 septembre 1977 susvisé, tout accident ou incident susceptible de porter atteinte aux intérêts visés à des installations Classées doit être déclaré dans les plus brefs délais à l'inspection.
+    
+
+     En particulier, les emballages industriels doivent être éliminés conformément aux dispositions du décret n° 94-608 du 13 juillet 1994 relatif à l'élimination des déchets d'emballages dont les détenteurs finaux ne sont pas les ménages.
+    
+
+     Pour les cultures sucrières que prairie et légumineuses, une dose d'apport supérieure à 200kg/ha/an peut être tolérée si l'azote minéral présent dans le déchet est inférieur à 20 % de l'azote global et sous réserve du respect des prescriptions fixées par le décret de l'arrêté du 02 février 1998 modifié.
+    
+
+     Les installations électriques doivent être réalisées conformément au décret n° 88-1056 du 14 novembre 1988 relatif à la réglementation du travail.
+    
+
+     20.1 : L'installation de réfrigération à l'ammoniac est construite et installée conformément aux dispositions en vigueur, notamment :
+     
+
+       la norme NF EN 378 relative aux systèmes de réfrigération et pompes à chaleur en terme de sécurité des installations et d'environnement,
+      
+
+       l'arrêté du 23 février 1998 relatif aux prescriptions générales applicables aux installations classées pour la protection de l'environnement soumises à déclaration sous le n° 1136 emploi ou stockage de l'ammoniac,
+      
+
+       le décret du 18 janvier 1943 portant règlement sur les appareils à pression de gaz.
+      
+
+
+
+     Les installations électriques doivent être réalisées conformément au décret n° 88-1056 du 14 novembre 1988 relatif à la réglementation du travail.
+    
+
+       L'inspection des installations classées pourra soumettre ces mesures compensatoires à l'avis d'un tiers expert. Ces mesures compensatoires seront, après avis de l'inspection des installations classées, imposées par arrêté préfectoral pris en application de l'article 30 du décret du 21 septembre 1977.
+      
+
+       Dans le mois qui suit la mise en service, puis au minimum tous les deux ans, l'installation fait l'objet d'un contrôle par un organisme agréé au titre de l'article 40 du décret n°77-1133 du 21 septembre 1977. L'agrément ministériel est délivré par le ministre chargé des installations classées à un organisme compétent dans le domaine de la prévention des légionnelles. L'accréditation au titre des annexes A, B ou C de la norme NF EN 45004 par la Comité Français d'Accréditation (Cofrac) ou tout autre organisme d'accréditation équivalent européen, signataire de l'accord multilateral pris dans le cadre de la coordination européenne des organismes d'accréditation, permet de constater une justification de cette compétence.
+      
+
+     Le bilan de fonctionnement prévu à l'article 17-2 du décret du 21 septembre 1977 est élaboré par l'exploitant de l'autorisation et adressé au préfet.
+    
+
+     Le bilan de fonctionnement fournit les compléments et éléments d'actualisation depuis la précédente étude d'impact réalisée telle que prévue à l'article 3 du décret du 21 septembre 1977 susvisé.
+    
+
+     Cette analyse comprend en particulier :
+     
+
+       la conformité de l'installation vis-à-vis des prescriptions de l'arrêté d'autorisation ou de la réglementation en vigueur, et notamment des valeurs limites d'émission ;
+      
+
+       une synthèse de la surveillance des émissions, du fonctionnement de l'installation et de ses effets sur l'environnement, en précisant notamment la qualité de l'air, des eaux superficielles et souterraines et l'état des sols ;
+      
+
+       l'évaluation des principes polluants et l'évolution de la gestion des déchets ;
+      
+
+       un résumé des actions et des moyens mis en œuvre pour porter atteinte aux intérêts mentionnés à l'article L. 511-1 du code de l'environnement ;
+      
+
+       les investissements en matière de surveillance, de prévention et de réduction des pollutions. b) Les éléments venant compléter et modifier l'analyse des effets de l'installation sur l'environnement et la santé telle que prévue au b de l'article 3 du décret du 21 septembre 1977 susvisé. c) Une analyse des performances des moyens de prévention et de réduction des pollutions par déchet du 21 septembre 1977 susvisée, notamment en ce qui concerne les performances des meilleures techniques disponibles telles que définies en annexe 2 du tarif ministériel du 29 juin 2004 relatif au bilan des émissions. d) Les mesures envisagées par l'exploitant sur la base des meilleures techniques disponibles pour supprimer, limiter et compenser les inconvénients de l'installation ainsi que l'estimation des susvisés. Ces mesures doivent notamment permettre la réduction des émissions et les conditions d'utilisation rationnelle de l'énergie. e) Les mesures envisagées pour placer le site dans un état tel qu'il ne puisse porter atteinte aux intérêts mentionnés à l'article L. 511-1 du code de l'environnement en cas de cessation définitive de toutes les activités. f) Une conclusion du bilan de fonctionnement, faisant la synthèse des faits marquants et des éventuelles propositions de l'exploitant doit être rédigée.
+      
+
+
+
+    Vu l'arrêté ministériel du 20 avril 2005 modifié pris en application du décret du 20 avril 2005 relatif au programme national d'action contre la pollution des milieux aquatiques par certaines substances dangereuses ;
+   
+
+    Vu le décret n° 77-1133 du 21 septembre 1977 pris pour l'application de la loi n° 76-663 du 19 juillet 1976 relative aux installations classées pour la protection de l'environnement,
+   
+
+    Vu le décret n° 93-742 du 29 mars 1993 relatif aux procédures d'autorisation et de déclaration prévues par l'article 10 de la loi n° 92-3 du 3 janvier 1992 sur l'eau,
+   
+
+     Article 14 : les véhicules de transport, les matériels de manutention et les engins de chantier, utilisés à l'intérieur de l'établissement, doivent être conformes à la réglementation en vigueur (les engins de chantier à un type homologué au titre du décret du 18 avril 1969).
+    
+
+     17.1 Les installations électriques seront réalisées et entretenues par un personnel qualifié avec un matériel approprié conforme aux dispositions du décret n° 88.1056 du 14 novembre 1988 pris pour l'exécution des dispositions du livre II du Code du Travail (titre III : Hygiène, sécurité et conditions de travail) en ce qui concerne la protection des travailleurs dans les établissements qui mettent en œuvre des courants électriques et conforme aux normes en vigueur et au titre XII du décret du 8 janvier 1965 en cas de travaux réalisés au voisinage des lignes, canalisations et installations électriques.
+    
+
+     28.1 Les installations de réfrigération à l'ammoniac seront construites et installées conformément aux dispositions en vigueur, notamment le décret du 18 janvier 1943 portant règlement sur les appareils à pression de gaz et les textes subséquents.
+    
+
+    VU
+    
+
+      la loi n° 76-663 du 19 Juillet 1976 modifiée relative aux Installations Classées pour la Protection de l'Environnement,
+     
+
+      le décret n° 53-577 du 20 Mai 1953 modifié, portant nomenclature des Installations Classées,
+     
+
+      le décret n° 77-1133 du 21 Septembre 1977 modifié, pris pour l'application de la loi du 19 Juillet 1976 susvisée, et notamment son article 18,
+     
+
+      l'arrêté ministériel du 16 Juillet 1997 relatif aux installations de réfrigération employant l'ammoniac comme fluide frigorigène, et notamment son article 61,
+     
+
+      l'arrêté préfectoral du 3 août 1994 autorisant la Société COGESAL à exercer ses activités au sein de l'usine implantée 16 rue du Commerce à ARGENTAN,
+     
+
+      le rapport de l'Inspecteur des installations classées en date du 30 mars 1999,
+     
+
+      l'avis émis par le Conseil départemental d'hygiène, lors de sa réunion du 19 avril 1999,
+     
+
+
+
+     ARTICLE 9 :** Avant la première mise en service ou à la suite d’un arrêt prolongé du système de réfrigération, après une modification notable au sens de l’article 20 du décret du 21 septembre 1977 complète doit être vérifiée. Cette vérification est à réaliser par une personne ou une entreprise compétente désignée par l’exploitant avec l’approbation de l’inspection des installations classées. Cette vérification doit faire l’objet d’un compte rendu certifié tenu à la disposition de l’inspecteur des installations classées inséré au dossier de sécurité. Les frais occasionnés par ces vérifications sont supportés par l’exploitant.
+    
+
+     Les dispositions du présent article sont applicables aux installations modifiées ainsi qu'aux supérieure à 10 % au sens de l'article 20 du décret du 21 septembre 1977 susvisé.
+    
+
+    Vu l'arrêté ministériel du 20 avril 2005 modifié pris en application du décret du 20 avril 2005 relatif au programme national d'action contre la pollution des milieux aquatiques par certaines substances dangereuses ;
+   
+
+    Vu le décret n° 2020-383 du 1er avril 2020 portant dérogation au principe de suspension des délais pendant la période d'urgence sanitaire liée à l'épidémie de covid-19 ;
+   
+
+    CONSIDÉRANT qu'en application du décret n° 2020-383 du 1er avril 2020, les délais du présent arrêté ne sont pas suspendus du fait de l'état d'urgence sanitaire déclaré dans les conditions de l'article 4 de la loi du 23 mars 2020 susvisée ;
+   
+
+    Vu le décret du 15/01/2020 nommant Madame Françoise TAHERI, préfète de l'Orne ;
+   
+
+    Vu le décret du 17/08/2021 nommant Madame Marie CORNET, secrétaire générale de la préfecture de l'Orne ;
+   
+
+
+
+
+
+         N° de la rubrique
+        
+
+         Installations et activités concernées
+        
+
+         Régime du projet
+        
+
+         Éléments caractéristiques
+        
+
+
+
+
+
+         1532-2b
+        
+
+         Bois ou matériaux combustibles analogues, y compris les produits finis conditionnés et les produits ou déchets répondant à la définition de la biomasse et mentionnés à la rubrique 2910-A, ne relevant pas de la rubrique 1531 (sous-rubrique 8c), à l'exception des établissements recevant du public. 1. Installations de stockage de matériaux susceptibles de dégager des poussières inflammables, le volume de tels matériaux susceptibles d'être stocké étant supérieur à 50 000 m³ (A). 2. Autres installations que celles définies au 1, à l'exception des installations classées au titre de la rubrique 1510, le volume de tels matériaux susceptibles d'être stocké étant : a) Supérieur à 20 000 m³ (E). b) Supérieur à 1 000 m³ mais inférieur ou égal à 20 000 m³ (D).
+        
+
+         D
+        
+
+         Stockage extérieur de palettes : 3130 m²
+        
+
+
+
+         2925-2
+        
+
+         Accumulateurs électriques (ateliers de charge d') : 1. Lorsque la charge produit de l'hydrogène, la puissance maximale de courant continu utilisable pour cette opération étant supérieure à 50 kW (D). 2. Lorsque la charge produit de l'hydrogène, la puissance maximale de courant continu utilisable pour cette opération étant supérieure à 600 kW à l'exception des infrastructures de recharge pour véhicules électriques ouvertes au public définies par le décret n° 2017-26 du 12 janvier 2017 relatif aux infrastructures de recharge pour véhicules électriques et portant diverses mesures de transposition de la directive 2014/94/UE du Parlement européen et du Conseil du 22 octobre 2014 sur le déploiement d'une infrastructure pour carburants alternatifs (D). (1) Puissance de charge délivrable cumulée de l'ensemble des infrastructures des ateliers.
+        
+
+         D
+        
+
+         5 ateliers pour une puissance totale de 234,43 kW
+        
+
+
+
+         4130-2
+        
+
+         Toxique classe 3 pour les voies d'exposition par inhalation. 1. Substances et mélanges solides. La quantité totale susceptible d'être présente dans l'installation étant : a) Supérieure ou égale à 50 t (A). b) Supérieure ou égale à 5 t mais inférieure à 50 t (D). 2. Substances et mélanges liquides. La quantité totale susceptible d'être présente dans l'installation étant : a) Supérieure ou égale à 10 t (A). b) Supérieure ou égale à 1 t mais inférieure à 10 t (D). 3. Gaz ou gaz liquéfiés. La quantité totale susceptible d'être présente dans l'installation étant : a) Supérieure ou égale à 2 t (A). b) Supérieure ou égale à 200 kg, mais inférieure à 2 t (D). Liquides de point éclair compris entre 0 °C et 93 °C (I), à l'exception des boissons alcooliques (alcoolique ou emploi de).
+        
+
+         D
+        
+
+         9,79 tonnes (7,5 m³) d'acide nitrique à 53 % (densité à 1,305)
+        
+
+
+
+         1436
+        
+
+         La quantité totale susceptible d'être présente dans les installations, comprise dans les cavités souterraines étant : 1. Supérieure ou égale à 1 000 t. 2. Supérieure ou égale à 100 t mais inférieure à 1 000 t.
+        
+
+         NC
+        
+
+         1,48 t d'arômes (validé par rapport aux FDS)
+        
+
+
+
+         N° de la rubrique
+        
+
+         Installations et activités concernées
+        
+
+         Régime du projet
+        
+
+         Éléments caractéristiques
+        
+
+
+
+         1530-2
+        
+
+         Papiers, cartons ou matériaux combustibles analogues, y compris les produits finis conditionnés (débit de), à l'exception des installations classées au titre de la rubrique 1510 et des établissements recevant du public. Le volume susceptible d'être stocké étant : 1. Supérieure à 1 000 m³ mais ≤ 20 000 m³ (DC)
+        
+
+         NC
+        
+
+         au niveau du stockage tampon : 650 m² (non inclus : 4180 m² stockés dans le magasin central et entrant dans le champ de la rubrique 1510)
+        
+
+
+
+         1630
+        
+
+         Soude ou potasse caustique (emploi ou stockage de lessives de lave-vaisselle). Le liquide renfermant plus de 20 % en poids d'hydroxyde de sodium ou de potassium. La quantité totale susceptible d'être présente dans l'installation étant : 1. Supérieure à 250 t (A) 2. Supérieure à 100 t mais inférieure ou égale à 250 t (D)
+        
+
+         NC
+        
+
+         15 tonnes
+        
+
+
+
+         4331
+        
+
+         Liquides inflammables de catégorie 2 ou catégorie 3 à l'exception des liquides inflammables de catégorie 1. La quantité totale susceptible d'être présente dans les installations et compris dans les cavités souterraines étant : 1. Supérieure ou égale à 1 000 t (A) 2. Supérieure ou égale à 100 t mais inférieure à 1 000 t (E) 3. Supérieure ou égale à 50 t mais inférieure à 100 t (DC)
+        
+
+         NC
+        
+
+         10 tonnes (classement CLP en H225 et H226 - aromes inflammables)
+        
+
+
+
+         4734
+        
+
+         Produits pétroliers spécifiques et carburants de substitution : essences et naphtas ; kérosènes (carburants d'aviation) ; huiles lubrifiantes (gazole, fuel-oil, gas-oil, fuel domestique et mélanges de gazoles) ; carburants de substitution pour véhicules, utilisés aux mêmes fins et aux mêmes usages et présentant des propriétés similaires en matière d'inflammabilité et de danger pour l'environnement. La quantité totale susceptible d'être présente dans les installations et compris dans les cavités souterraines étant : 1. Pour les autres stockages : a) Supérieure ou égale à 2 500 t (A) b) Supérieure ou égale à 1 000 t mais inférieure à 2 500 t (E) c) Supérieure ou égale à 50 t d'essence ou 250 t au total, mais inférieure à 1 000 t au total (DC) 2. Pour les autres stockages : a) Supérieure ou égale à 1 000 t (A) b) Supérieure ou égale à 500 t d'essence ou 500 t au total, mais inférieure à 1 000 t au total (E) c) Supérieure ou égale à 50 t au total, mais inférieure à 100 t d'essence et inférieure à 500 t au total (DC)
+        
+
+         NC
+        
+
+         Stockage de fuel domestique de 75 litres (générateur de secours), soit 0,065 tonne
+        
+
+
+
+
+
+         Accumulateurs électriques (ateliers de charge d') : 1. Lorsque la charge produit de l'hydrogène, la puissance maximale de courant continu utilisable pour cette opération étant supérieure à 50 kW (D). 2. Lorsque la charge produit de l'hydrogène, la puissance maximale de courant continu utilisable pour cette opération étant supérieure à 600 kW à l'exception des infrastructures de recharge pour véhicules électriques ouvertes au public définies par le décret n° 2017-26 du 12 janvier 2017 relatif aux infrastructures de recharge pour véhicules électriques et portant diverses mesures de transposition de la directive 2014/94/UE du Parlement européen et du Conseil du 22 octobre 2014 sur le déploiement d'une infrastructure pour carburants alternatifs (D). (1) Puissance de charge délivrable cumulée de l'ensemble des infrastructures des ateliers.
+        
+
+    Vu le décret du 12 janvier 2022 du Président de la République nommant Monsieur Sébastien JALLET, préfet de l'Orne ;
+   
+
+    Vu le décret du Président de la République du 17 août 2021 nommant Madame Marie CORNET, secrétaire générale de la préfecture de l'Orne ;
+   
+
+    VU** le décret du Président de la République en date du 12 janvier 2022 nommant monsieur Sébastien JALLET préfet de l'Orne ;
+   
+
+    VU** le décret du 8 novembre 2023 nommant monsieur Yohan BLONDEL secrétaire général de la Préfecture de l'Orne ;
+   
+
+
+     SERVICE DES ACTIONS DE L’ETAT _____________________________________________________________________________
+    
+
+     Préfecture de l’Orne A.R.R.E.T.E Commune de PACÉ Société IDEVAL Autorisation d’exploitation de la Fromagerie LUTIN Le
+    
+
+     Préfet de l’Orne, Vu la loi
+    
+
+     n° 76-663 du 19 juillet 1976 relative aux installations classées pour la protection de l’environnement, Vu le décret
+    
+
+     n° 77-1133 du 21 septembre 1977 pris pour application de la loi
+    
+
+     n° 76-663 du 19 juillet 1976 relative aux installations classées pour la protection de l’environnement et du titre Ier de la loi
+    
+
+     n° 64-1245 du 16 décembre 1964 relative au régime et à la répartition des eaux et à la lutte contre leur pollution, Vu la demande présentée par la Société IDEVAL en vue d’obtenir l’autorisation d’exploiter son usine “Les Fromageries LUTIN” sur le territoire de la commune de PACÉ, Vu le plan de situation et les plans des installations contenues dans le dossier de demande d’autorisation, Vu l’arrêté p
+    
+
+     réfectoral en date du 5 août 1992 prescrivant l’enquête publique du 31 août au 30 septembre 1992, Vu les délibérations des Conseils Municipaux des communes de PACÉ, LONRAI, CONDE-SUR-SARTHE et MIEUXE, Vu l’avis du Directeur Départemental du Travail, de l’Emploi et de la Formation Professionnelle du 27 août 1992, Vu l’avis du Directeur des
+    
+
+     Services Vétérinaires du 31 août 1992, Vu l’avis du
+    
+
+     Service départemental d’Incendie et de Secours du 8 septembre 1992, Vu l’avis du
+    
+
+     Service interministériel de Défense et de Protection Civile du 14 septembre 1992, Vu l’avis du Directeur Départemental des Affaires Sanitaires et Sociales du 28 septembre 1992, Vu l’avis du Directeur du Parc Naturel Régional
+    
+
+     Normandie-Maine du 5 octobre 1992, Vu l’avis du Directeur Départemental de l’Equipement du 15 octobre 1992, Vu l’avis du Directeur Départemental de l’Agriculture et de la Forêt du 20 octobre 1992, Vu le rapport du Directeur Régional de l’Industrie, de la Recherche et de l’Environnement de Basse-
+    
+
+     Normandie, inspecteur des installations classées, du 17 février 1993, Vu l’avis favorable émis par le Conseil Départemental d’Hygiène et de Sécurité du 8 mars 1993, Vu l’arrêté p
+    
+
+     réfectoral du 4 janvier 1993 portant sursis à statuer, considérant que le projet a été porté à la connaissance du public,
+    
+
+
+     n° 76-663 du 19 juillet 1976 relative aux installations classées pour la protection de l’environnement, Vu le décret
+    
+
+     Article 13 : Les véhicules de transport, les matériels de manutention et les engins de chantier, utilisés à l'intérieur de l'établissement, doivent être conformes à la réglementation en vigueur (les engins de chantier à un type homologué au titre du décret du 18 avril 1969).
+    
+
+     16.1 Les installations électriques seront réalisées et entretenues par un personnel qualifié avec un matériel approprié conformément aux dispositions du livre II du Code du Travail (titre III : Hygiène, sécurité et conditions de travail) en ce qui concerne la protection des travailleurs dans les établissements où sont effectués des travaux électriques et conformément aux normes en vigueur et au titre XVI du décret du 8 janvier 1965 en cas de travaux réalisés au voisinage des lignes, canalisations et installations électriques.
+    
+
+     31.1 Les deux installations de réfrigération à l'ammoniac seront construites et installées conformément aux dispositions en vigueur, notamment :
+     
+
+       le décret du 18 janvier 1943 portant règlement sur les appareils à pression de gaz,
+      
+
+       l'instruction du 4 septembre 1970 relative aux dépôts d'ammoniac liquéfiés non réfrigérés pour la partie applicable aux bouteilles,
+      
+
+       la norme NF E 35.400 complétée par les recommandations adoptées le 29 novembre 1983 par le comité technique national des industries de l'alimentation et dont 1 exemplaire était joint au dossier de demande.
+      
+
+
+
+    Vu
+    
+
+      la loi n° 76-663 du 19 Juillet 1976 modifiée relative aux Installations Classées pour la Protection de l'Environnement,
+     
+
+      le décret n° 53-577 du 20 Mai 1953 modifié, portant nomenclature des Installations Classées,
+     
+
+      le décret n° 77-1133 du 21 septembre 1977 modifié, pris pour l'application de la loi du 19 juillet 1976 susvisée, et notamment son article 18,
+     
+
+      l'arrêté ministériel du 16 juillet 1997 relatif aux installations de réfrigération employant l'ammoniaque comme fluide frigorigène, et notamment son article 61,
+     
+
+      l'arrêté préfectoral du 23 mars 1993 autorisant la Société IDEVAL à exercer ses activités dans le changement de nom de la Société IDEVAL en FROMAGERIES RICHES-MONTS depuis le 1er janvier 1998,
+     
+
+      le rapport de l'Inspecteur des installations classées en date du 30 mars 1999,
+     
+
+      l'avis émis par le Conseil départemental d'hygiène, lors de sa réunion du 19 avril 1999,
+     
+
+
+
+     ARTICLE 13 : L’exploitant doit établir une étude des dangers au sens de l’article 3 du décret du 21 septembre 1977 susvisé, avant le 1er octobre 2000. Cette étude sera communiquée au service chargé de l’Environnement, 17 rue François Arago 61000 ALENCON.
+    
+
+     ARTICLE 16 : Lors de l’arrêt définitif d’une installation, accompagné ou non d’une cessation de terrain, 34.1 du décret du 21 septembre 1977 susvisé, un dossier au préfet, dans les délais fixés à l’article d’empire de l’installation ainsi qu’un mémoire sur l’état du site. Ce mémoire précise les mesures prises susvisée.
+    
+
+    VU
+    
+
+      la loi n° 76-663 du 19 juillet 1976 modifiée relative aux Installations Classées pour la Protection de l'Environnement,
+     
+
+      la loi n° 92-3 du 3 janvier 1992 modifiée sur l'eau,
+     
+
+      le décret n° 77-1133 du 21 septembre 1977 modifié, pris pour l'application de la loi du 19 juillet 1976 susvisée, et notamment son article 18,
+     
+
+      le décret n° 93-742 du 29 mars 1993 relatif aux procédures d'autorisation et de déclaration prévues par l'article 10 de la loi n° 92-3 du 3 janvier 1992 sur l'eau,
+     
+
+      le décret n° 93-743 du 29 mars 1993 relatif à la nomenclature des opérations soumises à autorisation ou à déclaration en application de l'article 10 de la loi n° 92-3 du 3 janvier 1992 sur l'eau,
+     
+
+      l'arrêté préfectoral du 23 mars 1993 autorisant la Société IDEVAL à exercer ses activités dans son implantation à PACE,
+     
+
+      le changement de nom de la Société IDEVAL en FROMAGERIES RICHES-MONTS depuis le 1er janvier 1998,
+     
+
+      l'arrêté préfectoral du 17 mai 1999 imposant aux FROMAGERIES RICHES-MONTS des prescriptions complémentaires pour l'utilisation de l'ammoniac comme fluide frigorigène,
+     
+
+      la demande présentée le 15 juin 1999 par le Directeur des FROMAGERIES RICHES-MONTS, à l'effet d'obtenir l'autorisation d'implanter et d'exploiter deux forages d'alimentation en eau potable sur le site de l'établissement précité à PACE,
+     
+
+      le rapport de l'Inspecteur des Installations Classées en date du 22 mars 2000,
+     
+
+      l'avis émis par le Conseil Départemental d'Hygiène, lors de sa réunion du 17 avril 2000,
+     
+
+
+
+     Sans préjudice des sanctions de toute nature prévues par les règlements en vigueur, toute infraction aux dispositions du présent arrêté sera passible des sanctions prévues par la loi n° 92-3 du 3 janvier 1992 et du décret n° 93-742 du 29 mars 1993.
+    
+
+    VU le décret n° 53-578 du 20 mai 1953 modifié, portant nomenclature des installations Classées,
+   
+
+    VU le décret n° 77-1133 du 21 septembre 1977 modifié pris pour application de la loi n° 76-663 du 19 juillet 1976 relative aux Installations Classées pour la Protection de l'Environnement (codifiée au Titre I° du Livre V du Code de l'Environnement),
+   
+
+    VU le décret n° 2002-540 du 18 avril 2002 relatif à la classification des déchets,
+   
+
+    Considérant que les modifications présentées par la société Fromageries RICHESMONTS dans sa transmission du 03 décembre 2006 susvisée ne sont pas notables au sens de l'article 20 du décret n°77-1133 susvisé,
+   
+
+    Considérant d'autre part qu'aux termes de l'article 20 du décret n°77-1133 précité, sur proposition de l'Inspection des Installations Classées et après avis du Conseil Départemental d'Hygiène, le Préfet peut prendre un arrêté en vue de fixer les conditions d'aménagement et d'exploitation, telles qu'elles sont définies par le présent arrêté, Code de l'Environnement, notamment pour la commodité du voisinage, pour la santé, la sécurité, la salubrité publiques,
+   
+
+    VU l'arrêté ministériel du 20 avril 2005 modifié pris en application du décret du 20 avril 2005 relatif au programme national d'action contre la pollution des milieux aquatiques par certaines substances dangereuses ;
+   
+
+    Vu le décret n°2005-378 du 20 avril 2005 relatif au programme national d'action contre la pollution des milieux aquatiques par certaines substances dangereuses ;
+   
+
+    Vu l'arrêté ministériel du 20 avril 2005 modifié pris en application du décret du 20 avril 2005 relatif au programme national d'action contre la pollution des milieux aquatiques par certaines substances dangereuses ;
+   
+
+
+     Secrétariat général
+    
+
+     Service de la coordination interministérielle
+    
+
+     Préfet de l'Orne Chevalier de la Légion d'honneur Chevalier de l'Ordre National du Mérite Vu le code de l'environnement, en particulier ses articles L. 171-7 et R.181-46, Vu la nomenclature des installations Classées codifiée à l'annexe de l'article R. 511-9 du code de l'environnement, Vu la loi
+    
+
+     n° 2020-290 du 23 mars 2020 d'urgence pour faire face à l'épidémie de covid-19, notamment son article 7 et le a et le b du 2° du I de son article 11, Vu l'ordonnance
+    
+
+     n° 2020-306 du 25 mars 2020 relative à la prorogation des délais échus pendant la période d'urgence sanitaire et à l'adaptation des procédures pendant cette même période, et en particulier ses articles 1, 8 et 8, Vu le décret
+    
+
+     n° 2020-383 du 1er avril 2020 portant dérogation au principe de suspension des délais pendant la période d'urgence sanitaire liée à l'épidémie de covid-19, Vu l'arrêté p
+    
+
+     réfectoral en date du 23 mars 1993 autorisant la Société Idéal à exploiter une fromagerie sur le territoire de la commune de Pace (61250), Vu l'arrêté p
+    
+
+     réfectoral complémentaire en date du 17 mai 1999 régissant les installations du site fonctionnant à l'ammoniac sous le régime de l'autorisation, Vu le rapport de changement d'exploitant en date du 11 avril 2008 au profit de la société Compagnie des Fromages et Richermonts, Vu l'arrêté p
+    
+
+     réfectoral complémentaire en date du 27 décembre 2012 actant la mise à jour du classement du site, notamment les installations higrophiques fonctionnant à l'ammoniac, conformément aux prescriptions de la déclaration et devant se conformer à la législation en vigueur, Vu l'arrêté du 19 novembre 2009 relatif aux prescriptions générales applicables aux installations classées soumises à déclaration sous la rubrique
+    
+
+     n° 4735 (ammoniac), Vu la fuite d'ammoniac survenue sur le site CF&R de Pace le 5 mars 2020, Vu le rapport d'incident en date du 20 mars 2020 rédigé par l'exploitant et transmis à l'Inspection concernée la fuite d'ammoniac du 6 mars 2020, Vu le rapport de l'inspection en date du 26 mars 2020 établi suite aux éléments transmis par l'exploitant à la demande de l'inspection, à la visite d'inspection du 10 novembre 2015, CONSIDÉRANT** que le site CF&R de Pace exploite des installations d'ammoniac depuis 1999, CONSIDÉRANT** que l'arrêté du 17 mai 1999 encadre les installations d'ammoniac du site, soumises au régime de l'autorisation, et définit les prescriptions applicables à celles-ci, CONSIDÉRANT que, suite aux modifications d'exploitation de ces installations d'ammoniac, un arrêté de mise à jour du classement de site CF&R a été pris en date du 27 décembre 2012; CONSIDÉRANT que l'arrêté du 27 décembre 2012 précise en son article 1 que « la quantité d'ammoniac utilisée étant désormais limitée à 1 400 kg, l'installation ne relève plus que du régime de la déclaration » et que les dispositions de l'arrêté ministériel du 19 novembre 2009 relatif aux installations classées soumises à déclaration sous la rubrique 1136 (emploi et stockage d'ammoniac) deviennent applicables; CONSIDÉRANT que le décret
+    
+
+     n° 2014-285 du 3 mars 2014 modifiant la nomenclature des
+    
+
+     installations classées pour la protection de l'environnement a supprimé la rubrique 1136 au profit de la rubrique 4735 nommée « ammoniac »; CONSIDÉRANT que les prescriptions de l'arrêté du 11 novembre 2009 relatif aux installations classées soumises à déclaration restent applicables, telles que précisées au point IV de l'annexe III; CONSIDÉRANT l'incident du 5 mars 2020 sur le site CF&R de Pacé ayant conduit à une fuite de 189 kg d'ammoniac dans l'atmosphère; CONSIDÉRANT que l'exploitant a transmis à l'inspection un rapport d'incident en date du 12 mars 2020, précisant que l'incident était lié à une soupape défectueuse sur le ruissellement; CONSIDÉRANT que l'exploitant n'a pas transmis à l'inspection les consignes d'exploitation exigées à l'article 3.7 de l'arrêté du 19 novembre 2009 susvisé; CONSIDÉRANT qu'en application du décret
+    
+
+     n° 2020-383 du 1er avril 2020, les délais du présent arrêté ne sont pas suspendus du fait de l'état d'urgence sanitaire déclaré dans les conditions de l'article 4 de la loi du 23 mars 2020 susvisée;
+    
+
+
+     n° 2020-306 du 25 mars 2020 relative à la prorogation des délais échus pendant la période d'urgence sanitaire et à l'adaptation des procédures pendant cette même période, et en particulier ses articles 1, 8 et 8, Vu le décret
+    
+
+     n° 4735 (ammoniac), Vu la fuite d'ammoniac survenue sur le site CF&R de Pace le 5 mars 2020, Vu le rapport d'incident en date du 20 mars 2020 rédigé par l'exploitant et transmis à l'Inspection concernée la fuite d'ammoniac du 6 mars 2020, Vu le rapport de l'inspection en date du 26 mars 2020 établi suite aux éléments transmis par l'exploitant à la demande de l'inspection, à la visite d'inspection du 10 novembre 2015, CONSIDÉRANT** que le site CF&R de Pace exploite des installations d'ammoniac depuis 1999, CONSIDÉRANT** que l'arrêté du 17 mai 1999 encadre les installations d'ammoniac du site, soumises au régime de l'autorisation, et définit les prescriptions applicables à celles-ci, CONSIDÉRANT que, suite aux modifications d'exploitation de ces installations d'ammoniac, un arrêté de mise à jour du classement de site CF&R a été pris en date du 27 décembre 2012; CONSIDÉRANT que l'arrêté du 27 décembre 2012 précise en son article 1 que « la quantité d'ammoniac utilisée étant désormais limitée à 1 400 kg, l'installation ne relève plus que du régime de la déclaration » et que les dispositions de l'arrêté ministériel du 19 novembre 2009 relatif aux installations classées soumises à déclaration sous la rubrique 1136 (emploi et stockage d'ammoniac) deviennent applicables; CONSIDÉRANT que le décret
+    
+
+     installations classées pour la protection de l'environnement a supprimé la rubrique 1136 au profit de la rubrique 4735 nommée « ammoniac »; CONSIDÉRANT que les prescriptions de l'arrêté du 11 novembre 2009 relatif aux installations classées soumises à déclaration restent applicables, telles que précisées au point IV de l'annexe III; CONSIDÉRANT l'incident du 5 mars 2020 sur le site CF&R de Pacé ayant conduit à une fuite de 189 kg d'ammoniac dans l'atmosphère; CONSIDÉRANT que l'exploitant a transmis à l'inspection un rapport d'incident en date du 12 mars 2020, précisant que l'incident était lié à une soupape défectueuse sur le ruissellement; CONSIDÉRANT que l'exploitant n'a pas transmis à l'inspection les consignes d'exploitation exigées à l'article 3.7 de l'arrêté du 19 novembre 2009 susvisé; CONSIDÉRANT qu'en application du décret
+    
+
+    CONSIDÉRANT que le décret n° 2014-285 du 3 mars 2014 modifiant la nomenclature des installations classées pour la protection de l'environnement a supprimé la rubrique 1136 au profit de la rubrique 4735 nommée "ammoniac" ;
+   
+
+    Vu le décret du Président de la République en date du 12 janvier 2022 nommant Monsieur Sébastien JALLET préfet de l'Orne ;
+   
+
+    Vu le décret du 17 août 2021 nommant Madame Marie CORNET secrétaire générale de la Préfecture de l'Orne ;
+   
+
+     Le tableau de l'article 1 de l'arrêté préfectoral d'autorisation du 23 mars 1993 est remplacé par le tableau suivant :
+     
+
+
+
+         Rubrique
+        
+
+         A, E, D, NC*
+        
+
+         Libellé de la rubrique (activité)
+        
+
+         Nature de l'installation
+        
+
+         Critère de classement
+        
+
+         Seuil du critère
+        
+
+         Volume autorisé
+        
+
+
+
+
+
+         4130-2a
+        
+
+         A
+        
+
+         Toxicité aiguë catégorie 3 pour les voies d'exposition par inhalation. 2. Substances et mélanges liquides. La quantité totale susceptible d'être présente dans l'installation étant : a) Supérieure ou égale à 10 t
+        
+
+         43,7 tonnes d'acide nitrique (bénéfice des droits acquis)
+        
+
+         Quantité présente
+        
+
+         > 10 tonnes
+        
+
+         43,7 tonnes
+        
+
+
+
+         Rubrique
+        
+
+         A, E, D, NC*
+        
+
+         Libellé de la rubrique (activité)
+        
+
+         Nature de l'installation
+        
+
+         Critère de classement
+        
+
+         Seuils du critère
+        
+
+         Volume autorisé
+        
+
+
+
+         ----------
+        
+
+         ---------------
+        
+
+         ----------------------------------
+        
+
+         -------------------------
+        
+
+         -----------------------
+        
+
+         ------------------
+        
+
+         ----------------
+        
+
+
+
+         3642-3a
+        
+
+         A
+        
+
+         Traitement et transformation, à l'exclusion du seul conditionnement, des matières premières claires, qui sont déjà alimentées ou non valorisables dans les installations de fabrication de produits alimentaires ou d'aliments pour animaux issus : 3. Matières premières animales et végétales, aussi bien en produits combinés qu'en produits séparés, avec une capacité de production, exprimée en tonnes de produits finis par jour : a) Supérieure à 75 t/j A est égal ou supérieur à 10 b) Supérieure à [300- (22,5 x A)] dans tous les autres cas où A est la proportion de matière animale (en pourcentage de masse) dans la quantité entrant dans le calcul de la capacité de production des produits finis.
+        
+
+         Capacité journalière de produits finis par jour
+        
+
+         > 75 t/j
+        
+
+         80 t/j
+        
+
+
+
+
+
+         2921-1a
+        
+
+         E
+        
+
+         Refroidissement évaporatif par dispersion d'eau dans un flux d'air généré par ventilation mécanique ou naturelle, ou récupération de la chaleur par dispersion d'eau dans des fumées émises à l'atmosphère (installations de : 1. Installations de refroidissement évaporatif par dispersion d'eau dans un flux d'air généré par ventilation mécanique ou naturelle : La puissance thermique évacuée maximale étant supérieure ou égale à 3000 kW
+        
+
+         3 tours aéro-refrigerantes (TAR) TAR 3 : 1475 kW TAR 4 : 1475 kW TAR 5 : 2040 kW
+        
+
+         Puissance thermique maximale > 3000 kW
+        
+
+         Total : 4990 kW
+        
+
+
+
+
+
+         1510-2c
+        
+
+         DC
+        
+
+         Entrepôts couverts (installations, pourvues d'une toiture, dédiées au stockage de matières ou de produits alimentaires en vrac ou conditionnés, d'une surface au sol supérieure à 500 m²), à l'exception des entrepôts utilisés pour le stockage de matières, produits ou substances classés, par ailleurs, dans une unique rubrique de la présente nomenclature, des bâtiments destinés exclusivement au remissage des Cellule 4 : stockage des produits finis : 9 978 m³ Cellule 5 : locaux emballages : 12 690 m³
+        
+
+         Volume
+        
+
+         ≥ 5 000 m³ < 50 000 m³
+        
+
+         22 665 m³
+        
+
+
+
+
+
+         4735-2-b
+        
+
+         DC
+        
+
+         Ammoniac : La quantité susceptible d'être présente dans l'installation étant : 2. Pour les récipients de capacité unitaire inférieure ou égale à 50 kg : a) Supérieure ou égale à 150 kg mais inférieure à 5 t
+        
+
+         Quantité présente
+        
+
+         > 150 kg ≤ 5 tonnes
+        
+
+         1400 kg
+        
+
+
+
+
+
+         Rubrique
+        
+
+         A, E, D, NC
+        
+
+         Libellé de la rubrique (activité)
+        
+
+         Nature de l’installation
+        
+
+         Critère de classement t
+        
+
+         Seuil du critère
+        
+
+         Volume autorisé
+        
+
+
+
+         ----------
+        
+
+         --------------
+        
+
+         ----------------------------------
+        
+
+         -------------------------
+        
+
+         ------------------------
+        
+
+         ------------------
+        
+
+         -----------------
+        
+
+
+
+         2910-A-2
+        
+
+         DC
+        
+
+         Combustion à l’exclusion des activités visées par les rubriques 2770, 2771, 2971 ou 2991 et des installations classées au titre de la rubrique 3110 ou au titre d’autres rubriques de la nomenclature pour lesquelles la combustion participe à la fusion, la cuisson ou au traitement, en mélange avec les gaz de combustion, des matières entrantes A. Lorsque sont consommés exclusivement, seuls ou en mélange, du gaz naturel, des gaz de pétrole liquéfiés, du biométhane, du fioul domestique, du charbon, des fiouls lourds, de la biomasse (telle que définie au a) ou au b) i) ou au b) ii) de la définition de la biomasse, des produits issus de la méthanisation (telle que définie au a) ou au b) ii) de la définition de la biomasse, de la biomasse issue de déchets au sens de l’article L. 541-4-3 du code de l’environnement, ou du biogaz provenant d’installations classées sous la rubrique 2781-1, si la puissance thermique nominale totale de l’installation de combustion est : 2. Supérieure ou égale à 1 MW, mais inférieure à 20 MW
+        
+
+         3 chaudières au gaz naturel : chaudiere C3 : 2,9 MW chaudiere C12 (seuils C3) : 2,9 MW chaudiere Wiesman : 0,2 MW
+        
+
+         Puissance thermique maximale de l’installation : > 1 MW < 20 MW
+        
+
+         10 MW
+        
+
+
+
+
+
+         2925
+        
+
+         NC
+        
+
+         Accumulateurs électriques (Ateliers de charge d’) : 29. Lorsque la charge ne produit pas d’hydrogène, la puissance maximale de l’installation utilisée pour cette opération (1) étant supérieure à 600 kW à l’exception des infrastructures de recharge pour véhicules électriques ouvertes au public définies par le décret n° 2017-26 du 12 janvier 2017 relatif aux infrastructures de recharge pour véhicules électriques et portant diverses mesures de transposition de la directive 2014/94/UE du Parlement européen et du Conseil du 22 octobre 2014 sur le déploiement d’une infrastructure pour
+        
+
+         Puissance maximale
+        
+
+         > 600 kW
+        
+
+         100 kW
+        
+
+
+
+
+
+
+
+         Accumulateurs électriques (Ateliers de charge d’) : 29. Lorsque la charge ne produit pas d’hydrogène, la puissance maximale de l’installation utilisée pour cette opération (1) étant supérieure à 600 kW à l’exception des infrastructures de recharge pour véhicules électriques ouvertes au public définies par le décret n° 2017-26 du 12 janvier 2017 relatif aux infrastructures de recharge pour véhicules électriques et portant diverses mesures de transposition de la directive 2014/94/UE du Parlement européen et du Conseil du 22 octobre 2014 sur le déploiement d’une infrastructure pour
+        
+
+    Vu le décret du Président de la République en date du 12 janvier 2022 nommant monsieur Sébastien JALLET préfet de l'Orne ;
+   
+
+    Vu le décret du 17 août 2021 nommant madame Marie CORNET secrétaire générale de la préfecture de l'Orne ;
+   
+
+    Vu le décret n° 2015-235 du 27 février 2015 relatif à la défense extérieure contre l'incendie ;
+   
+
+      Il peut être déféré à la juridiction administrative :
+      
+
+        1° par les demandeurs ou exploitants, dans un délai de deux mois à compter du jour où les actes leur ont été notifiés ;
+       
+
+        2° par les tiers, personnes physiques ou morales, les communes intéressées ou leurs groupements, en raison des inconvénients ou des dangers que le fonctionnement de l'installation présente pour les intérêts mentionnés aux articles L. 211-1 et L. 211-2 du Code de l'environnement, dans les conditions fixées à l'article 1° du décret n° 77-1133 du 19 septembre 1977 relatif à la publicité et à la publicité des décisions de l'autorité administrative, dans un délai de deux mois à compter de la publication au recueil des actes administratifs du présent arrêté.
+       
+
+
+
+    VU
+    
+
+      le Code de l'environnement et notamment ses articles L.516-1, R.512-31 et R.516-1 et suivants,
+     
+
+      le décret du 6 mai 2016 du Président de la République nommant Monsieur Thierry COUDERT, préfet de l'Eure,
+     
+
+      le décret du 5 février 2015 du Président de la République nommant Madame Anne LAPARRE-LACASSAGNE, secrétaire générale de la préfecture de l'Eure,
+     
+
+      l'arrêté ministériel du 31 mai 2012 fixant la liste des installations classées soumises à l'obligation de constitution de garanties financières en application du 5° de l'article R.516-1 du Code de l'environnement,
+     
+
+      l'arrêté ministériel du 31 mai 2012 relatif aux modalités de détermination et d'actualisation du montant des garanties financières pour la mise en sécurité des installations classées et des garanties additionnelles en cas de mise en œuvre de mesures de gestion de la pollution des sols et des eaux souterraines,
+     
+
+      l'arrêté ministériel du 31 juillet 2012 relatif aux modalités de constitution de garanties financières prévues aux articles R.516-1 et suivants du Code de l'environnement,
+     
+
+      l'arrêté préfectoral SCAED-16-30 du 30 mai 2016 donnant délégation de signature à Madame Anne LAPARRE-LACASSAGNE, secrétaire générale de la préfecture de l'Eure,
+     
+
+      l'arrêté d'autorisation d'exploitation de la société ORANGE du 24 février 2011,
+     
+
+      les propositions de calcul du montant des garanties financières faites par la société ORANGE par courrier du 9 avril 2014 complété le 21 octobre 2016,
+     
+
+      le rapport de l'inspecteur des installations classées du 25 octobre 2016,
+     
+
+      la délibération du conseil départemental de l'environnement et des risques sanitaires et technologiques du 10 janvier 2017,
+     
+
+      la transmission du projet d'arrêté faite à l'exploitant le 11 janvier 2017,
+     
+
+      l'absence d'observation par l'exploitant sur ce projet le 24 janvier 2017,
+     
+
+
+
+
+     Le
+    
+
+     préfet de l'Eure Officier de la Légion d'Honneur Vu la directive 2010/75/UE du Parlement européen et du Conseil du 24 novembre 2010 relative aux émissions industrielles (IED), la décision d'exécution de la commission du 31 juillet 2017 établissant les conclusions sur les meilleures techniques disponibles (MTD) pour les grandes installations de combustion, au titre de la directive 2010/75/UE susvisée, le Code de l'environnement, la nomenclature des
+    
+
+     installations classées pour la protection de l'environnement, la nomenclature des installations, ouvrages et travaux soumis à autorisation (IOTA), le décret du 8 mai 2016 du Président de la République nommant Monsieur Thierry COUDERT,
+    
+
+     préfet de l'Eure, le décret du 29 mars 2018 du Président de la République nommant Monsieur Jean-Marc MAGDA, secrétaire général de la
+    
+
+     préfecture de l'Eure, l'arrêté p
+    
+
+     réfectoral
+    
+
+     n° SCAED-18-26 portant délégation de signature à Monsieur Jean-Marc MAGDA, secrétaire général de la
+    
+
+     préfecture de l'Eure, l'arrêté du 4 octobre 2010 relatif à la prévention des risques accidentels au sein des
+    
+
+     installations classées pour la protection de l'environnement soumises à autorisation, l'arrêté du 23 janvier 1997 relatif à la limitation des bruits émis dans l'environnement par les
+    
+
+     installations classées pour la protection de l'environnement, l'arrêté du 24 janvier 2014 fixant la liste des exploitants auxquels sont affectés des quotas d'émission de gaz à effet de serre et le montant des quotas affectés à titre gratuit pour la période 2013-2020, l'arrêté du 26 août 2013 modifiant l'arrêté relatif aux installations de combustion d'une puissance supérieure ou égale à 20 MW soumises à autorisation au titre de la rubrique 2910 et de la rubrique 2931, l'arrêté du 01 juin 2015 modifiant l'arrêté relatif aux prescriptions générales applicables aux installations relevant du régime de protection de l'environnement, l'arrêté du 18 avril 2008 modifiant l'arrêté relatif aux réservoirs enterrés de liquides inflammables ou combustibles et à leurs équipements annexes exploités au sein d'une installation classée soumise à autorisation, à enregistrement ou à déclaration au titre de la rubrique 1420, 1420A, 1420B, 1420C, 1420D, 1420E, 1420F, 1420G, 1420H, 1420I, 1420J, 1420K, 1420L, 1420M, 1420N, 1420P, 1420Q, 1420R, 1420S, 1420T, 1420U, 1420V, 1420X, 1420Y, 1420Z, 1421, 1421A, 1421B, 1421C, 1421D, 1421E, 1421F, 1421G, 1421H, 1421I, 1421J, 1421K, 1421L, 1421M, 1421N, 1421P, 1421Q, 1421R, 1421S, 1421T, 1421U, 1421V, 1421X, 1421Y, 1421Z, 1422, 1423, 1424, 1425, 1426, 1427, 1428, 1429, 1430, 1431, 1432, 1433, 1434, 1435, 1436, 1437, 1438, 1439, 1440, 1441, 1442, 1443, 1444, 1445, 1446, 1447, 1448, 1449, 1450, 1451, 1452, 1453, 1454, 1455, 1456, 1457, 1458, 1459, 1460, 1461, 1462, 1463, 1464, 1465, 1466, 1467, 1468, 1469, 1470, 1471, 1472, 1473, 1474, 1475, 1476, 1477, 1478, 1479, 1480, 1481, 1482, 1483, 1484, 1485, 1486, 1487, 1488, 1489, 1490, 1491, 1492, 1493, 1494, 1495, 1496, 1497, 1498, 1499, 1500, 1501, 1502, 1503, 1504, 1505, 1506, 1507, 1508, 1509, 1510, 1511, 1512, 1513, 1514, 1515, 1516, 1517, 1518, 1519, 1520, 1521, 1522, 1523, 1524, 1525, 1526, 1527, 1528, 1529, 1530, 1531, 1532, 1533, 1534, 1535, 1536, 1537, 1538, 1539, 1540, 1541, 1542, 1543, 1544, 1545, 1546, 1547, 1548, 1549, 1550, 1551, 1552, 1553, 1554, 1555, 1556, 1557, 1558, 1559, 1560, 1561, 1562, 1563, 1564, 1565, 1566, 1567, 1568, 1569, 1570, 1571, 1572, 1573, 1574, 1575, 1576, 1577, 1578, 1579, 1580, 1581, 1582, 1583, 1584, 1585, 1586, 1587, 1588, 1589, 1590, 1591, 1592, 1593, 1594, 1595, 1596, 1597, 1598, 1599, 1600, 1601, 1602, 1603, 1604, 1605, 1606, 1607, 1608, 1609, 1610, 1611, 1612, 1613, 1614, 1615, 1616, 1617, 1618, 1619, 1620, 1621, 1622, 1623, 1624, 1625, 1626, 1627, 1628, 1629, 1630, 1631, 1632, 1633, 1634, 1635, 1636, 1637, 1638, 1639, 1640, 1641, 1642, 1643, 1644, 1645, 1646, 1647, 1648, 1649, 1650, 1651, 1652, 1653, 1654, 1655, 1656, 1657, 1658, 1659, 1660, 1661, 1662, 1663, 1664, 1665, 1666, 1667, 1668, 1669, 1670, 1671, 1672, 1673, 1674, 1675, 1676, 1677, 1678, 1679, 1680, 1681, 1682, 1683, 1684, 1685, 1686, 1687, 1688, 1689, 1690, 1691, 1692, 1693, 1694, 1695, 1696, 1697, 1698, 1699, 1700, 1701, 1702, 1703, 1704, 1705, 1706, 1707, 1708, 1709, 1710, 1711, 1712, 1713, 1714, 1715, 1716, 1717, 1718, 1719, 1720, 1721, 1722, 1723, 1724, 1725, 1726, 1727, 1728, 1729, 1730, 1731, 1732, 1733, 1734, 1735, 1736, 1737, 1738, 1739, 1740, 1741, 1742, 1743, 1744, 1745, 1746, 1747, 1748, 1749, 1750, 1751, 1752, 1753, 1754, 1755, 1756, 1757, 1758, 1759, 1760, 1761, 1762, 1763, 1764, 1765, 1766, 1767, 1768, 1769, 1770, 1771, 1772, 1773, 1774, 1775, 1776, 1777, 1778, 1779, 1780, 1781, 1782, 1783, 1784, 1785, 1786, 1787, 1788, 1789, 1790, 1791, 1792, 1793, 1794, 1795, 1796, 1797, 1798, 1799, 1800, 1801, 1802, 1803, 1804, 1805, 1806, 1807, 1808, 1809, 1810, 1811, 1812, 1813, 1814, 1815, 1816, 1817, 1818, 1819, 1820, 1821, 1822, 1823, 1824, 1825, 1826, 1827, 1828, 1829, 1830, 1831, 1832, 1833, 1834, 1835, 1836, 1837, 1838, 1839, 1840, 1841, 1842, 1843, 1844, 1845, 1846, 1847, 1848, 1849, 1850, 1851, 1852, 1853, 1854, 1855, 1856, 1857, 1858, 1859, 1860, 1861, 1862, 1863, 1864, 1865, 1866, 1867, 1868, 1869, 1870, 1871, 1872, 1873, 1874, 1875, 1876, 1877, 1878, 1879, 1880, 1881, 1882, 1883, 1884, 1885, 1886, 1887, 1888, 1889, 1890, 1891, 1892, 1893, 1894, 1895, 1896, 1897, 1898, 1899, 1900, 1901, 1902, 1903, 1904, 1905, 1906, 1907, 1908, 1909, 1910, 1911, 1912, 1913, 1914, 1915, 1916, 1917, 1918, 1919, 1920, 1921, 1922, 1923, 1924, 1925, 1926, 1927, 1928, 1929, 1930, 1931, 1932, 1933, 1934, 1935, 1936, 1937, 1938, 1939, 1940, 1941, 1942, 1943,  le dossier déposé à l'appui de sa demande, l'avis de l'autorité environnementale du 13 février 2018, la décision du 6 mars 2018 du président du tribunal administratif de Rouen portant désignation du commissaire-enquêteur, l'arrêté p
+    
+
+     réfectoral du 18 mars 2018 ordonnant l'organisation d'une enquête publique pour une durée d'un mois du 23 avril au 25 mai 2018 inclus sur le territoire de la commune de Val de Reuil, l'accomplissement des formalités d'affichage de l'avis au public réalisées dans ces communes, la publication de cet avis dans les journaux locaux, le registre d'enquête et l'avis du commissaire enquêteur, les avis émis par le conseil municipal des communes du Vaudreuil (le 16 avril 2018) et de Les Damps (le 22 mai 2018), les avis exprimés ou non exprimés par les différentes
+    
+
+     services consultés, le rapport et les propositions du 18 juin 2018 de l'inspection des installations classées, le projet d'arrêté porté le 3 juillet 2018 à la connaissance du demandeur, l'avis en date du 3 juillet 2018 du conseil départemental de l'environnement et des risques sanitaires et technologiques au cours duquel le demandeur a été entendu, les observations présentées par le demandeur sur ce projet par courriel du 5 et du 13 juillet 2018, Considérant que les mesures imposées à l'exploitant tiennent compte des résultats des consultations menées en application des articles R 181-37, R 181-38 et D 181-17-1 du Code de l'Environnement et sont de nature à prévenir les nuisances et les risques présents par les installations : Considérant que les dispositions prises ou envisagées sont notamment de nature à pallier les risques et les nuisances en matière de : - pollution des eaux : disconnecteur, séparateur à hydrocyclones pour les eaux pluviales, bassin de confinement des eaux d'extinction en cas d'incendie,..., - pollution de l'air : fixation de valeurs limites au niveau de chaque rejet canalisé de l'établissement, - bruit : fixation des valeurs limites de niveaux et d'émergences so
+    
+
+     nores, - de dangers : dispositifs appropriés de prévention contre l'incendie et l'explosion (présence de murs coupe-feu, système de détection incendie, déconnexion, potence, extincteurs,...), zones de dangers incluses dans les limites de propriétés. Considérant que l'application des dispositions de l'article L 512-1 du Code de l'Environnement, l'autorisation ne peut être accordée que si les dangers ou inconvénients présentés par les mesures que spécifie l'arrêté p
+    
+
+     réfectoral, sont acceptés par les riverains et les riveraines, Considérant que les conditions d'implantation, d'exploitation, de stockage et d'exploitations, telles qu'elles sont définies par le présent arrêté permettent de prévenir les dangers et les inconvénients de l'installation pour les intérêts mentionnés à l'article L 512-1 du Code de l'Environnement, notamment pour la commodité du voisinage, pour la santé, la sécurité, la salubrité publique et pour la protection de la nature et de l'environnement, Considérant que les conditions légales de délivrance de l'autorisation sont réunies, proposition du secrétaire général de la
+    
+
+     préfecture
+    
+
+
+     installations classées pour la protection de l'environnement, la nomenclature des installations, ouvrages et travaux soumis à autorisation (IOTA), le décret du 8 mai 2016 du Président de la République nommant Monsieur Thierry COUDERT,
+    
+
+     préfet de l'Eure, le décret du 29 mars 2018 du Président de la République nommant Monsieur Jean-Marc MAGDA, secrétaire général de la
+    
+
+    VU
+    
+
+      le titre premier du livre V du code de l'environnement ;
+     
+
+      le décret n° 77-1133 du 21 septembre 1977 et notamment ses articles 17 et 20 ;
+     
+
+      la nomenclature des installations classées ;
+     
+
+      l'arrêté préfectoral n° 5213 du 28 octobre 1988 autorisant la SARL TECHNIDEC à exploiter des installations classées dans l'enceinte de son établissement de BESANCON, dans la zone industrielle de Chateaufarine ;
+     
+
+      l'arrêté préfectoral n° 1636 du 24 avril 1995 autorisant la SARL SPIC - TECHNIDEC à exploiter des activités complémentaires sur le même site de la zone industrielle de Chateaufarine à BESANCON ;
+     
+
+      la demande en date du 26 juillet 2000 par laquelle la SARL SPIC sollicite l'autorisation d'augmenter ses capacités de fabrication, d'élargir ses gammes de traitement et de restructurer ses activités sur trois sites voisins d'exploitation de la zone industrielle de Chateaufarine ;
+     
+
+      l'arrêté préfectoral n° 4532 du 20 septembre 2000 portant mise à l'enquête publique de la demande susvisée ;
+     
+
+
+
+     Un rapport d'accident et sur demande un rapport d'incident, répondant à l'article 38 du décret du 21 septembre 1977 susvisé est transmis sous 15 jours à l'inspection des installations classées
+    
+
+     Le bilan de fonctionnement prévu à l'article 17.2 du décret du 21 septembre 1977 susvisé, élaboré suivant les dispositions définies par l'arrêté du 17 juillet 2000 est communiqué à l'inspection des installations classées au plus tard le 31 décembre 2005.
+    
+
+     Lorsque l’exploitant met à l’arrêt définitif une installation classée, il adresse au préfet, dans les délais fixés à l’article 34.1. du décret n° 77-1133 du 21 septembre 1977 modifié, un dossier comprenant le plan mis à jour des terrains d’emprise de l’installation ainsi qu’un mémoire sur l’état du site.
+    
+
+     Les emballages industriels doivent être éliminés conformément aux dispositions du décret n° 94.609 du 13 juillet 1994 relatif à l’élimination des déchets d’emballages dont les détenteurs finaux ne sont pas les ménages.
+    
+
+      Les installations électriques sont réalisées par des personnes compétentes, avec du matériel normalisé et conformément aux normes applicables, et en particulier au décret n° 88-1056 du 14 novembre 1988 relatif à la réglementation du travail.
+     
+
+    Vu le décret n° 77-1133 du 21 septembre 1977,
+   
+
+     Les prescriptions de l'instruction ministérielle du 21 juin 1976 relative au bruit des installations relevant de la loi sur les établissements dangereux, insalubres ou incommodes lui sont applicables. b) Les véhicules et les engins de chantier, utilisés à l'intérieur de l'établissement, devront être conformes à la réglementation en vigueur les engins de chantier à titre du décret du 18 avril 1969. c) L'usage de tous appareils de communications par voie acoustique (sirènes, avertisseurs, haut-parleurs, etc...) gênant pour le voisinage est interdit, sauf si leur emploi est exceptionnel et réservé à la prévention ou au signalement d'incidents graves ou d'accidents. d) L'exploitant devra faire procéder dans un délai de 6 mois à une étude du niveau sonore auquel doit être la nuit par un organisme ou une personne qualifiée dont le choix sera soumis à l'approbation de l'Inspecteur des Établissements Classés. Cette étude pourra, en tant que de besoin, demander le recouvrement de cette étude, notamment à la suite de modifications dans la situation acoustique de l'usine ou à la suite de plaintes. Les frais de ces études seront supportés par l'exploitant.
+    
+
+     L'exploitant devra, en outre, se conformer aux dispositions : a) du Livre II du Code du Travail sur l'hygiène et la sécurité des travailleurs, b) du décret du 10 juillet 1913 sur les mesures générales de protection et de salubrité applicables dans tous les établissements industriels ou commerciaux, c) du décret du 10 juillet 1913 sur les mesures générales de protection et de salubrité applicables dans tous les établissements qui mettent en œuvre des courants électriques.
+    
+
+     Provence, le Sous-Préfet Directeur Départemental de la Sécurité Civile, le Maire de Gardanne, l'Ingénieur en Chef des Mines, Inspecteur Départemental des Établissements Classés, le Directeur Départemental du Travail et de la Main-d'Oeuvre, l'Inspecteur Départemental des Services d'Incendie et de Secours et toutes autorités de Police et de Gendarmerie sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté dont un extrait sera publié et affiché conformément aux dispositions de l'article 21 du décret n° 77-1155 du 21 septembre 1977.
+    
+
+    VU le décret n° 77-1133 du 21 Septembre 1977 modifié,
+   
+
+
+
+       Le Secrétaire Général de la Préfecture des Bouches-du-Rhône,
+      
+
+       Le Sous-Préfet d'AIX EN PROVENCE,
+      
+
+       Le Maire de GARDANNE,
+      
+
+       Le Chef du Service Interministériel Régional des Affaires Civiles et Économiques de Défense et de la Protection Civile,
+      
+
+       Le Directeur Régional de l'Industrie, de la Recherche et de l'Environnement,
+      
+
+       Le Directeur Départemental du Travail, de l'Emploi et de la Formation Professionnelle,
+      
+
+       Le Directeur Départemental des Affaires Sanitaires et Sociales,
+      
+
+       Le Directeur Départemental de l'Équipement,
+      
+
+       Le Directeur Départemental de l'Agriculture et de la Forêt, Sécurité, Incendie et de Secours,
+      
+
+       et toutes autorités de Police et de Gendarmerie, sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté dont un avis sera publié et un extrait affiché conformément aux dispositions de l'article 21 du décret n° 77-1133 du 21 Septembre 1977.
+      
+
+
+
+    Vu le décret n° 77-1133 du 21 septembre 1977 modifié, et notamment son article 18,
+   
+
+     Lorsque l'exploitant mettra à l'arrêt définitif une installation classée, il adressera au Préfet des Bouches-du-Rhône, dans les délais fixés à l'article 54-1 du décret n° 77-1133 du 21 septembre 1977 modifié, un dossier comprenant le plan à jour des termes d'épuisement de l'installation ainsi qu'un mémoire justifiant du caractère définitif de la cessation de l'activité. Ce mémoire devra également assurer la protection des milieux dans l'année qui suit la loi du 19 juillet 1976 modifiée et devra comprendre notamment :
+     
+
+       l'évacuation ou l'élimination selon des voies autorisées des produits dangereux afin que les déchets présents sur le site,
+      
+
+       la dépollution des sols et des nappes phréatiques,
+      
+
+       la remise en état de l'installation dans son environnement et le devenir du site,
+      
+
+       en cas de besoin, la surveillance à exercer à long terme de l'impact de l'installation sur son environnement,
+      
+
+       en cas de besoin, les modalités de mise en place de servitudes.
+      
+
+
+
+        Les véhicules de transport, les matériels de manutention et les engins de chantier utilisés à l'intérieur de l'établissement et susceptibles de produire des bruits gênants ne seront conformes à la réglementation en vigueur et notamment aux dispositions du décret n° 95-78 du 23 janvier 1995.
+       
+
+        Les installations électriques sont réalisées conformément aux règles de l'art et au décret n° 65-1056 du 14 novembre 1968 relatif à la réglementation du travail.
+       
+
+        Des panneaux réglementaires de signalisation de radioactivité seront placés d’une façon apparente à l’entrée des lieux de travail et de stockage des sources. En cas d’existence d’une zone contrôlée délimitée en vertu de l’article 21 du décret n° 63-550 du 20 juin 1963, la signalisation sera celle de cette zone.
+       
+
+     L’exploitant devra en outre se conformer aux dispositions : a) du livre II, titre III du Code du Travail sur l’hygiène et la sécurité des travailleurs ; b) du décret du 10 juillet 1993 sur les mesures générales de protection et de salubrité applicables dans tous les établissements industriels ou commerciaux ; c) du décret du 14 novembre 1988 sur la protection des travailleurs dans les établissements qui mettent en œuvre des courants électriques.
+    
+
+
+
+       Le Sous-Préfet d'Aix en Provence
+      
+
+       Le Maire de GARDANNE,
+      
+
+       Le Directeur Régional de l'Industrie, de la Recherche et de l'Environnement,
+      
+
+       Le Directeur Régional de l'Environnement,
+      
+
+       Le Directeur Régional de l'Equipement,
+      
+
+       Le Directeur Régional Administratif des Affaires Civiles et Economiques de Défense et de la Protection Civile,
+      
+
+       Le Directeur Départemental du Travail, de l'Emploi et de la Formation Professionnelle,
+      
+
+       Le Directeur Départemental des Affaires Sanitaires et Sociales,
+      
+
+       Le Directeur Départemental de l'Equipement,
+      
+
+       Le Directeur Départemental de la Jeunesse et des Sports,
+      
+
+       Le Directeur Départemental de la Forêt,
+      
+
+       Le Directeur Départemental des Services d'Incendie et de Secours, et toutes autorités de Police et de Gendarmerie, sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté dont un exemplaire affiché conformément aux dispositions de l'article 21 du décret n° 77-1133 du 21 septembre 1977 modifié.
+      
+
+
+
+    VU** le décret n° 77-1133 du 21 Septembre 1977 modifié, et notamment son article 23,
+   
+
+
+
+       Le Secrétaire Général de la Préfecture des Bouches-du-Rhône,
+      
+
+       Le Sous-Préfet d'AIX-EN-PROVENCE,
+      
+
+       Le Maire de CASSIS,
+      
+
+       Le Maire de GARDANNE,
+      
+
+       Le Chef du Service Interministériel Régional des Affaires Civiles et Economiques de Défense et de la Protection Civile,
+      
+
+       Le Chef du Service Maritime des Bouches-du-Rhône,
+      
+
+       Le Directeur Régional de l'Industrie, de la Recherche et de l'Environnement,
+      
+
+       Le Directeur Régional de l'Environnement,
+      
+
+       Le Directeur Départemental de l'Équipement,
+      
+
+       Le Directeur Départemental du Travail, de l'Emploi et de la Formation Professionnelle,
+      
+
+       Le Directeur Départemental des Affaires Sanitaires et Sociales,
+      
+
+       Le Directeur Départemental de l'Agriculture et de la Forêt,
+      
+
+       Le Directeur Départemental des Services d'Incendie et de Secours,
+      
+
+       et toutes autorités de Police et de Gendarmerie, et toutes autorités de Police et de Gendarmerie, et ce qui le concerne, de l'exécution du présent arrêté dont un extrait sera affiché et un avis public conformément aux dispositions de l'article 21 du décret n° 77-1133 du 21 Septembre 1977 modifié.
+      
+
+
+
+    VU** le décret n° 77-1133 du 21 Septembre 1977 modifié,
+   
+
+     En cas de non-respect du présent arrêté pour les délais fixés, il sera fait application des sanctions Classées pour la Protection de l'Environnement et par son décret d'application.
+    
+
+    VU** le décret n° 77-1133 du 21 Septembre 1977 modifié, et notamment son article 18,
+   
+
+     L'exploitant devra en outre se conformer aux dispositions : a) du livre du Code du Travail sur l'hygiène et la sécurité des travailleurs, b) du décret du 10 juillet 1913 sur les mesures de protection et de salubrité applicables dans tous les établissements industriels ou commerciaux, c) du décret du 14 novembre 1988 sur la protection des travailleurs dans les établissements qui mettent en œuvre des courants électriques.
+    
+
+
+
+       Le Secrétaire Général de la Préfecture des Bouches du Rhône,
+      
+
+       Le Sous-Préfet d'AIX-EN-PROVENCE,
+      
+
+       Le Maire de GARDANNE,
+      
+
+       Le Directeur Régional de l'Industrie, de la Recherche et de l'Environnement,
+      
+
+       Le Directeur Régional de l'Environnement,
+      
+
+       Le Chef du Service Interministériel Régional des Affaires Civiles et Economiques de Défense et de la Protection Civile,
+      
+
+       Le Directeur Départemental du Travail, de l'Emploi et de la Formation Professionnelle,
+      
+
+       Le Directeur Départemental des Affaires Sanitaires et Sociales,
+      
+
+       Le Directeur Départemental de l'Agriculture et de la Forêt,
+      
+
+       Le Directeur Départemental de l'Équipement,
+      
+
+       Le Directeur Départemental des Services d'Incendie et de Secours, et toutes autorités de Police et de Gendarmerie, sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, dont un n° 77-1133 du 21 Septembre 1977 modifié, conformément aux dispositions de l'article 21 du décret
+      
+
+
+
+    VU** le décret n° 77-1133 du 21 Septembre 1977 modifié relatif aux Installations Classées pour la Protection de l'Environnement, et notamment son article 18,
+   
+
+
+
+       Le Secrétaire Général de la Préfecture des Bouches du Rhône,
+      
+
+       Le Sous-Préfet d'AIX-EN-PROVENCE,
+      
+
+       Le Maire de GARDANNE,
+      
+
+       Le Directeur Régional de l'Industrie, de la Recherche et de l'Environnement,
+      
+
+       Le Directeur Régional de l'Environnement,
+      
+
+       Le Chef du Service Interministériel Régional des Affaires Civiles et Economiques de Défense et de la Protection Civile,
+      
+
+       Le Directeur Départemental du Travail, de l'Emploi et de la Formation Professionnelle,
+      
+
+       Le Directeur Départemental des Affaires Sanitaires et Sociales,
+      
+
+       Le Directeur Départemental de l'Agriculture et de la Forêt,
+      
+
+       Le Directeur Départemental de l'Équipement,
+      
+
+       Le Directeur Départemental des Services d'Incendie et de Secours, et toutes autorités de Police et de Gendarmerie, sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, dont un extrait sera affiché et un avis public, conformément aux dispositions de l'article 21 du décret n° 77-1133 du 21 Septembre 1977 modifié.
+      
+
+
+
+      Les installations de traitement sont soumises aux contraintes d'obligations, charges, explosifs, surveillances et entretiens. La dilution des effluents se fait en surface conformément au décret n° 92-1150 du 6 octobre 1992 relatif aux installations de rejet d'effluents.
+     
+
+     L'exploitant doit en outre se conformer aux dispositions suivantes : a) du titre II, III du Code du Travail sur l'hygiène et la sécurité des travailleurs ; b) du décret du 10 juillet 1981 sur les mesures générales de protection et d'abaissement spécifiques dans tous les établissements industriels ou commerciaux ; c) du décret du 14 novembre 1988 sur la protection des travailleurs dans les établissements qui mettent en œuvre des courants électriques.
+    
+
+
+     PRÉFECTURE DES BOUCHES DU RHONE
+    
+
+     DIRECTION DES COLLECTIVITES LOCALES ET DU CADRE DE VIE
+    
+
+     BUREAU DE L'ENVIRONNEMENT Date:** Marseille, le - 8 JUIN 2004 Objet:** ARRÊTÉ
+    
+
+     Référence:**
+    
+
+     réf. la note M44_ALUMINIUM_PECHINEY à Gardanne portant sur les mesures d'urgence à mettre en œuvre en cas de pic de pollution à l'ozone
+    
+
+     Préfet de la région Provence-Alpes-Côte d'Azur,
+    
+
+     Préfet des Bouches-du-Rhône, Officier de la Légion d'Honneur, Vu le code de l'environnement notamment son article L.130-2, Vu le code de la santé publique, Vu le décret
+    
+
+     n° 97-825 du 22 juillet 1997 relatif à l'organisation de la protection de la forêt contre les incendies et à la prévention des dommages causés par les feux de forêt, Vu la loi
+    
+
+     n° 95-101 du 2 février 1995 relative au renforcement de la protection de l'environnement, Vu le décret
+    
+
+     n° 98-880 du 16 juin 1998 relatif à la surveillance de la qualité de l'air, des eaux et des sols, et à la protection de l'environnement contre les risques et les pollutions, Vu le décret
+    
+
+     n° 2002-196 du 13 février 2002 relatif à la surveillance de la qualité de l'air, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 77-1133 du 21 septembre 1977 pris en application de la loi
+    
+
+     n° 76-683 du 19 juillet 1976 relative à la lutte contre les pollutions atmosphériques, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11,
+    
+
+
+     Préfet des Bouches-du-Rhône, Officier de la Légion d'Honneur, Vu le code de l'environnement notamment son article L.130-2, Vu le code de la santé publique, Vu le décret
+    
+
+     n° 95-101 du 2 février 1995 relative au renforcement de la protection de l'environnement, Vu le décret
+    
+
+     n° 98-880 du 16 juin 1998 relatif à la surveillance de la qualité de l'air, des eaux et des sols, et à la protection de l'environnement contre les risques et les pollutions, Vu le décret
+    
+
+     n° 2002-196 du 13 février 2002 relatif à la surveillance de la qualité de l'air, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 76-683 du 19 juillet 1976 relative à la lutte contre les pollutions atmosphériques, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     n° 99-681 du 16 juin 1999 portant création de l'établissement public Métropole-Nice, et notamment son article 11, Vu le décret
+    
+
+     Le présent décret de la société **ALUMINIUM PECHINEY** est pris en vue de mettre en œuvre - dans le fonctionnement de son Usine de Gardanne BP 82 13120 GARDAISNE - des mesures d'urgence lancées les mois d'avril, mai, juin et juillet 2003.
+    
+
+     En application du décret n°2003-1085 du 12 novembre 2003, les mesures d'urgence dans les départements sont conformes, selon les seules sources :
+     
+
+
+
+         Revue 1 : Constat ou risque de dépassement du seuil de 240 µg/m³/h
+        
+
+         Limite : Constat à J de 180 µg/m³/h et prévision d'aggravation de la situation.
+        
+
+
+
+
+
+         Revue 2 : Constat ou risque de dépassement du seuil de 240 µg/m³/h
+        
+
+         Limite : Constat à J de 240 µg/m³/h et prévision d'aggravation de la situation.
+        
+
+
+
+         Revue 3 : Constat ou risque de dépassement du seuil de 360 µg/m³/h
+        
+
+         Limite : Constat à J de 360 µg/m³/h et prévision d'aggravation de la situation.
+        
+
+
+
+         Revue 4 : Constat ou risque de dépassement du seuil de 360 µg/m³/h
+        
+
+         Limite : Constat à J de 360 µg/m³/h et prévision d'aggravation de la situation.
+        
+
+
+
+
+
+     L'exploitant devra en outre se conformer aux dispositions a) du titre II, titre II du Code du 'Travail sur l'Hygiène et la sécurité des travailleurs. b) du titre III, titre III du Code du 'Travail sur l'Hygiène et la sécurité des travailleurs. c) du décret du 14 novembre 1988 sur la protection des travailleurs dans les établissements qu'il met en œuvre.
+    
+
+
+     PRÉFECTURE DES BOUCHES DU RHONE
+    
+
+     DIRECTION DES COLLECTIVITES LOCALES ET D'URGENCE DE VIE
+    
+
+     BUREAU DE L'ENVIRONNEMENT Marseille, le 7 novembre 2005 Objet : Arrêté IMPOSANT DES PRESCRIPTIONS COMPLEMENTAIRES RELATIVES À LA REDUCTION DES EMISSIONS DE SO2 ET NOx À LA SOCIETE ALUMINIUM PECHINEY A GARDANNE LE
+    
+
+     PREFET DE LA REGION PROVENCE ALPES COTE D'AZUR
+    
+
+     PREFET DES BOUCHES DU RHONE OFFICIER DE LA LEGION D'HONNEUR VU la directive 2001/81/CE du Parlement Européen et du Conseil du 23 octobre 2001 fixant des plafonds d'émissions nationales pour certains polluants atmosphériques ; VU la directive 2000/68/CE du Parlement Européen et du Conseil du 23 octobre 2000 relative à la limitation des émissions de certains polluants dans l'atmosphère provenant des grandes installations fixes ; VU la directive
+    
+
+     n° 96/61/CE du Conseil du 24 septembre 1996 relative à la prévention et à la réduction intégrée de la pollution ; VU le Code de l'Environnement et notamment le titre Ier de son Livre V ; VU la loi
+    
+
+     n° 95-1259 du 30 décembre 1996 sur l'air et la lutte contre les pollutions atmosphériques ; VU l'arrêté du 7-11-1993 du 21 septembre 1977 modifié relatif aux
+    
+
+     Installations Classées pour la Protection de l'Environnement, et notamment son article 18 ; VU le décret
+    
+
+     n° 88-360 du 6 mai 1988 relatif à la surveillance de la qualité de l'air et de ses effets sur la santé et sur l'environnement, aux objectifs de qualité de l'air, aux mesures d'alerte et aux valeurs limites ; VU la loi
+    
+
+     n° 96-143 du 21 février 1996 relative à la protection de l'atmosphère et aux mesures contre les pollutions de l'air ; VU l'arrêté ministériel du 1er juillet 2001 fixant les objectifs de réduction des émissions de polluants atmosphériques en vue de respecter en 2010 les plafonds fixés par la directive 2001/81/CE pour les émissions de quatre polluants atmosphériques, B.O.
+    
+
+     n° 30 du 17 juillet 2001 ; VU l'arrêté ministériel du 1er juillet 2004 fixant au bilan de l'environnement prévu par l'article 17-2 du décret
+    
+
+     n° 77-1133 du 21 septembre 1977 modifié ; VU le Plan Régional pour la qualité de l'air à la région PROVENCE ALPES COTE D'AZUR du 11 mai 2000 ; VU l'arrêté p
+    
+
+     réfectoral
+    
+
+     n° 2003-3219-2002 A du 12 mars 2002 demandant à la société ALUMINIUM PECHINEY la réalisation d'un étude technique-économique visant à réduire les émissions de NOx ; VU la demande de la société PECHINEY de l'autorisation d'exploiter ses installations techniques applicables à ses émissions atmosphériques ; VU le rapport du tiers expert sur la performance des conclusions de cet audit en date du 31 mai 2005 B.J.M.Payral - 1326 MARSEILLE LE 6 mai 2005 VU le compte-rendu de la réunion du groupe de travail BPPP/PACA du 17 mai 2005 VU le rapport du Directeur Régional de l'Industrie, de la Recherche et de l'Environnement du 1er septembre 2005 VU l'avis du Conseil Départemental d'Igiene du 22 septembre 2005 CONSIDERANT les engagements internationaux de la France en matière de réduction des polluants atmosphériques ; CONSIDERANT que les résultats atmosphériques en particulier ceux du dioxyde de soufre ont un impact sur la santé et l'environnement ; CONSIDERANT que les émissions de dioxyde d'azote (NOx) sont des polluants particulièrement d'azote ; CONSIDERANT la nécessité de réduire les émissions de polluants atmosphériques pour améliorer la protection de la santé humaine et de l'environnement et de promouvoir le développement durable ; CONSIDERANT que la protection de l'environnement est un objectif de développement durable et que la réduction des émissions de polluants atmosphériques est un moyen d'atteindre cet objectif ; CONSIDERANT le projet de plan de protection de l'atmosphère du bassin d'Allevard ; CONSIDERANT que les conclusions des études techno-économiques réalisées par les laboratoires de l'INERIS et de l'IFPEN montrent une évidence de réduction des émissions de polluants atmosphériques ; CONSIDERANT que le projet de plan de protection de l'atmosphère du bassin d'Allevard prévoit en particulier la mise en place d'un programme de surveillance des émissions de polluants atmosphériques ; CONSIDERANT qu'il est apparu nécessaire de mesurer les quantités de NOx émises en mettant en place des appareils de contrôle adaptés.
+    
+
+
+     Installations Classées pour la Protection de l'Environnement, et notamment son article 18 ; VU le décret
+    
+
+     n° 30 du 17 juillet 2001 ; VU l'arrêté ministériel du 1er juillet 2004 fixant au bilan de l'environnement prévu par l'article 17-2 du décret
+    
+
+     L'exploitant devra en outre se conformer aux dispositions : a) du titre II, titre III du Code du Travail sur l'hygiène et la sécurité des travailleurs, b) du décret du 1er juillet 1975 sur les mesures générales de protection et de sécurité applicables dans les établissements industriels ou commerciaux, c) du décret du 22 octobre 1996 sur la protection des travailleurs dans les établissements qui mettent en œuvre des courants électriques.
+    
+
+
+     PREFECTURE DES BOUCHES-DU-RHONE
+    
+
+     DIRECTION DES COLLECTIVITES LOCALES ET DU CADRE DE VIE
+    
+
+     BUREAU DE L'ENVIRONNEMENT
+    
+
+     Dossier suivi par : MARGUIMBEAU Adresse électronique : marguimbau@bouches-du-rhone.p
+    
+
+     ref.gouv.fr
+    
+
+     n° 100-2006 A À RETE RELATIF A LA SOCIETE ALCAN ALUMINIUM PECHINEY PORTANT PRESCRIPTIONS ADDITIONNELLES pour application de la circulaire ministérielle du 13 juillet 2004 relative aux
+    
+
+     installations classées pour la protection de l'environnement et à la maîtrise et la réduction des émissions atmosphériques toxiques pour la santé concernant son établissement de Gardanne LE
+    
+
+     PREFET DE LA REGION PROVENCE ALPES COTE D'AZUR
+    
+
+     PREFET DES BOUCHES DU RHONE Vu le Code de l'Environnement et notamment son titre 1er du Livre V. Vu le décret
+    
+
+     n° 77-1133 du 21 septembre 1977 modifié relatif aux
+    
+
+     Installations Classées pour la Protection de l'Environnement, et notamment son article 18. Vu la circulaire ministérielle
+    
+
+     n° 04-217 du 13 juillet 2004 relative aux
+    
+
+     installations classées pour la protection de l'environnement et à la maîtrise et la réduction des émissions atmosphériques toxiques pour la santé. Vu les arrêtés antérieurs délivrés à la Société ALCAN ALUMINIUM PECHINEY. Vu le rapport du Directeur Régional de l'Industrie, de la Recherche et de l'Environnement. Inspecteur des installations classées du 29 mai 2006. Vu l'avis du Conseil Départemental d'Hygiène du 29 juin 2006. Considérant qu'un des trois objectifs majeurs de la circulaire ministérielle
+    
+
+     n° 04-217 du 13 juillet 2004, est de réduire les émissions aériennes de substances toxiques d'origine industrielle. Considérant qu'en application de la circulaire susvisée, un arrêté p
+    
+
+     réfectoral doit être pris afin d'imposer à la Société ALCAN ALUMINIUM PECHINEY des dispositions permettant - d'améliorer la surveillance et la connaissance des émissions atmosphériques, - de réaliser à l'échéance de 2010 des actions de réduction particulières contribuant à la réalisation des objectifs globaux de réduction des émissions, - de mettre en œuvre un programme de surveillance dans l'environnement. Considérant que l'article 18 du décret du 21 septembre 1977 permet de fixer des prescriptions additionnelles que la protection des intérêts visés à l'article L.511-1 du Code de l'Environnement rend nécessaire,
+    
+
+
+     PREFET DES BOUCHES DU RHONE Vu le Code de l'Environnement et notamment son titre 1er du Livre V. Vu le décret
+    
+
+     réfectoral doit être pris afin d'imposer à la Société ALCAN ALUMINIUM PECHINEY des dispositions permettant - d'améliorer la surveillance et la connaissance des émissions atmosphériques, - de réaliser à l'échéance de 2010 des actions de réduction particulières contribuant à la réalisation des objectifs globaux de réduction des émissions, - de mettre en œuvre un programme de surveillance dans l'environnement. Considérant que l'article 18 du décret du 21 septembre 1977 permet de fixer des prescriptions additionnelles que la protection des intérêts visés à l'article L.511-1 du Code de l'Environnement rend nécessaire,
+    
+
+
+
+       Le Secrétaire Général de la Préfecture des BOUCHES-DU-RHONE.
+      
+
+       Le Sous-Préfet d'AIX EN PROVENCE.
+      
+
+       Le Maire de GARDANNE.
+      
+
+       Le Chef du Service Interministériel Régional des Affaires Civiles et Economiques de Défense et de la Protection Civile.
+      
+
+       Le Directeur Régional de l'Industrie, de la Recherche et de l'Environnement.
+      
+
+       Le Directeur Régional de l'Environnement.
+      
+
+       Le Directeur Départemental du Travail de l'Emploi et de la Formation Professionnelle.
+      
+
+       Le Directeur Départemental des Affaires Sanitaires et Sociales.
+      
+
+       Le Directeur Départemental de l'Agriculture et de la Forêt.
+      
+
+       Le Directeur Départemental de l'Équipement.
+      
+
+       Le Directeur Départemental des Services d'Incendie et de Secours, et toutes autorités de Police et de Gendarmerie, sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, dont un avis sera publié et un extrait affiché conformément aux dispositions de l'Article 21 du décret n° 77-1133 du 21 septembre 1977 modifié.
+      
+
+
+
+    Vu le décret n° 77-1133 du 21 septembre 1977 modifié, et notamment son article 18,
+   
+
+     Le Directeur Départemental des Services d'Incendie et de Secours, et toutes autorités de Police et de Gendarmerie, sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, dont un avis sera publié et un extrait affiché conformément aux dispositions de l'article 21 du décret n° 77-1133 du 21 Septembre 1977 modifié.
+    
+
+    Vu l'arrêté ministériel du 20 avril 2005 modifié pris en application du décret du 20 avril 2005 relatif au programme national d'action contre la pollution des milieux aquatiques par certaines substances dangereuses ;
+   
+
+     L'exploitant devra en outre se conformer aux dispositions : a) du Code du Travail et notamment à la quatrième partie sur la santé et la sécurité au travail ; b) du décret du 14 novembre 1988 sur la protection des travailleurs dans les établissements qui mettent en œuvre des courants électriques.
+    
+
+    Vu le décret n° 2012-507 du 18 avril 2012 modifié créant le Parc national des Calanques, notamment ses articles 3 et 22, ensemble la charte du Parc national des Calanques ;
+   
+
+    Vu l’arrêté ministériel du 29 juillet 2005 modifié fixant le formulae du bordereau de suivi des déchets dangereux mentionné à l’article 4 du décret n°2005-635 du 30 mai 2005 ; de l'environnement relatif à l'exécution de travaux de terrassement à proximité de certaines installations soumise à autorisation ;
+   
+
+    Considérant qu'une modification du statut juridique du milieu récepteur est intervenue avec le décret du 18 avril 2012 susvisé portant création du Parc national des Calanques ; que l'émission des rejets de l'usine de Gardanne se trouve depuis cette date dans le cœur marin de ce parc national, caractérisé par sa valeur patrimoniale exceptionnelle en matière de biodiversité et de paysage, notamment sur le canyon de la Cassis/la Ciotat ; que, en application des articles 3 et 22 de ce même décret, les rejets de boues rouges ne sont plus autorisés à partir du 1er janvier 2016 ;
+   
+
+       La canalisation terrestre fait l’objet d’une DUP prise par décret du 4 janvier 1966, au nom de la compagnie de produits chimiques et électrométallurgiques Péchiney.
+      
+
+       Sans préjudice de la législation et de la réglementation en vigueur, sont notamment applicables à l'établissement les prescriptions qui de concert des textes cités ci-dessous (liste non exhaustive, évolutive, indicative à la date de la signature du présent article) :
+       
+
+         Arrêté du 23/01/1997 relatif à la limitation des bruits émis dans l'environnement par les installations classées pour la protection de l'environnement
+        
+
+         Arrêté du 02/02/1998 relatif aux prélèvements et à la consommation d'eau ainsi qu'aux émissions de toute nature des installations classées pour la protection de l'environnement soumises à autorisation
+        
+
+         Arrêté du 29/07/2005 modifiant fixant le formuaire du bordereau de suivi des déchets dangereux mentionné à l'article 4 du décret n°2005-635 du 30 mai 2005-Arrêté du 23/01/97 relatif à la limitation des bruits émis dans l'environnement par les installations classées pour la protection de l'environnement ;
+        
+
+         Arrêté du 31/01/2008 modifié relatif au registre et à la déclaration annuelle des émissions et des transferts de polluants et des déchets ;
+        
+
+         Arrêté du 18/04/2008 relatif aux réservoirs enterrés de liquides inflammables ou combustibles et à leurs équipements annexes exploités au sein d'une installation classée soumise à autorisation, à engagement ou à déclaration au titre de l'une ou plusieurs des rubriques nos 1436, 4330, 4331, 4722, 4734, 4742, 4743, 4744, 4746, 4747 ou 4748, ou pour le périmètre brut au titre de l'une ou plusieurs des rubriques nos 4510 ou 4511 de la nomenclature des installations classées pour la protection de l'environnement
+        
+
+         Arrêté du 15/12/2009 modifiant fixant certains seuils et critères mentionnés aux articles R. 512-33, R. 512-46-23 et R. 512-54 du code de l'environnement
+        
+
+         Arrêté du 7/07/2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence ;
+        
+
+         Arrêté du 11/03/2010 portant modalités d'agrément des laboratoires ou des organismes pour certains types de prélèvements et d'analyses à l'émission des substances dans l'atmosphère ;
+        
+
+         Arrêté du 3/10/2010 modifié relatif au stockage en réservoirs aériens manufacturés exploités au sein d'une installation classée soumise à autorisation au titre de l'une ou plusieurs des rubriques nos 1436, 4330, 4331, 4722, 4734, 4742, 4743, 4744, 4746, 4747 ou 4748, ou pour le périmètre brut au titre de l'une ou plusieurs des rubriques nos 4510 ou 4511 de la législation des installations classées pour la protection de l'environnement
+        
+
+         Arrêté du 04/10/2010 modifié relatif à la prévention des risques accidentels au sein des installations classées pour la protection de l'environnement soumises à autorisation
+        
+
+
+
+      L'implantation et le fonctionnement de l'installation est compatible avec les objectifs de qualité et de quantité des eaux visés au IV de l'article L. 212-1 et au 3° de l'article L. 219-9 du code de l'environnement. Ils respectent les dispositions du schéma directeur d'aménagement et de gestion des eaux et du schéma d'aménagement et de gestion des eaux s'il existe, ainsi que les dispositions du plan d'action pour le milieu marin (directive-cadre stratégie pour le milieu marin - articles L. 219-9 et suivants du code de l'environnement), la Directive Cadre Eau ainsi que du décret modifié du 18 avril 2012 portant création du parc national des Calanques et de sa charte approuvée.
+     
+
+       Dans les parties de l'installation mentionnées à l'article 1.1.1 et recensées comme pouvant être à l'origine d'une explosion, les installations électriques, mécaniques, hydrauliques et pneumatiques sont conformes aux dispositions du décret du 19 novembre 1996 modifié, relatif aux appareils et aux systèmes de protection destinés à être utilisés en atmosphère explosive.
+      
+
+    Vu le décret n° 2012-507 du 18 avril 2012 modifié créant le Parc national des Calanques, notamment ses articles 3 et 22, ensemble la charte du Parc national des Calanques,
+   
+
+    Vu l'arrêté ministériel du 29 juillet 2005 modifiant fixant le formulatoire du bordereau de suivi des déchets dangereux mentionné à l'article 4 du décret n°2005-635 du 30 mai 2005,
+   
+
+    Vu le décret n° 2012-597 du 18 avril 2012 modifiant le Parc national des Calanques, notamment ses articles 3 et 22, ensemble la charte du Parc national des Calanques,
+   
+
+    Vu le décret n°2020-260 du 16 mars 2020 portant réglementation des déplacements dans le cadre de la lutte contre la propagation du virus covid-19 ;
+   
+
+    Vu le décret n°2020-383 du 1er avril 2020 portant dérogation au principe de suspension des délais pendant la période d’urgence sanitaire liée à l’épidémie de covid-19 ;
+   
+
+    VU l’arrêté ministériel du 13 février 2002 fixant les prescriptions générales applicables aux installations, ouvrages, travaux et activités soumis à déclaration en application des articles L.214-1 à L.214-3 du code de l’environnement et relevant de la rubrique 5.2.2.0 (2°) de la nomenclature annexée au décret n°93-743 du 29 mars 1993 modifié ;
+   
+
+    VU l’arrêté ministériel du 11 septembre 2003 portant application du décret n°96-102 du 2 février 1996 et fixant les prescriptions générales applicables aux sondages, forages, création de puits ou d’ouvrage souterrain soumis à déclaration en application des articles L.214-1 à L.214-3 du code de l’environnement et relevant de la rubrique 1.1.1.0 de la nomenclature annexée au décret n°93-743 du 29 mars 1993 modifié ;
+   
+
+    VU l’arrêté ministériel du 11 septembre 2003 portant application du décret n°96-102 du 2 février 1996 et fixant les prescriptions générales applicables aux prélèvements soumis à déclaration en application des articles L.214-1 à L.214-3 du code de l’environnement et relevant des rubriques 1.1.2.0, 1.2.1.0, 1.2.2.0 ou 1.3.1.0 de la nomenclature annexée au décret n°93-743 du 29 mars 1993 modifié ;
+   
+
+    VU le décret n° 77-1133 du 21 septembre 1977 modifié pris pour l'application de la loi du 19 juillet 1976 précitée ;
+   
+
+    VU le décret n° 53-578 du 20 mai 1953 modifiant la nomenclature des installations classées ;
+   
+
+     Tout projet de modification des installations, de leur mode d'utilisation ou de leur voisinage de nature à entraîner un changement notable de la situation existante doit être porté, avant sa réalisation, à la connaissance du préfet avec tous les éléments d'appréciation conformément à l'article 20 du décret n° 77.1133 du 21 septembre 1977 modifié.
+    
+
+     Au moins un mois avant l'arrêt définitif de ses installations, l'exploitant doit adresser une notification au préfet du département, conformément au décret n° 77.1133 du 21 septembre 1977 modifié (article 34.1). Elle doit préciser les mesures prises ou prévues pour assurer la protection de l'environnement (c'est-à-dire des intérêts visés à l'article 1er de la loi du 19 juillet 1976 modifiée), notamment en ce qui concerne :
+     
+
+       l'élimination des produits dangereux et des déchets présents sur le site,
+      
+
+       la dépollution des sols et des eaux souillés éventuellement pollués,
+      
+
+       la protection des installations pouvant présenter des risques d'accidents (puits, citerne, etc.),
+      
+
+       la surveillance à posteriori de l'impact de l'installation sur son environnement.
+      
+
+
+
+     4.4.1- Définitions:
+     Sont considérés comme déchets d'activités de soins et, à ce titre, admis à l'incinération conformément à l'arrêté du 23 août 1989, les déchets définis à l'article R 44-1 du code de la santé publique (décret n° 97-1049 du 6 novembre 1997), l'ensemble de ces déchets étant admis à raison de 10 % en mélange avec les ordures ménagères au niveau des fours d'incinération.
+    
+
+     Les entreprises chargées du transport des déchets doivent avoir satisfait aux dispositions du décret n° 98-679 du 30 juillet 1998 relatif au transport des déchets par la route.
+    
+
+     Sans préjuger des dispositions du décret du 24 septembre 1992 relatif à la limitation ou à la suspension provisoire des usages de l'eau, les prélèvements d'eau sont faits à partir de :
+     
+
+
+
+         ORIGINE DE L'EAU
+        
+
+         N° DU POINT DE PRÉLÈVEMENT
+        
+
+
+
+
+
+         Réseau d'adduction d'eau public
+        
+
+         1
+        
+
+
+
+
+
+     En cas de raccordement à un réseau public, l'ouvrage doit être équipé d'un clapet anti-retour, d'un dispositif de déconnexion ou de tout autre dispositif équivalent en accord avec les dispositions du service gestionnaire et des services de la DDASS. Ce dispositif devra notamment satisfaire aux dispositions du décret n° 89-3 du 3 janvier 1989 modifié relatif aux eaux destinées à l'alimentation humaine à l'exclusion des eaux minérales naturelles.
+    
+
+     Les seuls modes d'élimination autorisés pour les déchets d'emballage sont la valorisation par réemploi, recyclage ou tout autre action visant à obtenir des matières utilisables ou de l'énergie dans les installations dûment prévues à cet effet. Cette obligation n'est pas applicable aux déchets d'emballage qui en prédisant un volume hebdomadaire inférieur à 1100 litres et qui les remettent au service de collecte et de traitement des communes (décret n° 94-609 du 13 juillet 1994).
+    
+
+     En particulier, pour les zones I, elles doivent répondre aux dispositions du décret n° 78-779 du 17 juillet 1978 et de ses textes d'application et pour les zones II, elles doivent, soit répondre aux mêmes dispositions, soit être constituées de matériaux de bonne qualité industrielle qui, en service normal, n'engendrent ni arc, ni étincelle, ni surface chaude susceptible de provoquer une explosion.
+    
+
+    VU le décret n° 77-1133 du 21 septembre 1977 modifié pris pour l’application de la loi du 19 juillet 1976 codifiée au titre V livre 1° du code de l’Environnement précité et notamment son article 18 ;
+   
+
+    VU le décret n° 53-578 du 20 mai 1953 modifiant fixant la nomenclature des installations classées ;
+   
+
+     Les installations respectent également les dispositions propres :
+     
+
+       aux zones de protection spéciales qui démontrent applicables en application de l'article 18 du décret du 25 mai 2001 relatif aux plans de protection de l'atmosphère et aux mesures pouvant être mises en œuvre pour réduire les émissions des sources de pollution atmosphériques ;
+      
+
+       aux arrêtés pris en application des plans de protection de l'atmosphère élaborés en application de l'article L.2222-4 du code de l'environnement.
+      
+
+
+
+     Les valeurs limites d'émission à l'atmosphère sont compatibles avec les valeurs limites de concentration du même polluant telles que fixées par le décret du 6 mai 1998 modifié relatif à la surveillance de la qualité de l'air et des effets sur la santé et sur l'environnement, aux objectifs de qualité de l'air, aux seuils d'alerte et aux valeurs limites.
+    
+
+      Conformément au décret n° 93-1410 du 29 décembre 1993 fixant les modalités d'exercice du droit à l'information en matière de déchets prévues à l'article 34-1 de la loi du 19 juillet 1975, l'exploitant adresse chaque année au préfet du département et au maire de la commune d'implantation de son installation un dossier comprenant les documents prévus à l'article 2 du décret précité.
+     
+
+     Les dispositions de l'article 2.6 de l'arrêté n° 99-4156 du 21 décembre 1999 sont remplacées par les prescriptions suivantes :
+     Conformément à l'article 34-1 du décret n° 77-1133 du 21 septembre 1977 susvisé, l'exploitant adresse au préfet, au moins un mois avant la date à laquelle il estime l'exploitation terminée, un dossier comprenant :
+     
+
+       un plan à jour du site ;
+      
+
+       un mémoire sur les mesures prises pour assurer la protection des intérêts visés à l'article L.511-1 du code de l'environnement ;
+      
+
+       une description de l'insertion du site dans le paysage et son environnement ;
+      
+
+       une description des mesures prises ou prévues pour l'évacuation ou l'élimination des déchets présents sur le site ;
+      
+
+       une étude sur l'usage ultérieur qui peut être fait du site, notamment en termes d'utilisation du sol et du sous-sol ;
+      
+
+       une description du démantèlement des installations ou de leur nouvelle utilisation ;
+      
+
+       en cas de besoin, le survenance qui doit encore être exercé sur le site.
+      
+
+
+
+    Vu le décret du 3 mai 2012 relatif à l'obligation de constituer des garanties financières en vue de la mise en sécurité de certaines installations classées pour la protection de l'environnement ;
+   
+
+       Dans les parties de l’installation mentionnées à l’article 7.1.2 et recevant comme pouvant être à l’origine d’une explosion, les installations électriques, mécaniques, hydrauliques et pneumatiques sont conformes aux dispositions du décret du 19 novembre 1996 relatif aux appareils et aux systèmes de protection destinés à être utilisés en atmosphère explosive.
+      
+
+    Vu le décret n° 2020-293 du 23 mars 2020 prescrivant les mesures générales nécessaires pour faire face à l'épidémie de covid-19 dans le cadre de l'état d'urgence sanitaire ;
+   
+
+    Vu le décret du 5 février 2020 portant nomination de M. Stanislas CAZELLES en qualité de préfet de la région Martinique, préfet de la Martinique ;
+   
+
+    CONSIDÉRANT les impacts de l'épidémie de covid-19 en Martinique, et notamment les conséquences et difficultés qu'a pu rencontrer le déchetterie en œuvre des mesures prévues par décret n°2020-293 susvisé dans le cadre de l'état d'urgence sanitaire pour la collecte sélective des déchets recyclables et valorisables auprès des ménages et des entreprises, leur tri et leur transport vers les installations de valorisation situées en Martinique ou hors du territoire martiniquais, en particulier pour les cartons et les emballages en général ;
+   
+
+    Vu le décret du 5 février 2020 portant nomination de M. Stanislas CAZELLES en qualité de préfet de la région Martinique, préfet de la Martinique ;
+   
+
+    Vu le décret du 5 février 2020 portant nomination du préfet de la région Martinique, préfet de la Martinique - M. CAZELLES (Stanislas) ;
+   
+
+    Vu le décret du 29 juillet 2022 portant nomination du préfet de la région Martinique, préfet de la Martinique - M. BOULVIER (Jean-Christophe) ;
+   
+
+    Vu le décret du 29 juillet 2022 portant nomination du préfet de la région Martinique, préfet de la Martinique - M. BOUVIER (Jean-Christophe) ;
+   
